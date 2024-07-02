@@ -1,0 +1,3004 @@
+index,processed_relations,output_tokens,entities_not_from_list
+0,"Jon Montgomery | member of | Canadian skeleton team
+Duff Gibson | member of | Canadian skeleton team
+13 March 1963 | birthdate | Wilfried "" Willi "" Schneider
+Canada | location | Vancouver
+Mediaș | location | Transylvania
+Melissa Hollingsworth | member of | Canadian skeleton team
+Jeff Pain | member of | Canadian skeleton team
+British Columbia | location | Canada
+Vancouver | location | Canada
+2006 Winter Olympics | location | Turin
+2002 Winter Olympics | location | Salt Lake City
+Wilfried "" Willi "" Schneider | nationality | German
+2010 Winter Olympics | location | Vancouver
+Transylvania | location | Germany",197.0,4
+1,,512.0,1
+2,"Jeff Healey | birthday | 2008
+Jeff Healey | album | Mess of Blues
+Jeff Healey | released | Mess of Blues
+Jeff Healey | died | 2008",512.0,2
+3,"The Woody Woodpecker Song | song | Ramey Idriss
+5 February 1971 | date of death | Ramey Idriss
+Take a Letter Miss Smith | song | Ramey Idriss
+I 'll Wait | song | Ramey Idriss
+Los Angeles Community College | educational institution | Ramey Idriss
+11 September 1911 | date of birth | Ramey Idriss
+The 1960s | decade | George Tibbles
+Leave It to Joan | song | Ramey Idriss
+Worry Worry Worry | song | Ramey Idriss
+The Old Chaperone | song | Ramey Idriss
+George Tibbles | co-writer | Ramey Idriss
+ASCAP | music organization | Ramey Idriss
+Something Old Something New | song | Ramey Idriss
+My Three Sons | television series | George Tibbles",260.0,0
+4,"Cuba | located in the administrative territorial entity | Latin America
+Cuba | country | Latin America
+Latin America | contains administrative territorial entity | Cuba",512.0,1
+5,"Paul Robeson | performer | 1936
+Paul Robeson | performer | London
+Paul Robeson | performer | England
+Paul Robeson | performer | Elder Wills
+Paul Robeson | performer | Zinga
+Paul Robeson | performer | Sanders of the River
+Paul Robeson | performer | Ghana
+Paul Robeson | performer | Kwame Nkrumah
+Paul Robeson | performer | Convention People's Party
+Paul Robeson | performer | Song of Freedom",512.0,0
+6,"Capistrano Films | located in the administrative territorial entity | Michigan
+Capistrano Films | located in the administrative territorial entity | Los Angeles
+Capistrano Films | located in the administrative territorial entity | Detroit",512.0,1
+7,"Turkish | country | Turkey
+Roketsan | located in the administrative territorial entity | Ankara
+Roketsan | country | Turkey
+Ankara | country | Turkey",512.0,1
+8,"Sacramento Bee | circulation area | upper Sacramento Valley
+Sacramento Bee | mascot year | 1943
+Sacramento Bee | mascot popularity | nationwide
+Sacramento Bee | distribution area | south to Stockton, California, north to the Oregon border, east to Reno, Nevada, and west to the San Francisco Bay Area
+Sacramento Bee | mascot | Scoopy Bee
+Sacramento Bee | circulation | largest newspaper in Sacramento, fifth largest newspaper in California, 27th largest newspaper in the U.S.
+Sacramento Bee | mascot image popularity | nationwide
+Sacramento Bee | mascot image purpose | advertising
+Sacramento Bee | mascot color | yellow
+Sacramento Bee | mascot type | cartoon character
+Sacramento Bee | mascot image type | cartoon character
+Sacramento Bee | mascot image origin | Walt Disney
+Sacramento Bee | mascot image symbol | cartoon character
+Sacramento Bee | mascot recognition | all three Bee newspapers (Sacramento, Modesto, and Fresno)
+Sacramento Bee | mascot image year | 1943
+Sacramento Bee | mascot creator | Walt Disney
+Sacramento Bee | publisher | McClatchy Company
+Sacramento Bee | mascot origin | Walt Disney
+Sacramento Bee | mascot image creator | Walt Disney
+Sacramento Bee | mascot image | cartoon character
+Sacramento Bee | mascot name | Scoopy Bee
+Sacramento Bee | mascot purpose | advertising
+Sacramento Bee | mascot image recognition | all three Bee newspapers (Sacramento, Modesto, and Fresno)
+Sacramento Bee | mascot image color | yellow
+Sacramento Bee | location | Sacramento, California
+Sacramento Bee | mascot symbol | cartoon character",512.0,0
+9,"Cambodia | capital city | Phnom Penh
+Cambodia | country | Vietnam",512.0,1
+10,,512.0,0
+11,"Mola di Bari | located in the administrative territorial entity | Adriatic Sea
+Mola di Bari | located in the administrative territorial entity | Southern Italy
+Mola di Bari | located in the administrative territorial entity | Piazza
+Mola di Bari | located in the administrative territorial entity | Piazza XX Settembre
+Mola di Bari | located in the administrative territorial entity | Metropolitan City of Bari
+Mola di Bari | located in the administrative territorial entity | Barese",512.0,0
+12,"Western Avenue | located in the administrative territorial entity | New York
+Guilderland | located in the administrative territorial entity | New York
+Albany County | located in the administrative territorial entity | New York
+Westmere | located in the administrative territorial entity | Albany County
+U.S. Route 20 | located in the administrative territorial entity | New York
+Capital District | located in the administrative territorial entity | New York
+CDP | defined by the census | Westmere
+Westmere | location | Albany County
+Westmere | location | Capital District
+Westmere | location | Albany County, New York
+Westmere | location | Albany
+Westmere | location | New York",512.0,2
+13,"DePaul University School of Law | located in the administrative territorial entity | Illinois
+Edward Rowan Finnegan | born in the administrative territorial entity | Chicago
+Edward Rowan Finnegan | died in the administrative territorial entity | Chicago
+Cook County | located in the administrative territorial entity | Illinois
+Cook County | contains administrative territorial entity | Illinois",512.0,1
+14,"Garraf | located in the administrative territorial entity | Catalonia
+La Llacuna | located in the administrative territorial entity | Catalonia
+Anoia | located in the administrative territorial entity | Catalonia
+Barcelona | located in the administrative territorial entity | Spain
+1928 | year | Spain
+Mediterranean Sea | basin country | Spain
+Comarca | administrative territorial entity | Catalonia
+Alt Penedès | located in the administrative territorial entity | Catalonia
+″Camping Paradiso″ | located in the administrative territorial entity | Garraf
+Catalonia | located in the administrative territorial entity | Spain
+Foix | located in the administrative territorial entity | Catalonia
+Tarragona | located in the administrative territorial entity | Catalonia",187.0,1
+15,,512.0,24
+16,Norway | country | Henrik August Angell,512.0,1
+17,"Johns Hopkins Carey Business School | contains administrative territorial entity | Johns Hopkins University
+Johns Hopkins Carey Business School | country | America
+Johns Hopkins Carey Business School | located in the administrative territorial entity | Baltimore",512.0,1
+18,"29 May 1918 | date of death | Lehmann Bernheimer
+Otto Bernheimer | son of Lehmann Bernheimer | Lehmann Bernheimer
+1918 | year of death | Lehmann Bernheimer
+Meier Bernheimer | father of Lehmann Bernheimer | Lehmann Bernheimer
+Lehmann Bernheimer | person | Lehmann Bernheimer
+Württemberg | location | Germany
+Buttenhausen | location | Germany
+Bernheimer - Haus | location | Munich
+1801 | year of birth | Meier Bernheimer
+27 December 1841 | date of birth | Lehmann Bernheimer
+Münsingen | location | Germany
+1870 | year of death | Meier Bernheimer
+1881 | year of birth | Lehmann Bernheimer
+German | nationality | Lehmann Bernheimer
+Munich | location | Germany",284.0,2
+19,"The Magnetic Zeros | band that performed on Railroad Revival Tour | Railroad Revival Tour
+2012 | year of cancellation of Railroad Revival Tour | Railroad Revival Tour
+Railroad Revival Tour | annual music tour | American Southwest
+Grammy Award | award won by Big Easy Express | Railroad Revival Tour
+U.S. | location of Railroad Revival Tour | American Southwest
+This Train | song performed by Railroad Revival Tour bands | Railroad Revival Tour
+2011 | year of first Railroad Revival Tour | Railroad Revival Tour
+Old Crow Medicine Show | band that performed on Railroad Revival Tour | Railroad Revival Tour
+SXSW | location of premiere of Big Easy Express | Railroad Revival Tour
+iTunes | platform for availability of Big Easy Express | Railroad Revival Tour
+Mumford & Sons | band that performed on Railroad Revival Tour | Railroad Revival Tour
+American Southwest | location of Railroad Revival Tour | U.S.
+American | location of Railroad Revival Tour | U.S.
+Big Easy Express | documentary of first year of Railroad Revival Tour | Railroad Revival Tour
+Emmett Malloy | director of Big Easy Express | Railroad Revival Tour",312.0,4
+20,"Australia | contains administrative territorial entity | Australia
+Australia | located in the administrative territorial entity | Australia
+Australia | country | Australia",512.0,1
+21,"Bahir Dar | located in the administrative territorial entity | Ethiopia
+Ethiopian Amhara Region | located in the administrative territorial entity | Ethiopia
+Debub Wollo | located in the administrative territorial entity | Ethiopia
+Mirab Gojjam | located in the administrative territorial entity | Ethiopia
+Abbay River | separates Debub Gondar from the two Gojjam Zones | Ethiopia
+Gojjam Zones | located in the administrative territorial entity | Ethiopia
+South Gondar | located in the administrative territorial entity | Ethiopia
+Ethiopia | contains administrative territorial entity | South Gondar
+Amharic | language | Ethiopia
+Semien Wollo | located in the administrative territorial entity | Ethiopia
+Addis Zemen | located in the administrative territorial entity | Ethiopia
+Ethiopia | country | Ethiopia
+Misraq Gojjam | located in the administrative territorial entity | Ethiopia
+Wereta | located in the administrative territorial entity | Ethiopia
+Debre Tabor | located in the administrative territorial entity | Ethiopia
+Semien Gondar | located in the administrative territorial entity | Ethiopia
+Lake Tana | located in the administrative territorial entity | Ethiopia
+Mount Guna | highest point in Debub Gondar | Ethiopia
+Wag Hemra | located in the administrative territorial entity | Ethiopia",293.0,0
+22,"Morogoro Region | replaced by | Ruvuma Region
+Morogoro Region | replaced by | Dodoma Region
+Morogoro Region | replaced by | 2012 national census
+Morogoro Region | population growth rate | 2.4 percent
+Morogoro Region | replaced by | Pwani Region
+Morogoro Region | contains administrative territorial entity | Tanga Region
+Morogoro Region | located in or next to body of water | Indian Ocean
+Morogoro Region | population | 2,218,492
+Morogoro Region | replaced by | Iringa Region
+Morogoro Region | contains administrative territorial entity | Pwani Region
+Morogoro Region | replaced by | Tanzania
+Morogoro Region | country | Tanzania
+Morogoro Region | contains administrative territorial entity | Ruvuma Region
+Morogoro Region | capital | Morogoro
+Morogoro Region | replaced by | Lindi Regions
+Morogoro Region | replaced by | Indian Ocean
+Morogoro Region | located in the administrative territorial entity | Tanzania
+Morogoro Region | replaced by | Tanga Region
+Morogoro Region | contains administrative territorial entity | Dodoma Region
+Morogoro Region | contains administrative territorial entity | Lindi Regions
+Morogoro Region | replaced by | 2002-2012
+Morogoro Region | replaced by | 2012
+Morogoro Region | population density | 31 people per square kilometer",512.0,0
+23,,512.0,0
+24,"Pittsburgh Catholic | established in | 1844
+Pittsburgh Catholic | labeled as | oldest Catholic newspaper in continuous publication
+Pittsburgh Catholic | published for | lay people and priests
+Pittsburgh Catholic | market | 111,250 Catholics
+Pittsburgh Catholic | established by | Pittsburgh's first bishop, Michael O'Connor
+Pittsburgh Catholic | established in | 18
+Pittsburgh Catholic | available for free | churches and Catholic outlets
+Pittsburgh Catholic | established by | Michael O'Connor",512.0,0
+25,"Special Recognition / Honour | awarded by the Government | Toufique Imrose Khalidi
+Khaleda Zia | leader of the Bangladesh Nationalist Party | bdnews24.com
+Toufique Imrose Khalidi | publisher | bdnews24.com
+Toufique Imrose Khalidi | editor-in-chief | bdnews24.com
+bdnews24.com | publisher | Toufique Imrose Khalidi
+Toufique Imrose Khalidi | awarded by the Government | Special Recognition / Honour
+Sheikh Hasina | leader of the Bangladesh Awami League | bdnews24.com
+Toufique Imrose Khalidi | co-owner | bdnews24.com",512.0,1
+26,"Mark McNamara | played in | 8 NBA seasons
+Mark McNamara | played for | San Antonio Spurs
+Mark McNamara | played for | Kansas City Kings
+Mark McNamara | born on | June 8, 1959
+Mark McNamara | played for | Los Angeles Lakers
+Mark McNamara | played for | Philadelphia 76ers
+Mark McNamara | selected by | Philadelphia 76ers
+Mark McNamara | played for | Orlando Magic",512.0,5
+27,"Google | company | Google Play Music
+Google | company | New York Times
+Google | company | the United States
+Google | company | Google
+Google | company | Chromecast
+Google | company | YouTube
+Google | company | David Pogue
+Google | company | Google Play Movies & TV
+Google | company | Nexus   Q
+Google | company | Google Play
+Google | company | January 2013
+Google | company | Android",103.0,1
+28,"Rocksburg | contains administrative territorial entity | Western Pennsylvania
+Rocksburg | location | Western Pennsylvania",512.0,1
+29,"The Three - Self Manifesto | political manifesto | Korean War
+The Three - Self Manifesto | political manifesto | Zhou Enlai
+The Three - Self Manifesto | political manifesto | Protestants
+The Three - Self Manifesto | political manifesto | 1950
+The Three - Self Manifesto | political manifesto | Direction of Endeavor for Chinese Christianity in the Construction of New China
+The Three - Self Manifesto | political manifesto | Christianity
+The Three - Self Manifesto | political manifesto | Three-Self Patriotic Movement
+The Three - Self Manifesto | political manifesto | Chinese Christians
+The Three - Self Manifesto | published in 1950 | China
+The Three - Self Manifesto | political manifesto | China
+The Three - Self Manifesto | political manifesto | Chinese Christians.
+The Three - Self Manifesto | political manifesto | Y. T. Wu
+The Three - Self Manifesto | political manifesto | Communist Party of China",512.0,1
+30,"Biblical | corresponds to | Zulaikha
+Biblical | corresponds to | Yusuf
+Biblical | corresponds to | Christian
+Biblical | corresponds to | Old Testament
+Biblical | corresponds to | Jewish
+Biblical | corresponds to | Tanakh
+Biblical | corresponds to | Christian Bible
+Biblical | corresponds to | Jacob
+Biblical | corresponds to | Qur'an
+Biblical | corresponds to | Nabi
+Biblical | corresponds to | Muslim
+Biblical | corresponds to | Surah",512.0,0
+31,"Prayut Chan - o - cha | member of | Royal Thai Army
+Royal Thai Government | located in the administrative territorial entity | Thailand
+Phraya Manopakorn Nititada | member of | Royal Thai Army
+House of Representatives | located in the administrative territorial entity | Thailand
+22 May 2014 | date | Thailand
+Royal Thai Army | located in the administrative territorial entity | Thailand
+National Council for Peace and Order | located in the administrative territorial entity | Thailand
+1932 | date | Thailand
+Thailand | located in the administrative territorial entity | Thailand",512.0,0
+32,"Rogaland County | located in the administrative territorial entity | Norway
+Rogaland County | contains administrative territorial entity | Stavanger
+Rogaland County | contains administrative territorial entity | Norway
+Rogaland County | contains administrative territorial entity | Rogaland",512.0,0
+33,"Japan | country | Kyoto Imperial Palace
+Kyoto Imperial Palace | located in the administrative territorial entity | Japan",512.0,0
+34,"Yorkshire Post | publisher | Johnston Press
+Yorkshire Post | location | Leeds
+Yorkshire Post | founded | 1754
+Yorkshire Post | country | United Kingdom",512.0,0
+35,"Kang Won-yong | notable work | South Korean Presbyterian leader
+Kang Won-yong | nationality | South Korean
+Kang Won-yong | born in the year | 1917
+Kang Won-yong | occupation | Presbyterian leader
+Kang Won-yong | died in the year | 2006",512.0,1
+36,"Casa Grande Ruins National Monument | located in the administrative territorial entity | Arizona
+United States | country | United States
+Casa Grande Ruins National Monument | country | United States
+Casa Grande Ruins National Monument | located in the administrative territorial entity | United States
+United States | country | Arizona
+Arizona | country | United States",512.0,0
+37,Sweden | country | Sweden,512.0,2
+38,"Fyllingen Fotball | played in the Norwegian Premier League in 1990, 1991 and 1993 | 1 January 1994
+FK Fyllingsdalen | created after the merger of Fyllingen Fotball and Lv-Ham | 1 January 1994
+Fyllingen Fotball | eliminated by Atltico Madrid in the first round of the 199192 European Cup Winners'Cup | 1 January 1994
+Fyllingen Fotball | played in the Third Division from 2010 to 2011 | 1 January 1994
+Fyllingen Fotball | ceased to exist after the 2011 season | 1 January 1994
+Fyllingen Fotball | merged with Lv-Ham to create FK Fyllingsdalen | 1 January 1994
+Fyllingen Fotball | played in the First Division from 1994 to 1996 | 1 January 1994
+FK Fyllingsdalen | created after the 2011 season | 1 January 1994
+Fyllingen Fotball | reached the Norwegian Cup final in 1990 | 1 January 1994
+Fyllingen Fotball | played in the Second Division from 1997 till 2009 | 1 January 1994
+Fyllingen Fotball | used Fyllingen IL's logo | 1 January 1994
+Lv-Ham | ceased to exist after the 2011 season | 1 January 1994
+Fyllingen Fotball | lost 51 against Rosenborg in the Norwegian Cup final | 1 January 1994
+Lv-Ham | merged with Fyllingen Fotball to create FK Fyllingsdalen | 1 January 1994
+Fyllingen Fotball | founded as a formally independent section of the alliance sports club Fyllingen IL | 1 January 1994
+Fyllingen Fotball | earned a place in the 199192 European Cup Winners'Cup | 1 January 1994",380.0,0
+39,"Martin Ulrich | played for | Vienna
+Martin Ulrich | born in | Vienna
+Martin Ulrich | born on | December 16, 1969
+Martin Ulrich | captain of | Austrian national ice hockey team
+Martin Ulrich | signed for | Red Bull Salzburg
+Martin Ulrich | signed for | Austrian U-18 national ice hockey team
+Martin Ulrich | played for | Adler Mannheim
+Martin Ulrich | played for | DEG Metro Stars
+Martin Ulrich | played for | Graz EC
+Martin Ulrich | played for | EK Zell am See
+Martin Ulrich | played for | Berlin Capitals
+Martin Ulrich | played for | Red Bull Salzburg",512.0,1
+40,"Zella Lehr | songwriter | 1978
+Zella Lehr | performer | 1978
+Dolly Parton | singer | 1978.
+Dolly Parton | songwriter | 1978
+Dolly Parton | singer | 1978
+Dolly Parton | performer | 1978
+Zella Lehr | singer | 1978",512.0,0
+41,"KwaZulu Natal | located in the administrative territorial entity | South Africa
+the 1980s | time period | The Think Bike Campaign
+South Africa | located in the administrative territorial entity | The Think Bike Campaign
+The Think Bike Campaign | started by biking enthusiasts in South Africa | The Think Bike Campaign
+the United States | located in the administrative territorial entity | South Africa
+Cape Town | located in the administrative territorial entity | South Africa
+Tony Day | part of | The Think Bike Campaign
+Western Cape | located in the administrative territorial entity | South Africa
+Free State | located in the administrative territorial entity | South Africa
+Gauteng province | located in the administrative territorial entity | South Africa
+Hurt Report | published in the United States in 1981 | The Think Bike Campaign",174.0,1
+42,"NAVFORGER | commander | Germany
+NAVFORGER | commander | Naval Advanced Base Bremerhaven
+NAVFORGER | commander | United States Naval Forces Germany",512.0,1
+43,"Rick Astley | performer | Cry for Help
+Rick Astley | performer | Free
+Rick Astley | performer | Never Gonna Give You Up",512.0,0
+44,"Ayumi Hamasaki | performer | Japanese Count Down TV
+Ayumi Hamasaki | performer | Duty
+Ayumi Hamasaki | performer | Avex Trax
+Ayumi Hamasaki | performer | December 2000
+Ayumi Hamasaki | performer | Avex Taiwan.
+Ayumi Hamasaki | performer | 27 September 2000
+Ayumi Hamasaki | performer | 2000
+Ayumi Hamasaki | performer | Japanese
+Ayumi Hamasaki | performer | New Year Countdown
+Ayumi Hamasaki | performer | Oricon DVD Chart
+Ayumi Hamasaki | performer | Surreal
+Ayumi Hamasaki | performer | Avex Taiwan
+Ayumi Hamasaki | performer | Max Matsuura
+Ayumi Hamasaki | performer | Oricon Singles Chart",512.0,0
+45,"Paisley Park Studios | located in the administrative territorial entity | Chanhassen
+John Gorka | performer | Out of the Valley
+John Gorka | producer | Out of the Valley
+Paisley Park Studios | located in the administrative territorial entity | Minnesota
+John Gorka | producer | Between Five and Seven
+John Gorka | performer | Between Five and Seven",512.0,0
+46,"Square Enix | best known for its role-playing video game franchises | April 1, 2003
+Square Enix | Final Fantasy franchise | April 1, 2003
+Square Enix | Dragon Quest franchise | April 1, 2003
+Square Enix | Kingdom Hearts franchise | April 1, 2003
+Square Enix | Japanese video game development and publishing company | April 1, 2003
+Square Enix | formed from the merger of Square and Enix | April 1, 2003
+Square Enix | Square Enix Europe | April 1
+Square Enix | Final Fantasy, Dragon Quest, and Kingdom Hearts series | April 1, 2003
+Square Enix | Square Enix Europe | April 1, 2003",512.0,0
+47,"Tomorrow | single | Ladytron
+2011 | year | Ladytron
+Ghosts | single | Ladytron
+Kletva | song | Ladytron
+Kiril Marichkov | band | Ladytron
+Shturtzite | band | Ladytron
+Gravity the Seducer | album | Ladytron
+velocifero | album | Ladytron
+Daniel Hunt | member of | Ladytron
+Reuben Wu | member of | Ladytron
+Black Cat | single | Ladytron
+Billboard 200 | chart position | Ladytron
+Bulgarian | language | Ladytron
+2 June | release date | Ladytron
+19 May 2008 | release date | Ladytron
+3 June | release date | Ladytron
+US | location | Ladytron
+United Kingdom | location | Ladytron
+Versus | single | Ladytron
+Nettwerk | record label | Ladytron",206.0,0
+48,"Zakhary Petrovich Lyapunov | took part in Bolotnikov Uprising | Dmitry Pozharsky
+Zakhary Petrovich Lyapunov | took part in Bolotnikov Uprising | False Dmitri II
+Zakhary Petrovich Lyapunov | took part in Bolotnikov Uprising | Vasily Shuisky
+Zakhary Petrovich Lyapunov | took part in Bolotnikov Uprising | Ryazan
+Zakhary Petrovich Lyapunov | took part in Bolotnikov Uprising | Kuzma Minin
+Zakhary Petrovich Lyapunov | took part in Bolotnikov Uprising | Smolensk
+Zakhary Petrovich Lyapunov | took part in Bolotnikov Uprising | False Dmitri I
+Zakhary Petrovich Lyapunov | took part in Bolotnikov Uprising | Sigismund III Vasa
+Zakhary Petrovich Lyapunov | took part in Bolotnikov Uprising | Polish",512.0,0
+49,"Denmark | located in the administrative territorial entity | Sweden
+Denmark | country | Sweden
+Denmark | contains administrative territorial entity | Rügen
+Denmark | contains administrative territorial entity | Baltic Sea
+Denmark | located in or next to body of water | Baltic Sea
+Denmark | contains administrative territorial entity | Germany
+Denmark | contains administrative territorial entity | Møn",512.0,1
+50,"ENASA | acquired by | Hispano-Suiza
+Hispano-Suiza | replaced by | Pegaso
+ENASA | acquired by | International Harvester
+ENASA | acquired by | Sava
+Hispano-Suiza | replaced by | ENASA
+ENASA | acquired by | Spanish
+Hispano-Suiza | acquired by | ENASA
+INI | replaced by | ENASA
+Hispano-Suiza | replaced by | Seddon Atkinson
+ENASA | acquired by | Seddon Atkinson
+ENASA | acquired by | Pegaso
+Hispano-Suiza | replaced by | Sava
+Hispano-Suiza | replaced by | International Harvester
+INI | owned by | ENASA
+ENASA | acquired by | Spanish Arm of Hispano-Suiza
+ENASA | acquired by | INI",512.0,0
+51,"Evangelicalism | religion | Christian
+Lutheranism | religion | Christian
+Psalter | text | Christian
+Anglican | religion | Christian
+Christian | religion | Christian
+Scripture | text | Christian
+New Testament | text | Christian
+Protestant | religion | Christian
+John | person | Christian
+Jesus | person | Christian
+Methodism | religion | Christian",79.0,0
+52,"Royal Swedish Academy of Sciences | organization | Sweden
+Johan Gottlieb Gahn | member of | Royal Swedish Academy of Sciences
+Johan Gottlieb Gahn | died on | 8 December 1818
+Johan Gottlieb Gahn | studied in | Uppsala
+The Swedish Board of Mines Bergskollegium | organization | Sweden
+Torbern Bergman | acquaintance of | Johan Gottlieb Gahn
+Swedish | nationality | Johan Gottlieb Gahn
+Johan Gottlieb Gahn | born on | 19 August 1745
+Johan Gottlieb Gahn | chemist for | The Swedish Board of Mines Bergskollegium
+Johan Gottlieb Gahn | settled in | Falun",204.0,4
+53,"Bohumín | located in the administrative territorial entity | Czech Republic
+Bohumín | country | Czech Republic
+Bohumín | located in or next to body of water | Karviná District
+Bohumín | located in or next to body of water | Czech
+Bohumín | located in or next to body of water | Cieszyn Silesia
+Bohumín | located in or next to body of water | Czech Republic
+Bohumín | located in or next to body of water | Olza
+Bohumín | located in or next to body of water | Oder",512.0,1
+54,"Patata di Leonessa | food | Leonessa
+St. Giuseppe di Leonessa | notable person | Leonessa
+World War II | historical event | Italy
+Leonessa | located in the administrative territorial entity | Italy
+Province of Rieti | administrative territorial entity | Italy
+L'Aquila | located in the administrative territorial entity | Italy
+Lazio | located in the administrative territorial entity | Italy
+Leonessa | located in the administrative territorial entity | Lazio
+SS | organization | Germany
+Wehrmacht | organization | Germany
+Gonesse | country | Europe
+Terminillo | mountain | Italy
+Apennine | located in the administrative territorial entity | Italy",512.0,2
+55,"Philippine Commission | replaced by | Philippine Senate
+Philippine Commission | appointed by | President of the United States",512.0,1
+56,Fryderyk Chopin | person | Poland,512.0,0
+57,"Punjab | located in the administrative territorial entity | Pakistan
+Punjabi | language | Punjab
+Pakistan | located in the administrative territorial entity | Punjab
+Faisalabad | located in the administrative territorial entity | Pakistan
+Maharaja Ranjit Singh | founder of | Sikh Empire
+Sukerchakia Misl | founded by | Maharaja Ranjit Singh
+Sukerchakia Misl | located in | Punjab
+Lahore | located in the administrative territorial entity | Pakistan
+Sikh Empire | located in | Punjab
+Karachi | located in the administrative territorial entity | Pakistan
+Gujrat | located in the administrative territorial entity | Punjab
+Sikh Empire | founded by | Maharaja Ranjit Singh
+Gujranwala | capital of | Sukerchakia Misl",512.0,0
+58,Chinese | located in or next to body of water | Gulf of Tonkin,512.0,0
+59,Luis Roche | married to | Beatrice Dugand,512.0,2
+60,Nikos Aliagas | born in France | 13 May 1969,512.0,0
+61,"W Network | located in the administrative territorial entity | Canada
+Corus Entertainment | located in the administrative territorial entity | Canada
+HGTV | located in the administrative territorial entity | Canada
+HGTV | country | Canada
+HGTV Canada | located in the administrative territorial entity | Canada
+W Network | country | Canada
+HGTV Canada | country | Canada",512.0,1
+62,"Anatoly Borisovich Chubais | head of | Russian Nanotechnology Corporation
+Boris Yeltsin | replaced by | Anatoly Borisovich Chubais
+Anatoly Borisovich Chubais | influential member of | Boris Yeltsin's administration
+Anatoly Borisovich Chubais | born on | 16 June 1955
+Anatoly Borisovich Chubais | responsible for | privatization in Russia
+Anatoly Borisovich Chubais | born in the administrative territorial entity | Russia
+Anatoly Borisovich Chubais | head of | RAO UES",512.0,4
+63,British | replaced by | British Armed Forces,512.0,0
+64,"Jefferson Madeira da Silva | plays for | Sport Recife
+Jefferson Madeira da Silva | plays for | Olaria
+Jefferson Madeira da Silva | plays for | Brazil
+Jefferson Madeira da Silva | plays for | Duque de Caxias
+Jefferson Madeira da Silva | plays for | Brazilian
+Jefferson Madeira da Silva | born on | 15 February 1988",512.0,1
+65,Roman Republic | replaced by | Roman Empire,512.0,3
+66,"Canadian cartoonist | longest-running strip in English-Canadian comics history | 1948
+Canadian cartoonist | born in Scugog Island | 16 October 1891
+Canadian cartoonist | took over strip after death | 1948
+Canadian cartoonist | left hand injured | 1917
+Canadian cartoonist | began first weekly comic strip | 1919
+Canadian cartoonist | died from heart attack | 1948
+Canadian cartoonist | Doug Wright took over strip | 1948
+Canadian cartoonist | found illustration work | Toronto Stars Star Weekly supplement
+Canadian cartoonist | comic strip evolved into | 1923
+Canadian cartoonist | continued cartooning | Toronto Stars
+Canadian cartoonist | strongly similar characters and situations | Juniper Junction",221.0,3
+67,"Vineeth Sreenivasan | established the film production house named Habit of Life and produced its debut film Aanandam in 2017 | Indian
+Oru Vadakkan Selfie | directed by G. Pajith in 2015 | Indian
+Aanandam | produced by Habit of Life in 2017 | Indian
+Habit of Life | established in 2017 | Indian
+Malarvaadi Arts Club | directed by Vineeth in 2010 | Indian
+Jacobinte Swargarajyam | directed by Vineeth in 2016 | Indian
+Vineeth Sreenivasan | scripted and directed the film Thira in 2013 | Indian
+Vineeth Sreenivasan | born on 1 October 1985 | Indian
+Vineeth Sreenivasan | made his acting debut in 2008 in Cycle | Indian
+G. Pajith | directed Oru Vadakkan Selfie (2015) | Indian
+Kilichundan Mampazham | directed by Vineeth in 2003 | Indian
+Cycle | directed by Vineeth in 2008 | Indian
+Thattathin Marayathu | directed by Vineeth in 2012 | Indian
+Vineeth Sreenivasan | son of actor and screenwriter Sreenivasan | Indian
+Thira | directed by Vineeth in 2013 | Indian
+Vineeth Sreenivasan | scripted and directed the film Thattathin Marayathu (2012) | Indian
+Vineeth Sreenivasan | made his directorial debut in 2010 with Malarvaadi Arts Club | Indian
+Vineeth Sreenivasan | made his film debut in 2003 as a playback singer with the song "" Kasavinte Thattamittu "" from Kilichundan Mampazham | Indian",512.0,0
+68,"East Prussian | replaced by | Poland
+East Prussian | replaced by | Germany",512.0,0
+69,"Clark Lake | lake | Michigan
+Watersmeet | town | Michigan
+Clark Lake | location | Gogebic County
+Sylvania Wilderness | wilderness | United States
+Sylvania | town | Michigan
+Gogebic County | county | Michigan
+Sylvania Wilderness | wilderness | Ottawa National Forest",512.0,1
+70,"O'Shaughnessy Dam | located in the administrative territorial entity | Columbus
+O'Shaughnessy Dam | located in the administrative territorial entity | Ohio
+O'Shaughnessy Dam | located in the administrative territorial entity | United States
+O'Shaughnessy Dam | located in the administrative territorial entity | Scioto River
+O'Shaughnessy Dam | located in the administrative territorial entity | Griggs Dam
+O'Shaughnessy Dam | located in the administrative territorial entity | Dublin",512.0,0
+71,"Wedding Trough | banned | Australian
+Wedding Trough | country | Belgian
+Wedding Trough | banned | Australia
+Wedding Trough | film | Vase de Noces
+Wedding Trough | director | Thierry Zéno
+Wedding Trough | banned | Australian Classification Board
+Wedding Trough | year | 1974
+Wedding Trough | actor | Dominique Garny
+Wedding Trough | banned | OFLC",512.0,0
+72,"War of the Quadruple Alliance | result of | ambitions of Bourbon King Philip V of Spain, his wife, Elisabeth Farnese, and his chief minister Giulio Al
+War of the Quadruple Alliance | brought to an end by | Treaty of The Hague in 1720
+War of the Quadruple Alliance | fought between | Spain, Britain, France, Austria, and the Dutch Republic
+War of the Quadruple Alliance | result of | ambitions of Bourbon King Philip V of Spain, his wife, Elisabeth Farnese, and his chief minister Giulio Alberoni to retake territories in Italy lost to the Habsburgs in Vienna, and perhaps even to claim the French throne",512.0,0
+73,"Valli | performer | "" My Eyes Adored You ""
+Valli | performer | "" Can't Take My Eyes Off You """,511.0,2
+74,Angleton High School | located in the administrative territorial entity | Angleton Independent School District,512.0,0
+75,"1701 | year of establishment | Yale University
+University of Connecticut | flagship public university | Connecticut
+Yale University | oldest college in Connecticut | Connecticut
+Charter Oak State College | online school | Connecticut
+United States Coast Guard Academy | federal service academy | Connecticut
+Connecticut State Colleges & Universities | public institutions in Connecticut | Connecticut",512.0,1
+76,Austrian | located in or next to body of water | Vienna,512.0,4
+77,"The Wooden Horse | release date | 1950
+The Wooden Horse | film | 1950
+21 May 1920 | birthdate | Anthony Maitland Steel
+The Wooden Horse | cast | Anthony Maitland Steel
+The Wooden Horse | production company | British
+The 1950s | time period | 1950
+The Wooden Horse | plot | British soldiers in North Africa
+The Wooden Horse | director | Anthony Maitland Steel
+21 March 2001 | deathdate | Anthony Maitland Steel",512.0,7
+78,"Patrice Lumumba University | located in or next to body of water | Moscow
+Central Africa | located in the administrative territorial entity | Benin
+Central Africa | country | Benin
+Patrice Lumumba University | contains administrative territorial entity | Moscow
+Benin | contains administrative territorial entity | Moscow
+Benin | located in or next to body of water | Lake Chad
+Patrice Lumumba University | located in the administrative territorial entity | Moscow",512.0,1
+79,"Guy Chambers | performer | Your Disco Needs You
+On a Night Like This Tour | event | Kylie Minogue
+Steve Power | performer | Your Disco Needs You
+Australia | country | Kylie Minogue
+Kiss Me Once Tour | event | Kylie Minogue
+Light Years | publication date | Kylie Minogue
+KylieX2008 | event | Kylie Minogue
+Kylie Minogue | performer | Your Disco Needs You
+Kylie Summer 2015 Tour | event | Kylie Minogue
+Robbie Williams | performer | Your Disco Needs You
+2000 | publication date | Kylie Minogue",143.0,1
+80,"South Sudan | country | Eastern Africa
+South Sudan | country | 9 July 2011
+South Sudan | country | Africa
+South Sudan | country | United Nations
+South Sudan | country | July 2012
+South Sudan | country | White Nile
+South Sudan | country | African Union
+South Sudan | country | Intergovernmental Authority on Development
+South Sudan | country | Geneva Conventions
+South Sudan | country | Sudd
+South Sudan | country | Ramciel",512.0,0
+81,"Liverpool Medical Institution | location | Liverpool
+Liverpool Medical Institution | founded | 1823",512.0,0
+82,"Atari, Inc. | released | Super Breakout
+Atari, Inc. | influenced | Pong
+Atari, Inc. | developed and published | Breakout
+Atari, Inc. | conceptualized | Breakout
+Atari, Inc. | released | Arkanoid
+Atari, Inc. | released | Breakout
+Atari, Inc. | built | Breakout",512.0,0
+83,"Winnebago Uprising | also known as | Winnebago Uprising
+Winnebago Uprising | also known as | Winnebago War
+Winnebago Uprising | occurred in the year 1827 | United States",512.0,0
+84,"A Thousand Plateaus | written by | Gilles Deleuze
+Anti-Oedipus | written by | Félix Guattari
+A Thousand Plateaus | written by | Félix Guattari
+Schizoanalysis | formulated by | Gilles Deleuze and Flix Guattari
+Gilles Deleuze | author | Anti-Oedipus
+1972 | publication date | Anti-Oedipus
+Schizoanalysis | created by | Gilles Deleuze and Flix Guattari
+Félix Guattari | author | Anti-Oedipus
+Chaosmosis | written by | Félix Guattari
+Anti-Oedipus | written by | Gilles Deleuze
+Schizoanalysis | first expounded in | Anti-Oedipus
+Schizoanalysis | continued in | A Thousand Plateaus",512.0,2
+85,"European Union | replaced by | Paul Belin
+European Union | founded by | Paul Belin
+Vlaams Belang | political party | Belgium",512.0,8
+86,"Columbia University | located in the administrative territorial entity | New York
+Warren County Court | located in the administrative territorial entity | New York
+Warren County | located in the administrative territorial entity | New York",512.0,3
+87,,512.0,1
+88,,512.0,4
+89,"A Fool for You | follows | I Got a Woman
+A Fool for You | publication date | 1955
+A Fool for You | follows | This Little Light of Mine
+A Fool for You | record label | Atlantic
+A Fool for You | follows | Hallelujah I Love Her So
+A Fool for You | performer | Ray Charles
+A Fool for You | follows | This Little Girl of Mine",512.0,1
+90,"Lupita D'Alessio | born in Mexico City | Mexico
+Ernesto D'Alessio | son of Lupita D'Alessio | Mexico
+Ernesto D'Alessio | son of Lupita D'Alessio and Jorge Vargas | Mexico
+Ernesto D'Alessio | born on June 3, 1977 | Mexico
+Ernesto D'Alessio | son of Jorge Vargas | Mexico
+Ernesto D'Alessio | born in Mexico City | Mexico",512.0,0
+91,"Angolan | country | Angola
+Angola | country | Angola
+2016 Summer Olympics | location | Rio de Janeiro
+2000 Summer Olympics | location | Rio de Janeiro
+Olympic | event | 2000 Summer Olympics
+2016 | year | 2016
+Paulo Morais | sport shooter | Angola
+13 November 1964 | birthdate | De Silva
+2000 Summer Olympics | year | 2000
+De Silva | sport shooter | Angola
+Luanda | location | Angola",104.0,1
+92,"the United States | country | the United States
+Alaska | country | the United States
+Alaska | state | the United States",512.0,0
+93,"RBD | replaced by | Dulce María
+Spain | replaced by | El Regalo Más Grande
+Amaia Montero | replaced by | Anahí
+El Regalo Más Grande | replaced by | A Mi Edad
+A Mi Edad | replaced by | El Regalo Más Grande
+January 9, 2009 | replaced by | A Mi Edad
+RBD | replaced by | Anahí
+La Oreja de Van Gogh | replaced by | Tiziano Ferro
+Spanish | replaced by | A Mi Edad",512.0,2
+94,"Asia - Pacific Economic Cooperation | replaced by | East Asia Economic Group
+Asia - Pacific Economic Cooperation | replaced by | East Asia Economic Caucus
+Australia | replaced by | East Asia Economic Caucus
+Mahathir bin Mohamad | proposed | East Asia Economic Group
+2005 | year | East Asia Economic Group
+New Zealand | replaced by | East Asia Economic Group
+India | replaced by | East Asia Economic Group
+Malaysia | proposed | East Asia Economic Group
+New Zealand | replaced by | East Asia Economic Caucus
+China | replaced by | East Asia Economic Group
+Australia | replaced by | East Asia Economic Group
+1997 | year | East Asia Economic Caucus
+East Asia Summit | replaced by | East Asia Economic Group
+Asian | replaced by | East Asia Economic Group
+2005 | year | East Asia Economic Caucus
+1997 | year | East Asia Economic Group
+East Asia | replaced by | East Asia Economic Caucus
+Asian | replaced by | East Asia Economic Caucus
+Republic of Korea | replaced by | East Asia Economic Group
+Mahathir bin Mohamad | proposed | East Asia Economic Caucus
+Japan | replaced by | East Asia Economic Group
+China | replaced by | East Asia Economic Caucus
+Japan | replaced by | East Asia Economic Caucus
+Malaysia | proposed | East Asia Economic Caucus
+India | replaced by | East Asia Economic Caucus
+Malaysian | replaced by | East Asia Economic Caucus
+Republic of Korea | replaced by | East Asia Economic Caucus
+East Asia Summit | replaced by | East Asia Economic Caucus
+Malaysian | replaced by | East Asia Economic Group",333.0,1
+95,"Walt Disney Pictures | production company | Princess and the Frog
+Tiana | character | Disney
+Naveen | character | Walt Disney Pictures
+Anika Noni Rose | voice actor | Tiana
+Tiana | character | Walt Disney Pictures
+E. D. Baker | author | The Frog Princess
+The Frog Prince | fairy tale | Brothers Grimm
+Emma | character | The Frog Princess
+Brothers Grimm | source | The Frog Prince
+Tiana | character | Elizabeth M. Dampier
+Elizabeth M. Dampier | voice actor | Tiana
+Tiana | character | Anika Noni Rose
+Tiana | character | John Musker
+The Frog Princess | fairy tale | Brothers Grimm
+Tiana | character | Ron Clements",220.0,1
+96,"Pooecetes gramineus | nest | open cup on the ground under a clump of grass
+Pooecetes gramineus | habitat | open grassy areas
+Pooecetes gramineus | nesting habitat | open grassy areas
+Pooecetes gramineus | family | sparrows
+Pooecetes gramineus | decline | eastern parts of its range due to habitat loss
+United States | contains administrative territorial entity | Mexico
+Pooecetes gramineus | breeding habitat | open grassy areas
+Pooecetes gramineus | song | musical song beginning with two pairs of repeated whistled notes and ending in a series of trills
+Pooecetes gramineus | species | vesper sparrow
+United States | contains administrative territorial entity | North America
+Pooecetes gramineus | migration | southern and central United States and Mexico
+Pooecetes gramineus | foraging | ground, mainly eating insects and seeds
+Pooecetes gramineus | genus | vesper sparrow
+North America | contains administrative territorial entity | United States",247.0,0
+97,"Avari | type of Elves | Elves
+Silvan | type of Elves | Elves
+Elves | type of beings | Elves
+Lothlórien | location | Elves
+Middle-earth | fictional universe | Elves
+House of Finarfin | group | Elves
+J.R.R. Tolkien | author of Middle-earth | Elves
+Galadriel | character | Elves
+Telerin | group | Elves
+Lórien | location | Elves
+Thranduil | character | Elves
+Celeborn | character | Elves
+Legolas | character | Elves
+Mirkwood | location | Elves
+Ossiriand | location | Elves
+Eldar | type of Elves | Elves
+Great Journey | event | Elves
+Tolkien | author of Middle-earth | Elves
+High Elves | type of Elves | Elves
+Nandor | character | Elves
+Laiquendi | location | Elves
+Grey Elves | type of Elves | Elves",218.0,0
+98,"ABBA | country | Sweden
+ABBA | country | Sweden.",512.0,0
+99,"Fall Out Boy | band | America
+Fall Out Boy | band | Gym Class Heroes
+Fall Out Boy | tour | Young Wild Things Tour
+Fall Out Boy | band | Where the Wild Things Are
+Fall Out Boy | band | Cute Is What We Aim For
+Fall Out Boy | band | Pete Wentz
+Fall Out Boy | band | Maurice Sendak
+Fall Out Boy | band | 2007
+Fall Out Boy | band | Young Wild Things Tour",504.0,1
+100,"Samuel C. Brightman | has part | Omaha Beach
+Samuel C. Brightman | has part | Democratic National Conventions
+Courier - Journal | has part | Samuel C. Brightman
+Samuel C. Brightman | has part | Poland
+Samuel C. Brightman | has part | Democrat
+Samuel C. Brightman | has part | 1911
+Samuel C. Brightman | has part | Hitler
+Samuel C. Brightman | has part | Bronze Star
+Samuel C. Brightman | has part | Washington
+Samuel C. Brightman | has part | 1992
+Samuel C. Brightman | has part | 1939
+Samuel C. Brightman | has part | Democratic National Committee
+Samuel C. Brightman | has part | Europe
+Samuel C. Brightman | has part | Louisville
+Samuel C. Brightman | has part | World War II
+Samuel C. Brightman | has part | KY
+Samuel C. Brightman | has part | Courier - Journal
+Samuel C. Brightman | has part | American",324.0,0
+101,"Alberto Valenzuela Llanos | Chilean | August 29
+Alberto Valenzuela Llanos | Chilean | August 29, 1869
+Alberto Valenzuela Llanos | died in Santiago, Chile | July 23, 1925
+Alberto Valenzuela Llanos | born in San Fernando, Chile | August 29, 1869
+Alberto Valenzuela Llanos | Chilean | July 23, 1925
+Alberto Valenzuela Llanos | painter | July 23, 1925
+Alberto Valenzuela Llanos | painter | August 29, 1869",512.0,0
+102,"Amandeep Narayan Khare | notable work | India national under-19 cricket team
+5 August 1997 | birthdate | Amandeep Narayan Khare",512.0,3
+103,"Chris Braide | artist | Lotus
+Chris Braide | producer | 2002
+Christina Aguilera | artist | 2002
+Chris Braide | artist | 2002
+Chris Braide | producer | Bionic
+Chris Braide | producer | Burlesque
+Chris Braide | producer | Lotus
+Chris Braide | artist | Beautiful
+Chris Braide | producer | Beautiful
+Chris Braide | artist | Burlesque
+Christina Aguilera | artist | Lotus
+Christina Aguilera | artist | Bionic
+Christina Aguilera | artist | Beautiful
+Chris Braide | artist | Bionic
+Christina Aguilera | artist | Burlesque",512.0,0
+104,"Jared Scot Allen | played college football for | Idaho State University
+Jared Scot Allen | played for | American
+Jared Scot Allen | played for | Carolina Panthers
+Jared Scot Allen | played for | Chicago Bears
+Jared Scot Allen | traded to | Minnesota Vikings
+Jared Scot Allen | played in | Super Bowl
+Jared Scot Allen | played for | National Football League
+Jared Scot Allen | played for | American Football League
+Jared Scot Allen | joined as a free agent | Chicago Bears
+Jared Scot Allen | drafted by | Kansas City Chiefs
+Jared Scot Allen | played for | Minnesota Vikings",512.0,1
+105,"Suffer the Children | performer | Tears For Fears
+Tears For Fears | has part | Change
+Tears For Fears | has part | 1981
+Mad World | performer | Tears For Fears
+Tears For Fears | record label | Another Planet
+Change | performer | Tears For Fears
+Pale Shelter | performer | Tears For Fears
+Tears For Fears | has part | British
+Tears For Fears | has part | Suffer the Children
+Tears For Fears | has part | Mad World
+Tears For Fears | has part | The Hurting
+Tears For Fears | has part | UK
+Tears For Fears | record label | Profile Records
+The Hurting | performer | Tears For Fears
+Tears For Fears | has part | Pale Shelter",512.0,0
+106,"Klamath Falls | located in or next to body of water | Link River
+Klamath Falls | located in or next to body of water | Klamath River
+Klamath Falls | founded in | 1867
+Klamath Falls | located in or next to body of water | Klamath Basin
+Klamath Falls | located in the administrative territorial entity | Oregon
+Klamath Falls | located in or next to body of water | Upper Klamath Lake
+Klamath Falls | located in or next to body of water | Link River Dam
+Klamath Falls | located in or next to body of water | Lake Ewauna
+Klamath Falls | located in or next to body of water | Pacific Ocean
+Klamath Falls | located in or next to body of water | Klamath Lake",512.0,1
+107,"Ali Kuli Khan Khattak | opposed the Kargil War | retired Pakistani three-star rank general officer
+Ali Kuli Khan Khattak | approved the appointment of Khattak's course-mate, General Pervez Musharraf to four-star rank and chief of army staff | retired Pakistani three-star rank general officer
+Ali Kuli Khan Khattak | superseded by the former Prime minister Nawaz Sharif | retired Pakistani three-star rank general officer
+Ali Kuli Khan Khattak | four-star rank and chief of army staff | retired Pakistani three-star rank general officer
+Ali Kuli Khan Khattak | retired Pakistani three-star rank general officer | retired Pakistani three-star rank general officer
+Ali Kuli Khan Khattak | public appraised reputation when thwarting the conspiracy hatched by infiltrated rogue officers against the government of Prime minister Benazir Bhutto | retired Pakistani three-star rank general officer
+Ali Kuli Khan Khattak | directorate-general of the Military Intelligence (DGMI) | retired Pakistani three-star rank general officer
+Ali Kuli Khan Khattak | instructor in the National Defence University (NDU) | retired Pakistani three-star rank general officer
+Ali Kuli Khan Khattak | former field commander of X Corps | retired Pakistani three-star rank general officer
+Ali Kuli Khan Khattak | foresight in predicting the dangers of terrorism | retired Pakistani three-star rank general officer
+Ali Kuli Khan Khattak | chief of general staff | retired Pakistani three-star rank general officer",512.0,0
+108,"Paul Charles Morphy | American chess player | 1884
+Paul Charles Morphy | died in New Orleans | July 10, 1884
+Paul Charles Morphy | born in New Orleans | June 22, 1837",512.0,3
+109,"Gloria Estefan | American singer | Spanish - language
+Gloria Estefan | American singer | Latin
+Gloria Estefan | American singer | American
+Gloria Estefan | American singer | Spanish",512.0,0
+110,"Chūkyō | contains administrative territorial entity | Japan.
+Chūbu | located in the administrative territorial entity | Japan
+Chūkyō | country | Japan
+Chūkyō | located in or next to body of water | Pacific Ocean
+Chūbu | located in or next to body of water | Pacific Ocean
+Chūkyō | located in the administrative territorial entity | Japan
+Chūkyō | contains administrative territorial entity | Japan",512.0,0
+111,St. Louis County | contains administrative territorial entity | Missouri,512.0,0
+112,"Dublin City Council | government agency | Ireland
+Ireland | country | Dublin, Wicklow and Wexford Railway
+Queenstown | city | Ireland
+Kingstown | city | Ireland
+Liffey Viaduct | landmark | Ireland
+Ireland | country | Queenstown
+Connolly Station | railway station | Ireland
+The Custom House | landmark | Ireland
+River Liffey | body of water | Ireland
+Dublin | city | Ireland
+Dublin, Wicklow and Wexford Railway | railway | Ireland
+An Bord Pleanála | government agency | Ireland",118.0,0
+113,"Maldives | contains administrative territorial entity | Sri Lanka
+Maldives | country | Sri Lanka
+Maldives | located in the administrative territorial entity | Sri Lanka",512.0,2
+114,,512.0,1
+115,"Norris Reservoir | contains administrative territorial entity | Cumberland Trail
+Norris Reservoir | contains administrative territorial entity | United States
+Norris Reservoir | contains administrative territorial entity | Tennessee
+Norris Reservoir | contains administrative territorial entity | Norris Dam Project",512.0,0
+116,Kondor | built in the 1930s | German Navy,512.0,0
+117,United Kingdom | country | United Kingdom,512.0,8
+118,"Les Halles | contains administrative territorial entity | Paris
+Les Halles | contains administrative territorial entity | Paris.
+Les Halles | located in the administrative territorial entity | Paris",512.0,1
+119,"University of Colorado Law School | located in the administrative territorial entity | U.S.
+EESI | established in 2003 | Energy and Environmental Security Initiative
+EESI | located in the administrative territorial entity | University of Colorado Law School
+Energy and Environmental Security Initiative | established in 2003 | EESI
+EESI | located in the administrative territorial entity | Energy and Environmental Security Initiative
+EESI | established in 2003 | U.S.
+U.S. | located in the administrative territorial entity | University of Colorado Law School
+EESI | located in the administrative territorial entity | U.S.
+EESI | established in 2003 | EESI
+EESI | located in the administrative territorial entity | 2003",512.0,0
+120,"Eurovision Song Contest | country | France
+Eurovision Song Contest | country | Italy
+Eurovision Song Contest | event | 1956",512.0,1
+121,"Lenor | fabric softener | Procter & Gamble
+Lenor | fabric softener | U.S.",512.0,24
+122,"Boltenhagen | located in or next to administrative territorial entity | Vorpommern
+Boltenhagen | located in or next to administrative territorial entity | Mecklenburg
+Boltenhagen | located in or next to administrative territorial entity | Germany
+Boltenhagen | located in or next to body of water | Baltic Sea
+Boltenhagen | located in or next to administrative territorial entity | Mecklenburg-Vorpommern
+Boltenhagen | located in the administrative territorial entity | Mecklenburg-Vorpommern",512.0,0
+123,"Connecticut River | tributary of | Upper Ammonoosuc River
+Fort Wentworth | location | junction of Upper Ammonoosuc and Connecticut Rivers
+Fort Wentworth | used during | French and Indian War and American Revolutionary War
+Fort Wentworth | location | near village of Groveton",512.0,3
+124,Star Trek Into Darkness | composer | Michael Giacchino,512.0,0
+125,"1963 | replaced by | Regionalligas
+Oberliga Rheinland-Pfalz / Saar | located in the administrative territorial entity | Germany
+Saarland | located in the administrative territorial entity | Germany
+Bundesliga | replaced by | Regionalligas
+German | country | Germany
+2008 | replaced by | Regionalligas
+Rhineland-Palatinate | located in the administrative territorial entity | Germany",512.0,3
+126,"Siberia Governorate | existed from 1708 to 1782 | Russian Empire
+Siberia Governorate | existed from 1708 to 1782 | Tsardom of Russia",512.0,0
+127,"Raymond Maroutian | supported by André Malraux | France
+Raymond Maroutian | supported by Albert Camus | France
+Raymond Maroutian | offered the Directorship of the Senegalese National Theater | Europe
+Raymond Maroutian | aspired to acting | French
+Raymond Maroutian | offered the Directorship of the Senegalese National Theater | France
+Raymond Maroutian | decorated by General Charles de Gaulle | France
+Raymond Maroutian | served in the Free French Forces | France
+Raymond Maroutian | born in Lyon, France | French
+Raymond Maroutian | resumed his acting career | France
+Raymond Maroutian | training was interrupted by | World War II",512.0,2
+128,"Kurt Tucholsky | born in | Berlin-Moabit
+Kurt Tucholsky | died on | 21 December 1935
+Kurt Tucholsky | born on | 9 January 1890
+Kurt Tucholsky | died in | 21 December 1935
+Kurt Tucholsky | German | Jewish",512.0,0
+129,Urguti in Tajik | subgroup of ethnic Uzbeks | Urguti people,512.0,0
+130,"Jamie Wyeth | grandson of | Newell Convers Wyeth
+Andrew Wyeth | son of | Newell Convers Wyeth
+Newell Convers Wyeth | painter | Treasure Island
+Newell Convers Wyeth | illustrator | Treasure Island",480.0,4
+131,"Bound Brook | located in | New Jersey
+Bound Brook | named after | Bound Brook, New Jersey
+Bound Brook | tributary of | Raritan River
+Bound Brook | located in | Middlesex County, New Jersey",512.0,1
+132,"Jim Fitzpatrick | photographer | Rage Against the Machine
+Jim Fitzpatrick | photographer | Oliver Stone
+Jim Fitzpatrick | photographer | Sendero Luminoso
+Jim Fitzpatrick | photographer | Alberto Korda
+Jim Fitzpatrick | photographer | Natural Born Killers
+Jim Fitzpatrick | photographer | Grand Olympic Auditorium DVD
+Jim Fitzpatrick | photographer | Mallory
+Jim Fitzpatrick | photographer | Mickey
+Jim Fitzpatrick | photographer | Know Your Enemy
+Jim Fitzpatrick | photographer | Tim Commerford
+Jim Fitzpatrick | photographer | Irish
+Jim Fitzpatrick | photographer | American
+Jim Fitzpatrick | photographer | Bombtrack
+Jim Fitzpatrick | photographer | Che Guevara
+Jim Fitzpatrick | photographer | Cuban
+Jim Fitzpatrick | photographer | Fistful of Steel
+Jim Fitzpatrick | photographer | Abimael Guzman
+Jim Fitzpatrick | photographer | Guerrillero Heroico",512.0,0
+133,"Christine Harijaona Razanamahasoa | replaced by | Florent Rakotoarisoa
+Andry Rajoelina | replaced by | Albert Camille Vital
+Albert Camille Vital | replaced by | Florent Rakotoarisoa
+Marc Ravalomanana | replaced by | High Transitional Authority
+High Transitional Authority | replaced by | Andry Rajoelina",512.0,0
+134,"Shihlin Electric and Engineering Corporation | founded in 1955 | Taiwan
+Shihlin Electric and Engineering Corporation | located in the administrative territorial entity | Taiwan",512.0,0
+135,"Edmonton | contains administrative territorial entity | Alberta
+Edmonton | contains administrative territorial entity | Canada
+Edmonton | located in the administrative territorial entity | Canada",512.0,1
+136,"Patrick Adams | engineer | Inner Life
+Patrick Adams | arranger | ""Ain't No Mountain High Enough""
+Patrick Adams | arranger | Inner Life
+Patrick Adams | engineer | ""Ain't No Mountain High Enough""
+Greg Carmichael | location of record label | New York
+Patrick Adams | producer | Inner Life
+Greg Carmichael | executive producer | Inner Life
+Greg Carmichael | record label | Red Greg Records",499.0,3
+137,"Ahmet Kaya | country | Turkey
+Ahmet Kaya | died on | 16 November 2000
+Ahmet Kaya | born on | 28 October 1957",512.0,0
+138,"Leone Marucci | born on | March 28, 1973
+Leone Marucci | global audience | The Power of Few website
+Leone Marucci | online casting | The Power of Few website
+Leone Marucci | from | Youngstown, Ohio
+Leone Marucci | online editing | The Power of Few website
+Leone Marucci | invited to help create | The Power of Few
+Leone Marucci | original material | The Power of Few website
+Leone Marucci | online editing system | The Power of Few website
+Leone Marucci | through | The Power of Few website
+Leone Marucci | featured | ensemble cast of Christopher Walken, Christian Slater, Q'orianka Kilcher, Anthony Anderson, Jesse Bradford, Moon Bloodgood, Devon Gearhart, Nicky Whelan, Juvenile and others
+Leone Marucci | wrote, directed and produced | The Power of Few",512.0,7
+139,"Susan J. Pharr | born on | March 16, 1944
+Susan J. Pharr | guided and nurtured young Japanologists | Order of the Rising Sun, Gold Rays with Neck Ribbon
+Susan J. Pharr | contributed to promoting intellectual exchange between Japan and the United States of America | Order of the Rising Sun, Gold Rays with Neck Ribbon
+Susan J. Pharr | acknowledged life's work by the Japanese government | Order of the Rising Sun, Gold Rays with Neck Ribbon
+Susan J. Pharr | recognized for promoting intellectual exchange between Japan and the United States of America | Order of the Rising Sun, Gold Rays with Neck Ribbon
+Susan J. Pharr | conferred the Order of the Rising Sun, Gold Rays with Neck Ribbon | Japanese government
+Susan J. Pharr | Edwin O. Reischauer Professor of Japanese Politics | Director of Reischauer Institute of Japanese Studies and the Program on U.S.- Japan Relations
+Susan J. Pharr | academic in the field of political science | Japanologist
+Susan J. Pharr | contributed to guiding and nurturing young Japanologists | Order of the Rising Sun, Gold Rays with Neck Ribbon",512.0,1
+140,Sycamore Canyon Wilderness | located in the administrative territorial entity | United States,258.0,1
+141,"Eva Bosáková-Hlaváčková | died on | 10 November 1991
+Eva Bosáková-Hlaváčková | born on | 18 December 1931",512.0,0
+142,"Hugh Davis | contains administrative territorial entity | Hester A. Davis
+Ripton | fictitious town | Massachusetts
+University of Massachusetts Amherst | located in the administrative territorial entity | Massachusetts
+United States | contains administrative territorial entity | Massachusetts
+Boston | located in the administrative territorial entity | Massachusetts
+United States | country | United States
+US Air Force | contains administrative territorial entity | United States
+Hester A. Davis | contains administrative territorial entity | Hugh Davis
+Massachusetts | contains administrative territorial entity | United States
+Hester A. Davis | member of | Hugh Davis
+Board of Selectmen of Ripton | member of | Hugh Davis
+Hugh Davis | brother of | Hester A. Davis
+US Air Force | located in the administrative territorial entity | United States
+Hugh Davis | member of | Board of Selectmen of Ripton
+Boston | country | United States
+University of Massachusetts Amherst | contains administrative territorial entity | Massachusetts
+Ripton | contains administrative territorial entity | Massachusetts
+Robbins Phillips | contains administrative territorial entity | Board of Selectmen of Ripton
+Robbins Phillips | member of | Board of Selectmen of Ripton
+Board of Selectmen of Ripton | contains administrative territorial entity | Massachusetts
+Boston | contains administrative territorial entity | Massachusetts
+Massachusetts | located in the administrative territorial entity | United States
+Hugh Davis | member of | University of Massachusetts Amherst
+Hester A. Davis | member of | Board of Selectmen of Ripton
+Hester A. Davis | contains administrative territorial entity | Board of Selectmen of Ripton",512.0,0
+143,"1930 | year | Udaykal
+1930 | year | Chandrasena
+1929 | year | Zulum
+1929 | year | Gopal Krishna
+1930 | year | Rani Saheba
+1930 | year | Zulum
+1929 | year | Chandrasena
+1930 | year | Khooni Khanjar
+1929 | year | Khooni Khanjar
+1929 | year | Udaykal
+1929 | year | Rani Saheba",512.0,0
+144,"Barry University | contains administrative territorial entity | Florida
+Barry University | contains administrative territorial entity | United States
+Barry University | country | United States
+Barry University | located in or next to body of water | Florida
+Barry University | located in the administrative territorial entity | United States
+Barry University | contains administrative territorial entity | Miami Shores
+Barry University | contains administrative territorial entity | Miami",512.0,0
+145,"1928 | year of publication | Blanche et Noir
+Jeanne Lucie Augustine Claudia Faure - Favier | born in | Firminy
+Jeanne Lucie Augustine Claudia Faure - Favier | died in | Paris
+Guillaume Apollinaire | friend of | Faure - Favier
+Jeanne Lucie Augustine Claudia Faure - Favier | born on | December 12, 1870
+Blanche et Noir | novel written by | Faure - Favier
+Jeanne Lucie Augustine Claudia Faure - Favier | died on | March 5, 1961
+French | nationality | Faure - Favier",512.0,5
+146,"Kirnitzschtalbahn | location | Lichtenhain Waterfall
+Sebnitz | location | Sebnitz
+Sebnitz | location | Pirna
+Sebnitz | location | Bad Schandau
+Sebnitz | location | Lichtenhain Waterfall
+Sebnitz | location | Kirnitzschtalbahn
+Kirnitzschtalbahn | location | Bad Schandau
+Kirnitzschtalbahn | operator | OVPS
+Kirnitzschtalbahn | location | Germany
+Kirnitzschtalbahn | location | Sebnitz
+Kirnitzschtalbahn | location | National Park
+Kirnitzschtalbahn | location | Pirna
+Kirnitzschtalbahn | location | Saxony
+Kirnitzschtalbahn | location | Elbe river
+Kirnitzschtalbahn | location | Saxon Switzerland",512.0,0
+147,"Canadian Idol | follows | 2006 season
+Canadian Idol | follows | Canadian Idol
+2006 season | follows | Canadian Idol",512.0,0
+148,"Factory | replaced by | New Order
+New Order | replaced by | Joy Division",512.0,1
+149,"Jean-Claude Killy | replaced by | Franck Piccard
+Franck Piccard | replaced by | Jean-Claude Killy",512.0,0
+150,,512.0,1
+151,"Hélé Béji | daughter of | Mondher Ben Ammar
+Hélé Béji | born in 1948 | Tunis",512.0,0
+152,"Assyrian Church of the East | contains administrative territorial entity | Oriental Orthodoxy
+Assyrian Church of the East | contains administrative territorial entity | Eastern Orthodoxy
+Assyrian Church of the East | contains administrative territorial entity | Assyrian Church of the East",512.0,0
+153,"Martina McBride | co-wrote | 2002
+Martina McBride | performer | 2004
+Martina McBride | performer | 2002
+Martina McBride | record label | BNA Records",512.0,1
+154,"Einstürzende Neubauten | located in the administrative territorial entity | Berlin
+Berlin | country | Germany
+Einstürzende Neubauten | country | Germany
+German | language | Einstürzende Neubauten
+Die Haut | only constant member | Christoph Dreher
+Christoph Dreher | constant member | Die Haut
+Spring | record label | Einstürzende Neubauten
+Die Haut | formed as an instrumental rock quartet | Einstürzende Neubauten",512.0,1
+155,"Şanlıurfa | location | Turkey
+Beşiktaş JK | team | Turkish Wheelchair Basketball Super League
+Şanlıurfa Wheelchair | team | Turkish Wheelchair Basketball Super League
+May 12, 1991 | birthdate | Turkey
+U23 | team | Turkish Wheelchair Basketball Super League
+Turkish | country | Turkey
+Fazza International Wheelchair Basketball Championships | event | Dubai
+Çetingöz | person | Turkish",110.0,1
+156,"Deal or No Deal | produced | EM : HE
+Big Brother | produced | EM : HE
+Endemol USA | produces | EM : HE
+EM : HE | aired | January 13, 2012
+American | airs | EM : HE
+Extreme Makeover : Home Edition | aired | EM : HE
+EM : HE | aired | ABC
+Extreme Makeover | aired | EM : HE
+January 13, 2012 | airing date | EM : HE
+Wipeout | produced | EM : HE
+Ty Pennington | hosts | EM : HE",461.0,7
+157,"British Army | part of | British Army
+British Army | replaced by | British Army",512.0,0
+158,,512.0,2
+159,"Oecophoridae | family | Oecophoridae
+Oecophora bractella | UK | Wye valley
+Oecophora bractella | UK | England
+Oecophora bractella | delimitation | Oecophoridae
+Oecophoridae | contains | Oecophora bractella
+Oecophora bractella | species | Oecophora bractella
+Oecophora bractella | type species | Oecophora bractella
+Oecophora bractella | phylogeny | Oecophoridae
+Oecophora bractella | native region | Europe
+Oecophora bractella | UK | Wales
+Oecophora bractella | distribution | Europe
+Oecophorinae | contains | Oecophora bractella
+Oecophora bractella | UK | English Midlands
+Oecophoridae | contains | Oecophorinae
+Oecophora bractella | affiliations | Oecophoridae
+Oecophorinae | subfamily | Oecophorinae
+Oecophora bractella | UK | Wyre Forest",512.0,2
+160,EUCOM SPP | located in the administrative territorial entity | United States,191.0,2
+161,"France | country | Jeanette Baucomont
+France | country | Jean Cussac",512.0,0
+162,"Peter William Ham | hit songs | No Matter What, Day After Day, Baby Blue
+Peter William Ham | born on | 27 April 1947
+Peter William Ham | band name | Badfinger
+Peter William Ham | nationality | Welsh
+Peter William Ham | died on | 24 April 1975
+Peter William Ham | co-wrote song | Without You",512.0,1
+163,"Beijing Shougang Ducks | team name | Beijing Ducks
+Beijing Shougang Ducks | former name | Beijing Jinyu Ducks
+Beijing Shougang Ducks | mascot | duck
+Beijing Shougang Ducks | former name | Beijing Jinyu Group Co., Ltd.
+Beijing Shougang Ducks | location | Beijing
+Beijing Shougang Ducks | corporate sponsor | Shougang Corporation
+Beijing Shougang Ducks | former name | Beijing Jinyu
+Beijing Shougang Ducks | former name | Beijing J",512.0,0
+164,"Hope Town | district of the Bahamas | Abaco
+Hope Town | seat of the Hope Town District Council | Hope Town
+Hope Town | location of the meetings of the Hope Town District Council | Hope Town
+Hope Town | buildings must adhere to | Bahamian Architecture
+Hope Town | village on Elbow Cay | Abaco
+Hope Town | location of the Hope Town District Council | Hope Town",512.0,6
+165,Ruacana Power Station | located in the administrative territorial entity | Namibia,512.0,0
+166,"San Francisco World Music Festival | location | San Francisco
+Kermanshah | location | Iran
+Gahwareh | location | Kermanshah Province
+Kurdish | language | Iran
+Ali Akbar Moradi | performer | Shahram Nazeri
+Kermanshah Province | location | Iran
+Mirza Sayyed Ali Kafashyan | performer | Ali Akbar Moradi
+1957 | publication date | San Francisco World Music Festival
+Shahram Nazeri | performer | Ali Akbar Moradi",138.0,1
+167,"Thailand | country | Chup
+Thailand | country | Dynamite Warrior
+Thailand | country | Chupong Changprung
+Thailand | country | Ong Bak 2
+Thailand | country | Somtum
+Thailand | country | Born to Fight
+Thailand | country | Queen of Langkasuka
+Thailand | country | Ong Bak 3",512.0,0
+168,"Mount Shinn | discovered by | IGY reconnaissance flights
+Ellsworth Mountains | located in the administrative territorial entity | Antarctica
+Mount Shinn | located in the administrative territorial entity | Ellsworth Mountains
+Mount Shinn | location | 6  km (4  miles) southeast of Mount Tyree in the Sentinel Range, Ellsworth Mountains in Antarctica
+Mount Shinn | discovered by | U.S. Navy",512.0,5
+169,"Georg Jochmann | died on | 6 January 1915
+Rudolf - Virchow - Krankenhaus | location of Georg Jochmann | Berlin
+Georg Jochmann | born on | 11 October 1874",512.0,3
+170,"U.S. | located in the administrative territorial entity | Afghanistan
+Afghan | located in the administrative territorial entity | Voice of America
+Voice of America | located in the administrative territorial entity | Afghanistan
+Afghan | located in the administrative territorial entity | U.S.
+Voice of America | located in the administrative territorial entity | U.S.",512.0,0
+171,"Berthier | contains administrative territorial entity | Quebec
+Berthier | located in the administrative territorial entity | Quebec
+Quebec | contains administrative territorial entity | Quebec",512.0,2
+172,"Christian Atsu Twasam | born on | 10 January 1992
+Christian Atsu Twasam | Ghanaian | Christian Atsu Twasam
+Christian Atsu Twasam | loaned to | AFC Bournemouth
+Christian Atsu Twasam | began his career with | Porto
+Christian Atsu Twasam | represented | Ghana
+Christian Atsu Twasam | also spent a season on loan with | Rio Ave
+Christian Atsu Twasam | plays for | Newcastle United
+Christian Atsu Twasam | has represented | Ghana
+Christian Atsu Twasam | Ghanaian national team | Christian Atsu Twasam
+Christian Atsu Twasam | helped the team finish as runners-up at | 2015 Africa Cup of Nations
+Christian Atsu Twasam | Premier League club | Newcastle United
+Christian Atsu Twasam | signed by | Chelsea
+Christian Atsu Twasam | won Player of the Tournament and Goal of the Tournament at | 2015 Africa Cup of Nations
+Christian Atsu Twasam | loaned to | Vitesse Arnhem
+Christian Atsu Twasam | completed a permanent transfer to | Newcastle United
+Christian Atsu Twasam | loaned to | Everton
+Christian Atsu Twasam | played for | Newcastle United
+Christian Atsu Twasam | professional footballer | Christian Atsu Twasam",512.0,4
+173,"Honolulu | located in the administrative territorial entity | United States
+Honolulu | country | United States
+Honolulu | contains administrative territorial entity | United States",512.0,1
+174,"Argentina | country | Latin America
+Argentina | country | Europe
+Argentina | country | America.
+Argentina | country | America",512.0,1
+175,"Tiffanian NALMA | contains | Danian
+Torrejonian North American Stage | contains | Thanetian
+Puercan | contains | Danian
+Torrejonian North American Stage | contains | Danian
+Torrejonian North American Stage | contains | Paleocene
+Selandian | contains | Paleocene
+Danian | contains | Paleocene
+Torrejonian North American Stage | contains | Puercan
+Torrejonian North American Stage | contains | Tiffanian NALMA
+Danian | contains | Selandian
+Torrejonian North American Stage | contains | Selandian
+Paleocene | contains | Danian",512.0,0
+176,"Hohenzollern | family name | Carol I
+Hohenzollern | family name | Ferdinand I
+Hohenzollern | family name | Carol II",512.0,0
+177,,175.0,1
+178,"Vivian French | author of The Tiara Club series | Princess Charlotte and the Birthday Ball
+Vivian French | author of The Tiara Club series | Sarah Gibb
+Vivian French | author of The Tiara Club series | Princess Alice and the Glass Slipper",512.0,0
+179,"Bruce Springsteen | replaced by | Zack de la Rocha
+Bruce Springsteen | replaced by | Tim Commerford
+Bruce Springsteen | replaced by | Tom Morello
+Bruce Springsteen | replaced by | Brad Wilk",512.0,0
+180,,512.0,15
+181,"Washington State Senate | located in the administrative territorial entity | Washington
+Washington State Senate | contains administrative territorial entity | United States
+Washington State Senate | country | United States
+Washington State Senate | located in or next to body of water | Pacific Ocean
+Washington State Senate | contains administrative territorial entity | Washington",512.0,0
+182,Hungary | country | Puskás,512.0,0
+183,"Édouard Manet | located in the administrative territorial entity | France
+Ny Carlsberg Glyptotek | country | Denmark
+Ny Carlsberg Glyptotek | located in the administrative territorial entity | Denmark
+Paris | country | France
+Saverne | located in the administrative territorial entity | France
+The Thinker | located in the administrative territorial entity | France
+Auguste Rodin | located in the administrative territorial entity | France
+17 November 1977 | publication date | France
+Denmark | country | France
+Édouard Manet | country | France
+André | French artist | France
+Auguste Rodin | country | France
+The Absinthe Drinker | country | France
+The Absinthe Drinker | located in the administrative territorial entity | France
+Zevs | born in the administrative territorial entity | France
+Invader | French artist | France
+Zevs | country | France
+France | country | Denmark",223.0,0
+184,"Camp Caves | located in or next to body of water | Bruce Highway
+Camp Caves | located in or next to body of water | Australia
+Camp Caves | located in or next to body of water | Queensland
+Camp Caves | located in the administrative territorial entity | Australia",512.0,0
+185,ADI | established in 1994 | Independent Democratic Action,512.0,3
+186,"Swift | performs | Red
+Swift | performs | I Knew You Were Trouble",512.0,0
+187,"South Australia | contains administrative territorial entity | Tasmania
+Great Australian Bight | contains administrative territorial entity | Tasmania
+Victoria | country | Australia
+Australia | contains administrative territorial entity | South Australia
+South Australia | located in the administrative territorial entity | Australia
+Nullabor | contains administrative territorial entity | South Australia
+Australia | contains administrative territorial entity | Tasmania
+Nullabor | body of water | South Australia
+Great Australian Bight | located in the administrative territorial entity | Australia
+South Australia | country | Australia
+Australia | contains administrative territorial entity | Western Australia
+Tasmania | country | Australia
+Tasmania | contains administrative territorial entity | South Australia
+Australia | contains administrative territorial entity | Great Australian Bight
+Tasmania | contains administrative territorial entity | Great Australian Bight
+South Australia | contains administrative territorial entity | Western Australia
+Western Australia | contains administrative territorial entity | Nullabor
+Australia | contains administrative territorial entity | Nullabor
+South Australia | contains administrative territorial entity | Nullabor
+Great Australian Bight | contains administrative territorial entity | South Australia
+Ceduna | country | Australia
+Western Australia | contains administrative territorial entity | South Australia
+Tasmania | contains administrative territorial entity | Nullabor
+Western Australia | contains administrative territorial entity | Tasmania
+Tasmania | contains administrative territorial entity | Western Australia
+Great Australian Bight | contains administrative territorial entity | Nullabor
+Nullabor | contains administrative territorial entity | Tasmania
+Great Australian Bight | body of water | Australia
+Western Australia | country | Australia
+Nullabor | contains administrative territorial entity | Western Australia
+Portland | country | Australia
+Australia | country | South Australia
+Great Australian Bight | contains administrative territorial entity | Western Australia
+Western Australia | contains administrative territorial entity | Great Australian Bight
+South Australia | located in the administrative territorial entity | Great Australian Bight
+Tasmania | contains administrative territorial entity | Tasmania",512.0,1
+188,,512.0,2
+189,Turkish | country | Turkey,512.0,3
+190,"United States | country | United States
+United States | contains administrative territorial entity | Texas",512.0,2
+191,,512.0,5
+192,"Institute for Advanced Study | located in the administrative territorial entity | Berlin
+Munich | located in the administrative territorial entity | Germany
+St. Hugh | located in the administrative territorial entity | University of Oxford
+Faculty of Law | located in the administrative territorial entity | University of Oxford
+European Academy of Sciences and Arts | located in the administrative territorial entity | Germany
+Berlin - Brandenburg Academy of Sciences and Humanities | located in the administrative territorial entity | Germany
+Berlin - Brandenburg Academy of Sciences and Humanities | country | Germany
+Ludwig Maximilian University of Munich | located in the administrative territorial entity | Germany
+Berlin | capital city | Germany
+Ludwig Maximilian University of Munich | country | Germany",240.0,6
+193,"Havuts Tar | located in the administrative territorial entity | Kotayk Province
+Armenia | country | Kotayk Province
+Goght | located in the administrative territorial entity | Kotayk Province
+Armenia | contains administrative territorial entity | Kotayk Province
+Azat River | located in the administrative territorial entity | Kotayk Province
+Kotayk Province | country | Armenia
+Kotayk Province | located in the administrative territorial entity | Armenia
+Geghard Monastery | located in the administrative territorial entity | Kotayk Province
+Garni Gorge | located in the administrative territorial entity | Kotayk Province
+Kotayk Province | contains administrative territorial entity | Armenia
+Garni | located in the administrative territorial entity | Kotayk Province",512.0,1
+194,Sweden | located in or next to body of water | Norway,512.0,3
+195,"Astana | country | Kazakhstan
+Kazakhstan | country | Eurasian Economic Union
+On the Astana International Financial Centre | location | Astana
+Astana | country | Eurasian Economic Union
+July 5, 2018 | publication date | Astana International Financial Centre",512.0,5
+196,"Barack Obama | served under | Clinton
+Kerry | served under | Barack Obama
+Kerry | served under | Kerry
+Kerry | served under | Clinton
+Barack Obama | served under | Kerry",512.0,0
+197,"Gregorio Pacheco Leyes | died in | 20 August 1899
+20 August 1899 | date of death | Gregorio Pacheco Leyes
+Eliodoro Camacho | political party | Liberal
+Conservative | political party | Bolivia
+Aniceto Arce | political party | Liberal
+Livilivi | location | Province of Potosí
+4 July 1823 | date of birth | Gregorio Pacheco Leyes
+Aniceto Arce | political party | Conservative
+Liberal | political party | Bolivia
+Province of Potosí | location | Bolivia
+Gregorio Pacheco Leyes | born on | 4 July 1823
+Gregorio Pacheco Leyes | born in | Livilivi
+Gregorio Pacheco Leyes | died on | 20 August 1899",384.0,0
+198,"Peter Kenneth Murray | first three full-length albums | reached number 1 on the Australian music charts
+Peter Kenneth Murray | born on | 14 October 1969",512.0,1
+199,"Arizona | contains administrative territorial entity | U.S
+Sonora | located in the administrative territorial entity | Mexico
+Chihuahua | located in the administrative territorial entity | Mexico
+U.S | contains administrative territorial entity | Arizona
+Mexico | contains administrative territorial entity | Chihuahua
+U.S | contains administrative territorial entity | New Mexico
+Mexico | contains administrative territorial entity | Sonora
+New Mexico | contains administrative territorial entity | U.S",512.0,0
+200,"Fox | country | the United States
+The Simpsons | television show | the United States
+Fox | located in the administrative territorial entity | the United States
+The Simpsons | television show | Fox
+The United States | country | the United States",512.0,0
+201,"Equatorial Guinea | contains administrative territorial entity | Spanish Guinea
+Equatorial Guinea | located in the administrative territorial entity | Spanish Guinea
+Equatorial Guinea | country | Spanish Guinea",512.0,1
+202,"Bell Canada | country | Canada
+Bell Canada | located in the administrative territorial entity | Canada
+Canada | country | Canada
+Telus | located in the administrative territorial entity | Canada
+Telus | country | Canada",512.0,0
+203,"Chicago White Sox | team | Gary SouthShore RailCats
+Chicago White Sox | team | Northern League
+Chicago White Sox | team | Major League Baseball",512.0,0
+204,"Palaestra | mentioned in the text | Plautus
+Palaestra | mentioned in the text | Rudens
+Plautus | mentioned in the text | Palaestra
+Rudens | mentioned in the text | Palaestra",171.0,0
+205,"Maui | country | the United States
+Haleakalā | location of formation | Maui
+Haleakalā | location of formation | the United States
+Haleakalā | location of formation | Hawaii
+Haleakalā National Park | country | the United States
+Haleakalā National Park | located in the administrative territorial entity | the United States",512.0,0
+206,"Jeanne-Thérèse du Han de Martigny | baptized on 30 October 1707 in Lunville | France
+Jeanne-Thérèse du Han de Martigny | died on 7 May 1748 in Nancy | France
+Jeanne-Thérèse du Han de Martigny | born on 30 October 1707 in Lunville | France",512.0,2
+207,"Kokumin Dmei | formed by | Adachi Kenzō, Nakano Seigō, Akira Kazami, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō, Nakano Seigō,",512.0,1
+208,"Femina Miss India World | country | India
+Femina Miss India World | title | Femina Miss India World
+Femina Miss India World | event | Miss World 2012 event
+Femina Miss India World | year | 2012
+Femina Miss India World | winner | Miss World 2012 event
+Femina Miss India World | location | China",512.0,0
+209,"Désert | located in the administrative territorial entity | Kitigan Zibi Anishinabeg First Nation
+First Nations | located in the administrative territorial entity | Canada
+Town of Maniwaki | contains administrative territorial entity | Canada
+Canada | contains administrative territorial entity | Quebec
+Gatineau Rivers | located in the administrative territorial entity | Canada
+Quebec | contains administrative territorial entity | Canada
+Kitigan Zibi Anishinabeg First Nation | country | Canada
+Algonquin Nation | located in the administrative territorial entity | Canada
+Canada | contains administrative territorial entity | Kitigan Zibi Anishinabeg First Nation
+River Desert | located in the administrative territorial entity | Kitigan Zibi Anishinabeg First Nation
+Kitigan Zibi Anishinabeg First Nation | located in the administrative territorial entity | Canada
+Outaouais | contains administrative territorial entity | Canada
+Algonquin | located in the administrative territorial entity | Canada
+Canada | contains administrative territorial entity | Outaouais",213.0,0
+210,"Edmonton | contains administrative territorial entity | Alberta
+Alberta | contains administrative territorial entity | Canada
+CKFU-FM | replaced by | 101.5 The Bear
+Canada | contains administrative territorial entity | British Columbia
+101.5 The Bear | country music format | CKFU-FM
+101.5 The Bear | replaced by | Bell Media
+CFBR-FM | country music format | CFBR-FM
+CFBR-FM | located in the administrative territorial entity | Edmonton
+CKFU-FM | country music format | CKFU-FM
+101.5 The Bear | replaced by | mainstream rock format
+Fort St. John | contains administrative territorial entity | British Columbia
+Bell Media | replaced by | 101.5 The Bear
+British Columbia | contains administrative territorial entity | Canada
+101.5 The Bear | replaced by | CKFU-FM
+CKFU-FM | located in the administrative territorial entity | Fort Nelson
+101.5 The Bear | replaced by | CFBR-FM
+101.5 The Bear | replaced by | CKRX-FM",512.0,0
+211,"William Hepburn Armstrong | died on | May 14, 1919
+William Hepburn Armstrong | member of | Republican
+William Hepburn Armstrong | member of | Forty - first Congress
+William Hepburn Armstrong | member of | Pennsylvania
+William Hepburn Armstrong | member of | U.S. House of Representatives
+William Hepburn Armstrong | member of | Pennsylvania State House of Representatives",512.0,1
+212,"United States Naval Academy | contains administrative territorial entity | Annapolis
+United States Naval Academy | located in the administrative territorial entity | Annapolis",512.0,2
+213,"Indiana | contains administrative territorial entity | Angel Site
+U.S. | contains administrative territorial entity | Indiana
+Indiana | contains administrative territorial entity | Ellerbusch Site
+Indiana | contains administrative territorial entity | U.S.
+Indiana | contains administrative territorial entity | Ellerbusch",512.0,0
+214,"Bob Marley | performer | Reggae
+Jamaica | country | Kingston
+The Lane | location | Kingston
+Kingston | location | Jamaica
+Jamaica | country | Roger Mais
+Roger Mais | author | Brother Man
+Kingston | country | Roger Mais
+Kingston | country | Jamaica",512.0,1
+215,Big Muddy Creek | tributary of | Missouri River,512.0,0
+216,"Patriot Games | sequel | Clear and Present Danger
+Clear and Present Danger | sequel | Patriot Games",512.0,0
+217,"Norwegian State Railways | replaced by | Norwegian National Rail Administration
+Norwegian National Rail Administration | replaced by | Norwegian State Railways
+Norwegian State Railways | replaced by | Norges Statsbaner",512.0,0
+218,"Alecu Russo | born in March 17, 1819, near Chiinu | died on February 5, 1859, in Iai",512.0,1
+219,"Ramapo High School | located in the administrative territorial entity | Franklin Lakes
+Ramapo High School | located in the administrative territorial entity | Oakland
+Ramapo High School | located in the administrative territorial entity | Indian Hills
+Ramapo High School | located in the administrative territorial entity | Bergen County
+Ramapo High School | located in the administrative territorial entity | Indian Hills High School
+Ramapo High School | located in the administrative territorial entity | United States
+Ramapo High School | located in the administrative territorial entity | Wyckoff
+Ramapo High School | located in the administrative territorial entity | New Jersey
+Ramapo High School | located in the administrative territorial entity | New York City
+Ramapo High School | located in the administrative territorial entity | Indian Hills High School District",512.0,0
+220,"Tule Lake camp | located in the administrative territorial entity | Siskiyou County
+Tule Lake camp | established in | 1935
+Tule Lake camp | established by | United States government",512.0,5
+221,"Tomasz Bohdanowicz-Dworzecki | member of the construction board | Riga Central Railway Station
+Tomasz Bohdanowicz-Dworzecki | born in the administrative territorial entity | Vitebsk
+Tomasz Bohdanowicz-Dworzecki | member of the construction board | Moscow
+Tomasz Bohdanowicz-Dworzecki | graduated from the administrative territorial entity | Academy of Fine Arts
+Tomasz Bohdanowicz-Dworzecki | worked at the administrative territorial entity | Moscow School of Painting, Sculpture and Architecture",512.0,0
+222,,512.0,3
+223,The Jungle Book | film | 1967,512.0,0
+224,Morris & Co. | located in the administrative territorial entity | London,512.0,2
+225,"Patrick Stettner | director and writer | The Night Listener
+Patrick Stettner | alumnus of | Columbia University School of the Arts
+Columbia University School of the Arts | alumnus of | Patrick Stettner
+Patrick Stettner | director and writer | The Business of Strangers
+Patrick Stettner | director and writer | Flux",512.0,1
+226,"Krishna | has part | Indra
+Krishna | has part | Vishnu
+Krishna | has part | Kuru Kingdom
+Krishna | has part | Pandu
+Krishna | has part | Devanagari
+Krishna | has part | Draupadi
+Krishna | has part | Bhagavad Gita
+Krishna | has part | Balarama
+Krishna | has part | Arjuna
+Krishna | has part | Narayana
+Krishna | has part | Srutakarma
+Krishna | has part | Subhadra
+Krishna | has part | Chitrāngadā
+Krishna | has part | Iravan
+Krishna | has part | Ulupi
+Krishna | has part | Pandava
+Krishna | has part | Mahabharata
+Krishna | has part | Abhimanyu",512.0,1
+227,The Simpsons | located in the administrative territorial entity | Fox,512.0,2
+228,"North America | continent | North America
+Ibadan | location | Nigeria",512.0,6
+229,"1993 | publication date | Ocean Waves
+Kaori Nakamura | author | Ocean Waves
+Studio Ghibli | production company | Ocean Waves
+Kōchi | location | Japanese
+Tomomi Mochizuki | director | Ocean Waves
+Saeko Himuro | author | Ocean Waves
+Nippon Television Network | broadcaster | Ocean Waves",109.0,2
+230,"Mavis Grind | located in the administrative territorial entity | Shetland Islands
+North Sea | basin country | UK
+Brae | settlement | UK
+Shetland Islands | located in the administrative territorial entity | UK
+Hillswick | located in the administrative territorial entity | Shetland Islands
+Mavis Grind | country | UK
+Atlantic Ocean | basin country | Shetland Islands
+A970 | road | UK
+Shetland Islands | country | UK
+Atlantic Ocean | basin country | UK
+Brae | settlement | Shetland Islands
+A970 | located in the administrative territorial entity | UK
+A970 | located in the administrative territorial entity | Shetland Islands
+A970 | road | Shetland Islands
+UK | country | Shetland Islands
+Northmavine | country | UK
+Northmavine | located in the administrative territorial entity | Shetland Islands
+Shetland Mainland | country | UK
+Shetland Mainland | located in the administrative territorial entity | Shetland Islands
+North Sea | basin country | Shetland Islands
+Atlantic Ocean | located in or next to body of water | UK
+UK | country | UK
+Hillswick | country | UK
+Brae | country | UK
+North Sea | located in or next to body of water | UK",512.0,1
+231,"Australia | located in Oceania | Tuvalu
+Australia | located in Oceania | Tonga
+Australia | located in Oceania | Vanuatu
+Australia | located in Oceania | Cook Islands
+Australia | located in Oceania | Papua New Guinea
+Australia | located in Oceania | New Zealand
+Australia | located in Oceania | Solomon Islands
+Australia | located in Oceania | Oceania
+Australia | located in Oceania | Kiribati
+Australia | located in Oceania | Samoa",512.0,0
+232,,512.0,4
+233,"Central Railway Station | located in the administrative territorial entity | Tehran
+Iranian Revolution | replaced by | Islamic Republic of Iran
+University of Tehran | located in the administrative territorial entity | Iran
+Tehran University | country | Iran
+Tehran University | located in or next to body of water | Persian Gulf
+Tehran University | located in the administrative territorial entity | Iran
+Tehran University | contains administrative territorial entity | Tehran Province",512.0,4
+234,Leona Naess | album | Thirteens,512.0,1
+235,"The Residents | released | 1977
+The Residents | released | 1979",512.0,0
+236,"Brigden | located in the administrative territorial entity | Ontario
+Brigden | located in the administrative territorial entity | Canada
+Brigden | located in the administrative territorial entity | Lambton County",512.0,0
+237,,512.0,1
+238,"US Airways Group Inc. | merged with | America West Holdings Corporation
+US Airways Group Inc. | merged with | AMR Corporation
+US Airways Group Inc. | merged with | Piedmont Airlines, Inc.
+US Airways Group Inc. | merged with | PSA Airlines, Inc.
+US Airways Group Inc. | merged with | America West Airlines
+US Airways Group Inc. | merged with | Air Canada
+US Airways Group Inc. | merged with | American Airlines Group",512.0,1
+239,"Jerry Steiner | member of | February 1, 2012
+Butler University | located in the administrative territorial entity | Florida
+Jerry Steiner | member of | Butler University
+Jerry Steiner | member of | Indianapolis Kautskys
+Jerry Steiner | member of | American
+Jerry Steiner | member of | Fort Wayne Zollner Pistons
+Indianapolis Kautskys | located in the administrative territorial entity | United States
+Indianapolis Kautskys | country | United States",512.0,2
+240,"Joan Burton | member of | Eamon Gilmore
+Joan Burton | member of | Irish Labour Party
+Joan Burton | member of | Tnaiste and Leader of the Labour Party
+Joan Burton | member of | Labour Party
+Joan Burton | member of | Deputy Leader of the Labour Party",512.0,11
+241,,512.0,2
+242,"Lappeenranta | located in or next to country | Finnish
+Lappeenranta | located in or next to country | Russia
+Lappeenranta | located in or next to country | Russian
+Lappeenranta | located in or next to body of water | Lake Saimaa",512.0,1
+243,"Danbury | located in the administrative territorial entity | Connecticut
+Connecticut | located in the administrative territorial entity | New York
+Brooklyn | located in the administrative territorial entity | New York",512.0,0
+244,"Jan Smuts | member of | David Lloyd George
+Jan Smuts | member of | Winston Churchill
+Jan Smuts | member of | Parliament Square
+Jan Smuts | member of | Palmerston
+Jan Smuts | member of | UK
+Jan Smuts | member of | First World War
+Jan Smuts | member of | British
+Jan Smuts | member of | House of Commons
+Jan Smuts | member of | South Africa
+Jan Smuts | member of | Imperial War Cabinet",512.0,0
+245,"Panama | country | the United States
+Panama | located in the administrative territorial entity | the United States
+Panama | country | Latin America",512.0,0
+246,"British Army | defeated by | Imperial Japanese Army
+British Army | defeated by | Second World War
+British Army | defeated by | Japanese Malayan Campaign
+British Army | defeated by | Second World",512.0,0
+247,"General Motors New Zealand Limited | first owned not leased | overseas plant
+General Motors New Zealand Limited | incorporated on | 4 January 1926
+General Motors New Zealand Limited | named until 1994 as | General Motors New Zealand Limited
+General Motors New Zealand Limited | subsidiary of | General Motors of Detroit
+General Motors New Zealand Limited | assembly of vehicles | ended in 1990",460.0,0
+248,"Madagascar | country | French
+Piton des Neiges | highest point | French
+Piton des Neiges | located in or next to body of water | Indian Ocean
+Piton des Neiges | highest point | Réunion
+Rodrigues | country | French
+Piton des Neiges | highest point | Indian Ocean
+Réunion | country | French
+Mauritius | located in or next to body of water | Indian Ocean
+Mascarene Archipelago | located in or next to body of water | Indian Ocean
+Piton des Neiges | country | French
+Piton des Neiges | located in the administrative territorial entity | Réunion
+Réunion | located in or next to body of water | Indian Ocean
+Mauritius | country | French
+Réunion | located in the administrative territorial entity | French",512.0,0
+249,"Tadhg Kennelly | player | Irish Experiment
+VFL | related to | Irish Experiment
+Tommy Walsh | player | Irish Experiment
+Melbourne Football Club | initiates | Irish Experiment
+Australia | location | Irish Experiment
+AFL | related to | Irish Experiment
+Brownlow Medal | awarded to | Jim Stynes
+Sydney Swans | team | Irish Experiment
+Jim Stynes | player | Irish Experiment
+Medal of the Order of Australia | awarded to | Jim Stynes
+Irishman | related to | Irish Experiment
+2005 AFL Grand Final | event | Irish Experiment
+the mid-1980s | time period | Irish Experiment
+Ireland | location | Irish Experiment
+Irish Experiment | initiates | Melbourne Football Club",198.0,0
+250,"1893 | year | Drake Hotel
+1893 | year | the United States of America
+1893 | year | Old Original Bookbinder
+1893 | year | Samuel Bookbinder
+1893 | year | Chicago Tribune
+1893 | year | Philadelphia
+1893 | year | Chicago",512.0,2
+251,"Ecuadorian | replaced by | Leon Febres Cordero
+Ecuadorian | replaced by | Rafael Mendoza Avilés
+Ecuadorian | capital city | Eloy Alfaro
+Ecuadorian | replaced by | National census",512.0,2
+252,"Argentine | country | Argentina
+Ricardo Iorio | member | Almafuerte
+The 1980s | time period | Argentina
+Pappo | member | Riff
+Walter Giardino | member | Almafuerte
+Argentina | country | The 1980s",512.0,4
+253,"Ambrosio Plaza | located in the administrative territorial entity | Miranda
+Ambrosio Plaza Street | located in the administrative territorial entity | Bolívar Square
+Bolívar Square | located in the administrative territorial entity | Ambrosio Plaza",512.0,0
+254,"Jackson County | contains administrative territorial entity | Oregon
+Jackson County | located in the administrative territorial entity | Oregon",512.0,1
+255,"Social Democratic Left Party | calls for protests | against the official Swedish government position on the Finnish question
+Politiken | publishes | Social Democratic Left Party
+Sweden | contains administrative territorial entity | Finland
+Social Democratic Left Party | publishes | Politiken",512.0,0
+256,,512.0,4
+257,"Wuhan | located in the administrative territorial entity | Hubei
+Huangpi | located in the administrative territorial entity | Hubei
+Wuhan | located in the administrative territorial entity | China
+China | contains administrative territorial entity | Wuhan
+Wuhan | located in or next to body of water | Yangtze river",512.0,0
+258,"8th Annual Latin Grammy Awards | nominated for | La Llave de Mi Corazón
+Lulo Pérez | produced | El Tren de los Momentos
+November 7, 2006 | release date | El Tren de los Momentos
+Juan Luis Guerra | collaborated with | El Tren de los Momentos
+8th Annual Latin Grammy Awards | won by | El Tren de los Momentos
+El Tren de los Momentos | nominated for | Latin Grammy Award for Album of the Year
+Antonio Carmona | collaborated with | El Tren de los Momentos
+Spanish | language | El Tren de los Momentos
+50th Annual Grammy Awards | won by | El Tren de los Momentos
+50th Annual Grammy Awards | nominated for | El Tren de los Momentos
+2006 | year | El Tren de los Momentos
+El Tren de los Momentos | won | Grammy Award for Best Latin Pop Album
+Alejandro Sanz | produced | El Tren de los Momentos
+La Llave de Mi Corazón | won by | Juan Luis Guerra
+WEA Latina | released by | El Tren de los Momentos",409.0,1
+259,"Bald Island | located in the administrative territorial entity | Western Australia
+Rottnest Island | located in the administrative territorial entity | Western Australia
+Peoples Bay Nature Reserve | located in the administrative territorial entity | Western Australia
+Albany | located in the administrative territorial entity | Western Australia
+Perth | located in the administrative territorial entity | Western Australia",512.0,1
+260,"Google Drive | contains | Gmail
+Google Drive | contains | Google Maps
+Google Drive | contains | Google Sites
+Google Drive | contains | Google
+Google Drive | contains | Google Contacts
+Google Drive | contains | Google Calendar
+Google Drive | contains | Google Docs",512.0,0
+261,"Arkhangelsk | located in the administrative territorial entity | Russia
+Baltic Sea | located in or next to body of water | Russia
+Murmansk Oblasts | country | Russia
+Kola Peninsula | country | Russia
+Kholmogory | located in the administrative territorial entity | Russia
+Kanin Peninsula | located in the administrative territorial entity | Russia
+White Sea | located in the administrative territorial entity | Russia
+Arkhangelsk | country | Russia
+Murmansk Oblasts | located in the administrative territorial entity | Russia
+Kola Peninsula | located in the administrative territorial entity | Russia
+Black Sea | located in or next to body of water | Russia
+Baltic Sea | country | Russia
+Kanin Peninsula | country | Russia
+Russia | country | Russia
+Barents Sea | country | Russia
+Soviet | replaced by | Russia
+Barents Sea | located in or next to body of water | Russia
+Kholmogory | country | Russia
+White Sea–Baltic Canal | connects | White Sea and Baltic Sea
+White Sea | country | Russia",512.0,3
+262,"Robert Kingsbury Huntington | served on board | Lexington (CV-2)
+Robert Kingsbury Huntington | born on | 13 March 1921
+Robert Kingsbury Huntington | served on board | Hornet (CV-8)
+Robert Kingsbury Huntington | died on | 5 June 1942",512.0,1
+263,"Presence | publication date | March 1976
+Led Zeppelin | has part | Jimmy Page
+Presence | record label | Led Zeppelin
+Led Zeppelin | has part | Robert Plant",512.0,1
+264,,142.0,0
+265,"U.S. Congress | replaced by | Truth in Music
+U.S. Congress | replaced by | Truth in Music Advertising
+U.S. Congress | replaced by | U.S. Court of Appeals for the Third Circuit
+U.S. Congress | replaced by | Truth in Music Performance Advertising",512.0,0
+266,,512.0,5
+267,"Edmonton | contains administrative territorial entity | Alberta
+Edmonton | contains administrative territorial entity | Province of Alberta
+Edmonton | contains administrative territorial entity | Canada
+Edmonton | contains administrative territorial entity | City of Edmonton
+Edmonton | country | Canada
+Alberta | country | Canada
+Edmonton | located in the administrative territorial entity | Alberta
+City of Edmonton | located in the administrative territorial entity | Alberta",512.0,1
+268,"Hachette Filipacchi Associes | publisher | Lagardère
+Ici Paris | location | France
+Ici Paris | publisher | Hachette Filipacchi Associes
+Lagardère | publisher | Hachette Filipacchi Associes",512.0,1
+269,"China | country | Yao Bin
+China | country | Heilongjiang
+China | country | Luan Bo
+China | country | Sui Wenjing
+China | country | 1980 World Figure Skating Championships
+China | country | Ding Yang
+China | country | 1984 Winter Olympics",512.0,1
+270,"Burseraceae | contains genus | Boswellia sacra
+Burseraceae | contains genus | Anacardiaceae
+Burseraceae | contains genus | Boswellia sacra.
+Burseraceae | contains genus | Commiphora myrrha
+Burseraceae | contains genus | Dacryodes excelsa
+Burseraceae | contains genus | Gumbo limbo
+Burseraceae | contains genus | Tabonuco",512.0,0
+271,South African | country | African National Congress,512.0,1
+272,,512.0,3
+273,"Portugal | replaced by | Portuguese Carnation Revolution
+Portugal | replaced by | April 25, 1974",512.0,3
+274,,466.0,3
+275,"Ralph W. Haines | owner of Washington Place | West Virginia
+Ralph W. Haines | owner of Washington Place | United States
+Ralph W. Haines | owner of Washington Place | Hampshire County
+Ralph W. Haines | owner of Washington Place | West Virginia Route 28",512.0,0
+276,,395.0,0
+277,"Gold Circle Records | located in the administrative territorial entity | The US
+Gold Circle Records | located in or next to body of water | The US
+Gold Circle Records | contains administrative territorial entity | The US",512.0,0
+278,Washington | governor | Jay Inslee,512.0,6
+279,"Brian | has part | Alcoholics Anonymous
+Peter | has part | Death
+Alcoholics Anonymous | has part | Peter
+Peter | has part | Brian
+Death | has part | Peter
+Peter | has part | Alcoholics Anonymous
+Alcoholics Anonymous | has part | Death
+Alcoholics Anonymous | has part | Brian",512.0,0
+280,,512.0,0
+281,"Abkhazia | located in the administrative territorial entity | Abkhazia
+Abkhazia | contains administrative territorial entity | Russia
+Abkhazia | located in or next to body of water | Black Sea
+Abkhazia | country | Russia
+Abkhazia | contains administrative territorial entity | Abkhazia
+Abkhazia | contains administrative territorial entity | Sukhumi",512.0,0
+282,"Mexico | country | North America
+New Mexico | country | United States
+Baja California | location | North America
+American rosefinches | species | Haemorhous americanus
+John Cassin | person | curator at the Philadelphia Academy of Natural Sciences",153.0,4
+283,Partick Thistle | located in the administrative territorial entity | Scottish First Division,512.0,0
+284,"Bajofondo | calls itself a collaborative | Bajofondo Tango Club
+Bajofondo | led to touring | Bajofondo Tango Club
+Bajofondo | has toured around the world | Bajofondo Tango Club
+Bajofondo | particularly in the United States | Bajofondo Tango Club
+Bajofondo | all members have solo careers | Bajofondo Tango Club
+Bajofondo | founded as a studio experiment | Bajofondo Tango Club
+Bajofondo | particularly in Europe | Bajofondo Tango Club
+Bajofondo | particularly in Latin America | Bajofondo Tango Club
+Bajofondo | founded in the early 2000s | Bajofondo Tango Club
+Bajofondo | music has been used in film and television | Bajofondo Tango Club
+Bajofondo | based in Ro de la Plata | Bajofondo Tango Club
+Bajofondo | led to current lineup | Bajofondo Tango Club
+Bajofondo | particularly in Asia | Bajofondo Tango Club",512.0,0
+285,"Tongass National Forest | contains administrative territorial entity | Alaska
+Tongass National Forest | contains administrative territorial entity | U.S.",512.0,0
+286,"Eugene | commander | Imperialists
+Eugene | commander | Italian peninsula
+Eugene | commander | Franco – Spanish – Savoyard",512.0,0
+287,,512.0,2
+288,"A. R. Rahman | performer | Aa Bhi Jaa
+A. R. Rahman | performer | Raunaq : Conversation of Music and Poetry
+A. R. Rahman | composer | Raunaq : Conversation of Music and Poetry",512.0,0
+289,"Germany | country | Hanover
+Germany | country | Berlin",512.0,0
+290,"Vigra Church | located in the administrative territorial entity | Norway
+Vigra Church | located in the administrative territorial entity | Møre og Romsdal
+Roald | located in the administrative territorial entity | Norway
+Roald | located in the administrative territorial entity | Møre og Romsdal
+Roald | located in the administrative territorial entity | Ålesund
+Roald | located in the administrative territorial entity | Vigra Municipality
+Roald | located in the administrative territorial entity | Giske Municipality
+Vigra Church | located in the administrative territorial entity | Giske Municipality
+Roald | located in the administrative territorial entity | Vigra",512.0,0
+291,"Best Supporting Actor | category | Bruce Dern
+Best Actress | category | Jane Fonda
+Best Supporting Actress | actress | Susannah York
+Best Director | category | Sydney Pollack
+Best Supporting Actor | category | Gig Young
+Best Supporting Actress | category | Susannah York
+Best Adapted Screenplay | category | James Poe",512.0,3
+292,"Bonnie Kathleen Blair | born on | March 18, 1964",512.0,2
+293,"New York City Subway | contains administrative territorial entity | New York
+New York City Subway | country | United States
+New York City Subway | located in or next to body of water | Hudson River
+New York City Subway | located in the administrative territorial entity | New York",512.0,0
+294,"Boston Symphony Orchestra | located in the administrative territorial entity | United States
+Boston Symphony Orchestra | located in the administrative territorial entity | Massachusetts
+Boston Symphony Orchestra | located in the administrative territorial entity | Boston",512.0,0
+295,"Friends of Nature | established by | Liang Congjie
+Friends of Nature | established in | 1994",440.0,0
+296,,512.0,4
+297,"Core i9 - 9980XE Extreme Edition | replaced by | Intel
+Coffee Lake | replaced by | Intel
+Windows 8.1 | replaced by | Windows 10
+Intel | replaced by | Broadwell
+Windows 10 | replaced by | Intel
+Cannon Lake CPUs | replaced by | Intel
+Skylake CPUs | replaced by | Intel
+6th - generation Core | replaced by | Intel
+GPU | replaced by | Intel
+Windows | replaced by | Intel
+Microsoft | replaced by | Intel",152.0,2
+298,"Lewis of Luxembourg | replaced by | Charles VII
+Henry VI | replaced by | Charles VII
+Lewis of Luxembourg | replaced by | Henry VI
+Henry VI | replaced by | Lewis of Luxembourg",512.0,0
+299,,512.0,0
+300,"Saint Lucia | country | Caribbean
+Saint Lucia | located in or next to body of water | Caribbean
+Saint Lucia | contains administrative territorial entity | Caribbean
+Saint Lucia | capital city | Castries
+Saint Lucia | contains administrative territorial entity | Vieux Fort Quarter
+Saint Lucia | located in the administrative territorial entity | Caribbean
+Saint Lucia | contains administrative territorial entity | SLASPA
+Saint Lucia | contains administrative territorial entity | George F. L. Charles Airport",512.0,0
+301,"Mexico | country | Pahuatlán
+Mexico | country | Nahua
+Mexico | country | Puebla
+Mexico | country | San Pablito
+Mexico | country | Otomi
+Mexico | country | La Huasteca
+Mexico | country | Sierra Norte de Puebla",512.0,0
+302,"French Gendarmerie nationale Officers School | located in the administrative territorial entity | Paris
+French Gendarmerie nationale Officers School | founded in | 1901",512.0,1
+303,French Resistance | fought against | Nazi German occupation of France and against the collaborationist Vichy rgime during the Second World War,512.0,0
+304,,512.0,0
+305,"Toulouse Business School(TBS ) | founded by | Toulouse Chamber of Commerce and Industry
+Toulouse Business School(TBS ) | founded in | 1903",512.0,0
+306,,512.0,0
+307,"Minnehaha Falls | located in the administrative territorial entity | Minneapolis
+Minneapolis Park and Recreation Board | located in the administrative territorial entity | Minneapolis
+Minnehaha Creek | located in the administrative territorial entity | Minneapolis
+Minneapolis Park and Recreation Board | country | United States
+Minneapolis | located in the administrative territorial entity | Minnesota
+Mississippi River | located in the administrative territorial entity | Minnesota",512.0,1
+308,"King of the Hill | voice actor | Jonathan Joss
+Jonathan Joss | musician | Red Corn Band
+Jonathan Joss | voice actor | King of the Hill
+Jonathan Joss | actor | Parks and Recreation
+Jonathan Joss | actor | King of the Hill
+King of the Hill | actor | Jonathan Joss",512.0,0
+309,"11 January 1930 | publication date | San Pietro a Maiella Conservatory
+Francesco De Masi | deathdate | Santa Cecilia Conservatory
+Francesco De Masi | born in the administrative territorial entity | San Pietro a Maiella Conservatory
+San Pietro a Maiella Conservatory | located in the administrative territorial entity | Naples
+11 January 1930 | birthdate | San Pietro a Maiella Conservatory
+6 November 2005 | deathdate | Santa Cecilia Conservatory",512.0,3
+310,"Belize City | located in or next to body of water | Caribbean Sea
+Belize City | located in or next to body of water | Belize River
+Belize City | located in the administrative territorial entity | Belize
+Belize City | country | Central America
+Belize City | country | Belize",512.0,0
+311,"Robert Burns Fellowship | provides a year's salary | Otago, New Zealand
+Robert Burns Fellowship | named after a city in New Zealand | Auckland
+Robert Burns Fellowship | named after a city in Scotland | Invercargill
+Robert Burns Fellowship | named after a city in Scotland | Dunedin
+Robert Burns Fellowship | named after a nephew of Robert Burns | Thomas Burns
+Robert Burns Fellowship | established by an anonymous group | thought to have been instigated by Charles Brasch
+Robert Burns Fellowship | named after Scotland's national poet | Robert Burns
+Robert Burns Fellowship | named after a city in Scotland | Glasgow
+Robert Burns Fellowship | named after a city in New Zealand | Dunedin
+Robert Burns Fellowship | provides accommodation and an office | Otago, New Zealand
+Robert Burns Fellowship | established in 1958 | bicentennial celebration
+Robert Burns Fellowship | named after a city in New Zealand | Wellington
+Robert Burns Fellowship | named after a city in New Zealand | Palmerston North
+Robert Burns Fellowship | based at the University of Otago | Dunedin, New Zealand
+Robert Burns Fellowship | claimed to be New Zealand's premier literary residency | New Zealand
+Robert Burns Fellowship | named after a city in New Zealand | Nelson
+Robert Burns Fellowship | named after a city in Scotland | Edinburgh
+Robert Burns Fellowship | named after a city in Scotland | Auckland
+Robert Burns Fellowship | named after a city in Scotland | Hamilton
+Robert Burns Fellowship | named after a city in Scotland | Inverness
+Robert Burns Fellowship | provides for a writer in and around the university | Otago, New Zealand
+Robert Burns Fellowship | named after a city in New Zealand | Christchurch",512.0,0
+312,"1993 | publication date | Fortress
+French | nationality | Frédéric Talgorn
+1990 | publication date | Fortress
+Paris Conservatoire | educational institution | Frédéric Talgorn
+1990 | publication date | Robot Jox
+1992 | event | Olympic
+1992 | publication date | The Temp
+Sabine Lacoraet | teacher | Frédéric Talgorn
+2 July 1961 | birthdate | Frédéric Talgorn
+1992 Winter Olympic Games | event | Olympic
+1989 | publication date | Edge of Sanity
+Toulouse | location | Frédéric Talgorn
+1992 | publication date | Fortress
+Yvonne Loriod | teacher | Frédéric Talgorn
+1993 | publication date | The Temp
+1993 | publication date | Robot Jox
+1993 | publication date | Edge of Sanity",195.0,0
+313,,512.0,0
+314,"The Hub | computer network music ensemble | formed in 1986
+The Hub | formed in 1986 | American",512.0,0
+315,"United States | appoints | Senate
+Donald Trump | appoints | United States ambassadors
+United States | appoints | Foreign Service Officers
+United States | appoints | State Department
+United States | appoints | Donald Trump",512.0,1
+316,"Charles Schulz | creator of | Peanuts
+Snoopy and His Friends | contains | Snoopy vs. the Red Baron
+Snoopy and His Friends | released in | 1966
+Snoopy and His Friends | album by | The Royal Guardsmen
+Charles Schulz | creator of | Snoopy
+Snoopy and His Friends | contains | Snoopy's Christmas",512.0,0
+317,"Yi Seok | member of | Joseon Dynasty
+Yi Seok | member of | Korean
+Yi Seok | member of | Seoul
+Yi Seok | member of | Joseon
+Yi Seok | member of | Republic of Korea
+Yi Seok | member of | Hanok Village
+Yi Seok | member of | House of Yi
+Yi Seok | member of | Emperor Gojong",512.0,0
+318,"Babylon 5 | composer | Earthtone
+Babylon 5 | composer | Berlin Symphonic Film Orchestra
+Babylon 5 | composer | Ludwig²
+Babylon 5 | composer | Tenchi Muyo
+Babylon 5 | composer | 1995
+Babylon 5 | composer | Berlin
+Babylon 5 | composer | Christopher Franke
+Babylon 5 | composer | AFI",512.0,0
+319,,512.0,1
+320,,512.0,1
+321,Samsung Galaxy S | released in | June 2010,512.0,0
+322,"Friday Night Lights | actor | George Tucker
+Hart of Dixie | actor | July 14, 1979
+Hart of Dixie | actor | CBS
+Hart of Dixie | actor | Alyson Michalka
+Friday Night Lights | actor | Vanessa Hudgens
+Bandslam | actor | Matthew Scott Porter
+Hart of Dixie | actor | The Good Wife
+Friday Night Lights | actor | Matthew Scott Porter
+The Good Wife | actor | Vanessa Hudgens
+Friday Night Lights | actor | The Good Wife
+Friday Night Lights | actor | NBC
+Hart of Dixie | actor | George Tucker
+Bandslam | actor | 2010
+The Good Wife | actor | The Good Wife
+Friday Night Lights | actor | Alyson Michalka
+The Good Wife | actor | George Tucker
+The Good Wife | actor | July 14, 1979
+Friday Night Lights | actor | Blake
+Friday Night Lights | actor | July 14, 1979
+Bandslam | actor | George Tucker
+The Good Wife | actor | Alyson Michalka
+Hart of Dixie | actor | Vanessa Hudgens
+The Good Wife | actor | 2010
+Hart of Dixie | actor | NBC
+Bandslam | actor | The Good Wife
+Friday Night Lights | actor | CBS
+Hart of Dixie | actor | 2010
+Bandslam | actor | CBS
+The Good Wife | actor | Matthew Scott Porter
+Friday Night Lights | actor | 2010
+The Good Wife | actor | NBC
+Bandslam | actor | Alyson Michalka
+Bandslam | actor | Vanessa Hudgens
+Bandslam | actor | July 14, 1979
+Hart of Dixie | actor | Matthew Scott Porter
+The Good Wife | actor | CBS
+Bandslam | actor | NBC",367.0,0
+323,"BBC | founded | Newsnight
+Newsnight | programme | BBC
+Newsnight | programme | BBC World News
+Newsnight | programme | BBC Television
+BBC | founded | BBC Two
+Newsnight | programme | BBC Two
+Kirsty Wark | presenter | Newsnight
+7 July 2011 | event | Newsnight
+BBC | founded | BBC Television
+Emily Maitlis | presenter | Newsnight
+BBC | founded | BBC World News
+Newsnight | programme | BBC iPlayer
+BBC | founded | BBC iPlayer
+News of the World | event | Newsnight",242.0,0
+324,Brandenburg-Prussia | formed by | Margraviate of Brandenburg and Duchy of Prussia,512.0,0
+325,Matthew Henry | notable work | Commentary,512.0,1
+326,"The Expendables | box office success | The Expendables 3
+The Expendables | starring | Sylvester Stallone
+The Expendables | created by | David Callaham
+The Expendables | directed by | Sylvester Stallone
+The Expendables | released in | 2010
+The Expendables | released in | 2014
+The Expendables | box office success | The Expendables
+The Expendables | written by | Sylvester Stallone
+The Expendables | box office success | The Expendables 2
+The Expendables | released in | 2012",512.0,1
+327,"Amtrak | operator | Penn Line
+1983 | year | Amtrak
+Maryland Transit Administration | operator | Penn Line
+MARC | operator | Penn Line
+Washington | location | Penn Line
+Pennsylvania Railroad | operator | Penn Line
+Baltimore | location | Penn Line
+1978 | year | Amtrak
+Perryville | location | Penn Line
+Union Station | location | Washington
+Penn Central | operator | Penn Line
+Penn Line | operator | Amtrak
+Northeast Corridor | location | Penn Line
+Maryland | location | Penn Line
+Amtrak | operator | Chesapeake",136.0,0
+328,"Guantanamo Bay detainment camps | located in or next to body of water | Caribbean Sea
+Guantanamo Bay detainment camps | located in the administrative territorial entity | Cuba
+Guantanamo Bay detainment camps | contains administrative territorial entity | Cuba
+Guantanamo Bay detainment camps | contains administrative territorial entity | Guantanamo Bay Naval Base
+Guantanamo Bay detainment camps | country | United States",512.0,0
+329,"St Anne | subject | Virgin and Child with St Anne and St John the Baptist
+Virgin and Child with St Anne and St John the Baptist | artwork | Leonardo da Vinci
+Virgin and Child with St Anne and St John the Baptist | location | National Gallery, London
+Virgin Mary | subject | Virgin and Child with St Anne and St John the Baptist
+St Anne | location | Virgin and Child with St Anne and St John the Baptist
+Virgin Mary | location | Virgin and Child with St Anne and St John the Baptist",512.0,1
+330,"Les Plus Beaux Villages de Wallonie | member of | Crupet
+Crupet | member of | Les Plus Beaux Villages de Wallonie",512.0,0
+331,"UCL Partners | located in the administrative territorial entity | UCLH/UCL Biomedical Research Centre
+UCL Partners | located in the administrative territorial entity | UCL Medical School
+UCLH/UCL Biomedical Research Centre | located in the administrative territorial entity | UCL Partners
+UCL Medical School | located in the administrative territorial entity | UCL Partners",512.0,0
+332,,512.0,0
+333,"Jayaram | actor | 2014
+Jayaram | actor | Njangalude Veettile Athidhikal",512.0,0
+334,"Naomi van As | finished her international sportive career at the | 2016 Summer Olympics in Rio de Janeiro
+Naomi van As | part of | Dutch squad that became World Champions at the 2006 Women's Hockey World Cup
+Naomi van As | plays for | MHC Laren
+Naomi van As | became Olympic Gold medal winner with | her national team at the 2012 Summer Olympics
+Naomi van As | part of | Dutch squad that won the 2007 Champions Trophy
+Naomi van As | Olympic | 2008
+Naomi van As | part of | Dutch squad
+Naomi van As | Dutch | Dutch
+Naomi van As | debuted for | Netherlands national team
+Naomi van As | was named FIH Player of the Year in | 2009 and 2016
+Naomi van As | Olympic | Beijing
+Naomi van As | Olympic | 2016 Summer Olympics
+Naomi van As | born on | 26 July 1983
+Naomi van As | became Olympic Gold medal winner with | her national team at the 2008 Summer Olympics
+Naomi van As | Olympic | 2016
+Naomi van As | Olympic | Olympic
+Naomi van As | Olympic | Rio de Janeiro",512.0,6
+335,Mariana Cook | nationality | American,512.0,5
+336,"Load | record label | Vertigo Records
+Metallica | has part | Load
+Load | location of formation | alternative rock
+Metallica | has part | Lars Ulrich
+Load | location of formation | Southern rock
+Load | location of formation | Vertigo Records
+Load | publication date | June 4, 1996
+Load | record label | Elektra Records
+Load | location of formation | country rock
+Load | location of formation | American
+Load | location of formation | Elektra Records",512.0,2
+337,"Eskom | located in the administrative territorial entity | South Africa
+Eskom | located in the administrative territorial entity | Public Service and Administration",512.0,0
+338,"Joseph Reid Anderson | member of | American Civil War
+Joseph Reid Anderson | member of | Tredegar Iron Works
+Joseph Reid Anderson | member of | Confederate States Army
+Joseph Reid Anderson | member of | Army",512.0,0
+339,"Docklands | contains administrative territorial entity | Victoria Dock
+Docklands | located in the administrative territorial entity | Australia
+Docklands | contains administrative territorial entity | Docklands Stadium
+Docklands | contains administrative territorial entity | Victoria Harbour",512.0,0
+340,"Denmark | located in or next to body of water | Great Belt
+Denmark | located in or next to body of water | Kattegat
+Denmark | located in the administrative territorial entity | Europe",512.0,0
+341,"Blashkevich | born in | Russian Federation
+Blashkevich | born in | Bely
+Blashkevich | born in | Tver Oblast
+Blashkevich | born in | Russian
+Blashkevich | died in | Niederalteich
+Blashkevich | died in | Germany",512.0,1
+342,"South Wigston High School | notable alumni include Sue Townsend (1946-1950), author | Leicester
+South Wigston High School | BBC2 produced a documentary entitled,  The Secret Life of Sue Townsend Aged 68 ¾. | Leicester
+South Wigston High School | much of the documentary was filmed at the school and current students participated | Leicester
+South Wigston High School | known for its wide range of extra-curricular opportunities | Leicester
+South Wigston High School | an 11-16 yrs Academy | Leicester
+South Wigston High School | notable alumni include Brett Deacon (1992-1996), Rugby Player for Leicester Tigers and England | Leicester
+South Wigston High School | extensive grounds | Leicester
+South Wigston High School | current students participated | Leicester
+South Wigston High School | growing year on year | Leicester
+South Wigston High School | main feeder primary schools | Glen Hills, Fairfield, Parkland
+South Wigston High School | inclusive and at the heart of the community | Leicester
+South Wigston High School | purpose build sports centre | Leicester
+South Wigston High School | serves the local community of South Wigston | Leicester
+South Wigston High School | oversubscribed | Leicester
+South Wigston High School | attracts students from many areas of the city of Leicester and the county of Leicestershire | Leicester
+South Wigston High School | notable alumni include Louis Deacon (1991-1995), Rugby Player for Leicester Tigers and England | Leicester
+South Wigston High School | founded in 1938 | Leicester
+South Wigston High School | opened by Gary Lineker | Leicester",512.0,0
+343,,512.0,1
+344,"New Brunswick | country | Canada
+Canada | country | New Brunswick
+Canada | country | Sackville
+Sackville, New Brunswick | location | Canada",512.0,0
+345,"Warner Bros. Television | owns | Shed Media UK
+Warner Bros. Television | owns | Shed Media",512.0,1
+346,,512.0,1
+347,"Józef Piłsudski Monument | located near the Polish Navy Shipyards | Warsaw
+Józef Piłsudski Monument | located near Tokarzewski-Karaszewicz Street | Łazienki
+Józef Piłsudski Monument | located near Pisudski's Square | Hotel Europejski
+Józef Piłsudski Monument | located near the Tomb of the Unknown Soldier | Warsaw
+Józef Piłsudski Monument | located near Na Rozdrożu Square | Warsaw
+Warsaw | location of Józef Piłsudski Monument | Poland
+Warsaw | location of Józef Piłsudski Monument | Poland.
+Józef Piłsudski Monument | erected to honor Jzef Pisudski | Marshal of Poland",494.0,0
+348,"Moscow State University | country | Russian
+Александр Алексеевич Боровков | country | Russian
+Sobolev Institute of Mathematics | country | Russian
+Siberian Branch of the Russian Academy of Sciences | country | Russian
+Novosibirsk State University | country | Russian
+Andrey Kolmogorov | country | Russian
+Александр Алексеевич Боровков | birthdate | 6 March 1931
+Moscow | country | Russian
+Moscow State University | located in the administrative territorial entity | Russian
+Sobolev Institute of Mathematics | located in the administrative territorial entity | Russian
+Novosibirsk State University | located in the administrative territorial entity | Russian
+Александр Алексеевич Боровков | nationality | Russian
+Siberian Branch of the Russian Academy of Sciences | located in the administrative territorial entity | Russian
+Russian | country | Russian",393.0,3
+349,"Michael Imperioli | starred in | ABC
+Michael Imperioli | starred in | Canada
+Michael Imperioli | starred in | Mad Dogs
+Michael Imperioli | starred in | Detective Ray Carling
+Michael Imperioli | starred in | NYPD
+Michael Imperioli | starred in | Nick Falco
+Michael Imperioli | starred in | The Sopranos
+Michael Imperioli | starred in | The Hungry Ghosts
+Michael Imperioli | starred in | Law & Order
+Michael Imperioli | starred in | Christopher Moltisanti
+Michael Imperioli | starred in | Shomi
+Michael Imperioli | starred in | Amazon Prime subscription service
+Michael Imperioli | born on | March 26, 1966
+Michael Imperioli | starred in | Life on Mars",512.0,5
+350,"Elvis Presley | performer | Charro
+Elvis Presley | performer | Memories
+Elvis Presley | performer | Charro!",512.0,0
+351,"Commerce Department | located in the administrative territorial entity | Washington, D.C.
+Commerce Department | country | United States",512.0,5
+352,"Avril Lavigne | country | Canadian
+Avril Lavigne | country | Canada
+Avril Lavigne | record label | Sony Music Entertainment
+Avril Lavigne | performer | Rock n Roll",512.0,7
+353,"Smoke Break | producer | Jay Joyce
+Smoke Break | location of release | US
+Smoke Break | record label | Sony Music Nashville
+Smoke Break | performer | Carrie Underwood
+Smoke Break | writer | Carrie Underwood, Chris DeStefano, Hillary Lindsey
+Smoke Break | release date | August 21, 2015",512.0,4
+354,,512.0,2
+355,"Edmund Burke | member of parliament | 12 January
+Edmund Burke | member of parliament | Reflections on the Revolution in France
+Edmund Burke | member of parliament | French Revolution
+Edmund Burke | member of parliament | London
+Edmund Burke | member of parliament | New Whigs
+Edmund Burke | member of parliament | Irish
+Edmund Burke | member of parliament | Dublin
+Edmund Burke | member of parliament | A Vindication of Natural Society
+Edmund Burke | member of parliament | Whig Party
+Edmund Burke | member of parliament | House of Commons
+Edmund Burke | member of parliament | British
+Edmund Burke | member of parliament | Charles James Fox
+Edmund Burke | member of parliament | Catholic
+Edmund Burke | member of parliament | July 1797",512.0,5
+356,Russian Empire | replaced by | Finland,512.0,0
+357,"Väinämöinen | author of Kalevala | Finnish
+Elias Lönnrot | author of Kalevala | Finnish
+Väinämöinen | character | Kalevala
+Aino | character | Kalevala
+Joukahainen | character | Kalevala
+Kalevala | written by Elias Lönnrot | Finnish",512.0,1
+358,"NPR | location | New York City
+Greene Space | location | New York City",512.0,2
+359,"Villanova Preparatory School | located in the administrative territorial entity | Roman Catholic Archdiocese
+Villanova Preparatory School | located in the administrative territorial entity | Villanova
+Villanova Preparatory School | located in the administrative territorial entity | Los Angeles
+Villanova Preparatory School | located in the administrative territorial entity | North America
+Villanova Preparatory School | located in the administrative territorial entity | Augustinians
+Villanova Preparatory School | located in the administrative territorial entity | Augustinian Catholic
+Villanova Preparatory School | located in the administrative territorial entity | John Cantwell
+Villanova Preparatory School | located in the administrative territorial entity | October 1924
+Villanova Preparatory School | located in the administrative territorial entity | California
+Villanova Preparatory School | located in the administrative territorial entity | Augustinian Secondary Education Association
+Villanova Preparatory School | located in the administrative territorial entity | Ojai
+Villanova Preparatory School | located in the administrative territorial entity | United States",512.0,0
+360,Portugal | country | Eurovision Song Contest 2009,512.0,1
+361,"Saint Louis County | contains administrative territorial entity | Minnesota
+Saint Louis County | contains administrative territorial entity | United States
+Saint Louis County | located in the administrative territorial entity | United States",512.0,0
+362,"Michel Ancel | creates | Beyond Good & Evil
+Ubisoft Pictures | develops | Beyond Good & Evil
+Beyond Good & Evil | developed by | Ubisoft Pictures
+Ubisoft | develops | Beyond Good & Evil 2
+Ubisoft | publishes | Beyond Good & Evil
+Beyond Good & Evil | published by | Ubisoft
+Beyond Good & Evil | developed by | Ubisoft",512.0,0
+363,"Black Lake | located in the administrative territorial entity | Michigan
+United States | located in the administrative territorial entity | Michigan
+Detroit | located in the administrative territorial entity | Michigan
+Onaway | located in the administrative territorial entity | Michigan
+United Auto Workers Union | located in the administrative territorial entity | United States
+United States | country | United States
+Lake Huron | located in the administrative territorial entity | Michigan
+Presque Isle | located in the administrative territorial entity | Michigan
+Black River Marina | located in the administrative territorial entity | Michigan
+United States | contains administrative territorial entity | Michigan
+Michigan | country | United States
+Michigan | contains administrative territorial entity | United States
+Lake Huron | contains administrative territorial entity | Michigan
+Walter and May Reuther Family Education Center | located in the administrative territorial entity | Michigan
+Onaway State Park | located in the administrative territorial entity | Michigan
+Civilian Conservation Corps | located in the administrative territorial entity | United States
+National Register of Historic Places | located in the administrative territorial entity | United States
+211 Outpost | located in the administrative territorial entity | Michigan
+Lower Black | located in the administrative territorial entity | Michigan
+Cheboygan | located in the administrative territorial entity | Michigan",332.0,0
+364,"Fyodor Davydovich Kulakov | replaced by | Leonid Brezhnev
+Leonid Brezhnev | replaced by | Fyodor Davydovich Kulakov
+Fyodor Davydovich Kulakov | replaced by | Mikhail Gorbachev",512.0,0
+365,Bonatti | advisor | Dante's Divine Comedy,512.0,10
+366,"Jay Sean | performer | India
+Jay Sean | performer | My Own Way
+Jay Sean | performer | Maybe
+Jay Sean | performer | 20 April 2008
+Jay Sean | performer | 28 April 2008
+Jay Sean | performer | Hindi",512.0,0
+367,"University of Illinois | replaced by | Sangamon State University
+Sangamon State University | replaced by | University of Illinois",512.0,0
+368,"Dinamo București | located in the administrative territorial entity | Bucharest
+Dinamo București | contains administrative territorial entity | Bucharest",512.0,2
+369,"Android | contains administrative territorial entity | Google Play
+Android | contains administrative territorial entity | Titanfall
+Android | contains administrative territorial entity | Titanfall : Assault
+Android | contains administrative territorial entity | Nexon
+Android | contains administrative territorial entity | Respawn
+Android | contains administrative territorial entity | Particle City
+Android | contains administrative territorial entity | August 2017
+Android | contains administrative territorial entity | IOS",512.0,0
+370,,512.0,3
+371,"Russian | country | Muscovite Rus
+Kievan | located in the administrative territorial entity | Muscovite Rus
+Vladimir - Suzdal | located in the administrative territorial entity | Muscovite Rus
+1560 | publication date | Muscovite Rus
+Moscow | located in the administrative territorial entity | Muscovite Rus
+Augustus | member of | Roman Empire
+Book of Degrees of the Royal Genealogy | publication date | Muscovite Rus
+Macarius | member of | Muscovite Rus",512.0,2
+372,"Han Lei | performed in | I Am a Singer (season 2
+Han Lei | performed in | 2009, A.D.
+Han Lei | participated in | I Am a Singer (season 2)
+Han Lei | performed in | 2006, A.D.
+Han Lei | performed in | 2014, A.D.
+Han Lei | of Han Chinese descent | through his father
+Han Lei | won | Hunan Television
+Han Lei | performed in | 2002, A.D.
+Han Lei | performed in | Coming Home
+Han Lei | performed in | 2000, A.D.
+Han Lei | performed in | 2019, A.D.
+Han Lei | performed in | 2011, A.D.
+Han Lei | performed in | 2013, A.D.
+Han Lei | performed in | 1998, A.D.
+Han Lei | performed in | 2018, A.D.
+Han Lei | performed in | 2021, A.D.
+Han Lei | performed in | 2017, A.D.
+Han Lei | performed in | 2004, A.D.
+Han Lei | performed in | 1999, A.D.
+Han Lei | rose to prominence | 1997, A.D.
+Han Lei | performed in | 2020, A.D.
+Han Lei | performed in | I Am a Singer (season 2)
+Han Lei | performed in | 2007, A.D.
+Han Lei | performed in | Xiang Tian Zai Jie Wu Bai Nian
+Han Lei | raised in | Hohhot
+Han Lei | of Mongol descent | through his mother
+Han Lei | performed in | 2015, A.D.
+Han Lei | performed in | 2001, A.D.
+Han Lei | performed in | 2008, A.D.
+Han Lei | performed in | 2012, A.D.
+Han Lei | performed in | 2005, A.D.
+Han Lei | performed in | The Emperor in Han Dynasty
+Han Lei | performed in | Hunan Television
+Han Lei | performed in | I 'll Go with You to the Ends of the Earth
+Han Lei | performed in | 2010, A.D.
+Han Lei | performed in | 2016, A.D.
+Han Lei | performed in | 2003, A.D.
+Han Lei | performed in | Kangxi Dynasty
+Han Lei | born in | February 23, 1968
+Han Lei | performed in | CCTV New Year's Gala",512.0,0
+373,Louis XIV | replaced by | Louis XIII,512.0,45
+374,"Buenos Aires | located in the administrative territorial entity | Argentina
+Buenos Aires | country | Argentina
+Buenos Aires | located in or next to body of water | Samborombón Bay
+Buenos Aires | contains administrative territorial entity | Argentina",512.0,1
+375,"Alexandria | located in the administrative territorial entity | Egypt
+Egypt | country | Alexandria",512.0,3
+376,"Eleonora Vallone | born in | Rome
+Elena Varzi | actress | Raf Vallone's wife
+Eleonora Vallone | made her film debut in | Gardenia
+Raf Vallone | actor | Eleonora Vallone's father
+Eleonora Vallone | starred in | Le rose di Danzica
+Eleonora Vallone | daughter of | Raf Vallone
+Eleonora Vallone | wrote three books about waterobics in | GymVasca
+Italian | nationality | Eleonora Vallone
+Eleonora Vallone | daughter of | Elena Varzi
+Alberto Bevilacqua | director of | Le rose di Danzica
+Eleonora Vallone | born on | 1 February 1955
+Gardenia | film | 1979",381.0,8
+377,"Fingerpori | location of setting | Finnish small town
+Fingerpori | location of setting | Finnish small town.",512.0,0
+378,"Michael Jackson | performer | Thriller
+Michael Jackson | performer | Beat It
+Michael Jackson | performer | Number Ones
+Michael Jackson | performer | Black or White
+Michael Jackson | performer | Billie Jean
+Michael Jackson | performer | Invincible
+Michael Jackson | performer | Off the Wall",512.0,0
+379,"Nicki Minaj | performer | the United States
+Nicki Minaj | performer | Trophies
+Nicki Minaj | performer | 2014
+Nicki Minaj | performer | Lookin Ass
+Nicki Minaj | performer | Young Money : Rise of an Empires
+Nicki Minaj | performer | March 11, 2014
+Nicki Minaj | performer | Choppa Boi
+Nicki Minaj | performer | February 14, 2014
+Nicki Minaj | performer | Detail",512.0,0
+380,"BBC | owns | BBC Two
+BBC | owns | BBC
+BBC | owns | BBC One
+BBC | owns | CBeebies
+BBC | owns | S4C
+BBC | owns | BBC HD
+BBC | owns | BBC Alba
+BBC | owns | CBBC HD
+BBC | owns | CBBC",512.0,0
+381,"Berkeley Divinity School | located in the administrative territorial entity | Connecticut
+Chauncey Bunce Brewster | member of | Berkeley Divinity School
+Chauncey Bunce Brewster | member of | Episcopal Diocese of Connecticut
+Yale College | located in the administrative territorial entity | Connecticut
+Chauncey Bunce Brewster | member of | Yale College
+Chauncey Bunce Brewster | member of | Windham
+Windham | located in the administrative territorial entity | Connecticut
+Episcopal Diocese of Connecticut | located in the administrative territorial entity | United States
+Christ Church | located in the administrative territorial entity | New Haven
+Chauncey Bunce Brewster | member of | Christ Church
+Chauncey Bunce Brewster | member of | Hopkins Grammar School
+New Haven | located in the administrative territorial entity | Connecticut
+Chauncey Bunce Brewster | member of | Skull and Bones
+Chauncey Bunce Brewster | member of | Connecticut
+Chauncey Bunce Brewster | member of | Phi Beta Kappa",512.0,5
+382,"Olympic National Park | contains administrative territorial entity | Olympic Peninsula
+Olympic National Park | contains administrative territorial entity | American
+Olympic National Park | country | American
+Olympic National Park | located in or next to body of water | Pacific
+Olympic National Park | contains administrative territorial entity | State of Washington
+Olympic National Park | located in the administrative territorial entity | State of Washington",512.0,0
+383,,512.0,1
+384,,512.0,2
+385,"Monster Games | developer | Excite Truck
+Monster Games | developer | Wii Wheel
+Nintendo of America | release date | April 20, 2009
+Nintendo | publisher | Wii
+Nintendo Australia | location | Excite Truck
+Nintendo Australia | location | Wii Wheel
+Japan | location | Excite Truck
+Nintendo | publisher | Wii Wheel
+Japan | location | Excitebots : Trick Racing
+Monster Games | developer | Excitebots : Trick Racing
+Nintendo | publisher | Nintendo of America
+Japan | location | Wii Wheel
+Japanese Club Nintendo | member | Nintendo
+Nintendo Australia | location | Excitebots : Trick Racing
+Nintendo | publisher | Excite Truck
+Nintendo | publisher | Excitebots : Trick Racing",190.0,1
+386,"Cook Strait | located in or next to body of water | New Zealand
+Rimutaka Forest Park | located in the administrative territorial entity | New Zealand
+New Zealand | country | North Island
+New Zealand | country | Cook Strait
+Rimutaka Forest Park | located in or next to body of water | Cook Strait
+Rimutaka Forest Park | country | Department of Conservation
+Rimutaka Forest Park | country | Cook Strait
+New Zealand | country | Department of Conservation
+Department of Conservation | located in the administrative territorial entity | New Zealand
+North Island | country | Cook Strait
+Rimutaka Forest Park | country | New Zealand
+Rimutaka Ranges | country | New Zealand
+Rimutaka Ranges | located in the administrative territorial entity | New Zealand
+Rimutaka Forest Park | country | North Island",512.0,0
+387,,512.0,2
+388,"Fatih Terim | born on | 4 September 1953
+Fatih Terim | award ceremony | Rothenburg, Germany
+Fatih Terim | nationality | Turkish
+Fatih Terim | previous positions | manager of several clubs in Italy and Turkey, as well as the Turkish national football team
+Fatih Terim | award category | best coach at UEFA Euro 2008
+Fatih Terim | current position | manager of Galatasaray",512.0,10
+389,,512.0,0
+390,"Okotoks | located in the administrative territorial entity | Alberta
+Canada | country | North America
+Alberta | country | Canada
+North America | country | Canada
+Okotoks | country | Canada",512.0,0
+391,"Elwood C. Buchanan, Sr | born in the administrative territorial entity | Missouri
+Elwood C. Buchanan, Sr | born in the administrative territorial entity | January 26, 1907
+Elwood C. Buchanan, Sr | born in the administrative territorial entity | St Louis
+Elwood C. Buchanan, Sr | born in the administrative territorial entity | Missouri.",497.0,0
+392,"Bad Religion | has part | Part III
+Bad Religion | has part | Brett Gurewitz
+Bad Religion | has part | How Could Hell Be Any Worse?
+Bad Religion | has part | Epitaph Records
+Bad Religion | has part | 1988
+Bad Religion | has part | Greg Hetson
+Bad Religion | has part | Jay Ziskrout
+Bad Religion | has part | California
+Bad Religion | has part | Circle Jerks
+Bad Religion | has part | Hollywood Bowl
+Bad Religion | has part | Pete Finestone
+Bad Religion | has part | Dante
+Bad Religion | has part | Jay Bentley
+Bad Religion | has part | Track Record Studios
+Bad Religion | has part | Divine Comedy
+Bad Religion | has part | North Hollywood
+Bad Religion | has part | Suffer",512.0,2
+393,Greek | language | Hellenic Macedonia,512.0,1
+394,"Stanisław "" Stan "" Tymiński | born in | Pruszków
+Stanisław "" Stan "" Tymiński | born on | January 27, 1948",512.0,2
+395,"Lewis Stone | actor | Paris
+Alexander Korda | director | The Private Life of Helen of Troy
+Lewis Stone | actor | Helen of Troy
+Lewis Stone | actor | Menelaus
+Academy Awards | year | 1929
+1925 | year | The Private Life of Helen of Troy
+Gerald Duffy | writer | The Private Life of Helen of Troy
+The Private Life of Helen of Troy | film | 1927
+Awards | category | Best Title Writing",512.0,0
+396,Pakistani Supreme Court | event | Pakistan,145.0,4
+397,Gustaf V | resides in | Tullgarn Palace,512.0,1
+398,"Battle of Ain Jalut | fought between | Mamluks of Cairo and the forces of Egypt
+Battle of Ain Jalut | caused | the defeat of the Ilkhanate armies in Syria and the Levant
+Battle of Ain Jalut | forced | the Ilkhanate armies out of Syria and the Levant
+Battle of Ain Jalut | resulted in | the Ayyubid princes of Homs and Hama remaining in possession of their lands
+Battle of Ain Jalut | resulted in | the main cities of Syria, Aleppo and Damascus being left open to Mamluk occupation
+Battle of Ain Jalut | resulted in | the Ayyubid princes of Homs and Hama fighting and winning the First Battle of Homs
+Battle of Ain Jalut | resulted in | the Ayyubid dynasty in Syria being effectively ended
+Battle of Ain Jalut | ended | Mamluk occupation of Syria and the Levant
+Battle of Ain Jalut | won by | Mamluks of Cairo
+Battle of Ain Jalut | resulted in | the Ayyubid princes of Homs and Hama fighting and winning the First",512.0,0
+399,"Bharatiya Janata Party | political party | Bharatiya Janata Party
+Uma Bharti | political party | Bharatiya Janata Party
+Ravishankar Shukla | political party | Indian National Congress
+1 November 1956 | date | 1 November 1956
+Govind Narayan Singh | political party | Samyukta Vidhayak Dal
+Digvijaya Singh | political party | Indian National Congress
+Madhya Pradesh Legislative Assembly | body | Legislative Assembly
+Shivraj Singh Chouhan | political party | Bharatiya Janata Party
+Indian National Congress | political party | Indian National Congress
+Samyukta Vidhayak Dal | political party | Samyukta Vidhayak Dal
+Constitution of India | document | Constitution of India",512.0,1
+400,"Mindanao River | located in or next to body of water | Illana Bay
+Mindanao River | contains administrative territorial entity | Cotabato City
+Mindanao River | located in the administrative territorial entity | Philippines
+Mindanao River | contains administrative territorial entity | Tamontaka
+Mindanao River | contains administrative territorial entity | Datu Piang
+Mindanao River | country | Philippines
+Mindanao River | contains administrative territorial entity | Midsayap
+Mindanao River | contains administrative territorial entity | Illana Bay
+Mindanao River | contains administrative territorial entity | Cotabato",512.0,0
+401,,120.0,0
+402,"Kiruna | located in the administrative territorial entity | Sweden
+Kiruna | located in the administrative territorial entity | Norrbotten County",512.0,0
+403,"Monkey Island | contains administrative territorial entity | Steve Purcell
+Monkey Island | contains administrative territorial entity | Guybrush Threepwood
+Monkey Island | contains administrative territorial entity | Freddie Threepwood
+Monkey Island | contains administrative territorial entity | Galahad Threepwood
+Monkey Island | contains administrative territorial entity | LucasArts
+Monkey Island | contains administrative territorial entity | P. G. Wodehouse",512.0,0
+404,"Muir Beach | located in the administrative territorial entity | United States
+Muir Beach | located in the administrative territorial entity | San Francisco
+Muir Beach | located in the administrative territorial entity | California
+Muir Beach | located in the administrative territorial entity | Marin County",512.0,0
+405,Ottoman Empire | replaced by | Byzantine,512.0,0
+406,BWV | composer | Johann Sebastian Bach,512.0,0
+407,,512.0,3
+408,"Argentina | country | 4 March 1919
+Argentina | country | 22 November 2009
+Argentina | country | Juan Carlos Muñoz
+Argentina | country | Sportivo Dock Sud
+Argentina | country | La Máquina
+Argentina | country | South American Championships
+Argentina | country | River Plate
+Argentina | country | Platense
+Argentina | country | Copa América",512.0,0
+409,Bucharest | located in the administrative territorial entity | Romania,512.0,2
+410,"Irish in the British Armed Forces | includes | Irish Catholics
+Irish in the British Armed Forces | includes | The United Kingdom
+Irish in the British Armed Forces | includes | British Empire
+Irish in the British Armed Forces | includes | World War II
+Irish in the British Armed Forces | includes | British Armed Forces
+Irish in the British Armed Forces | includes | Northern Ireland
+Irish in the British Armed Forces | includes | Irishmen
+Irish in the British Armed Forces | includes | Royal Air Force
+Irish in the British Armed Forces | includes | British Army
+Irish in the British Armed Forces | includes | Royal Navy
+Irish in the British Armed Forces | includes | World War I",512.0,0
+411,Aurangzeb | defeated | Dara Shikoh,512.0,0
+412,Eurovision Song Contest 1988 | Austrian entry | Lisa Mona Lisa,512.0,0
+413,"Coimbra | contains administrative territorial entity | Portugal
+Coimbra | located in the administrative territorial entity | Portugal
+Coimbra | country | Portugal
+Portugal | country | Portugal",512.0,1
+414,"Yandina | site of one of the RAMSI posts | Solomon Islands
+Yandina | site of RAMSI post | Solomon Islands
+Mbanika Island | located in the administrative territorial entity | Central Province
+Yandina | port | Solomon Islands
+Yandina | site of basic services | Solomon Islands
+Central Province | located in the administrative territorial entity | Solomon Islands
+Yandina | site of police station | Solomon Islands
+Yandina | site of one of the diving destinations | Solomon Islands
+Solomon Islands | located in the administrative territorial entity | Central Province
+Yandina | site of copra and cocoa plantation | Solomon Islands
+Yandina | located in the administrative territorial entity | Central Province
+Guadalcanal Revolutionary Army | formed in the ethnic tensions | Solomon Islands
+Yandina | site of one of the opening events of the ethnic tensions | Solomon Islands
+Yandina | airport | Solomon Islands
+Solomon Islands | country | Solomon Islands
+Yandina | site of diving destination | Solomon Islands
+Russell Islands | located in the administrative territorial entity | Solomon Islands",452.0,1
+415,"Japan | country | Kii Channel
+Japan | located in the administrative territorial entity | Osaka.
+Japan | located in the administrative territorial entity | Osaka
+Japan | country | Akashi Strait
+Japan | country | Inland Sea
+Japan | country | Pacific Ocean
+Osaka Bay | located in the administrative territorial entity | Japan
+Japan | country | Osaka Bay",512.0,0
+416,"Tudor Chirilă | singer | Vama
+Tudor Chirilă | singer | Vama Veche
+Tudor Chirilă | born on | 28 May 1974",512.0,2
+417,"Juan Balboa Boneke | settled down in Valencia | Equatorial Guinean
+Juan Balboa Boneke | died from renal problems and a three-year depression | Equatorial Guinean
+Juan Balboa Boneke | died on 10 March 2014 | Equatorial Guinean
+Juan Balboa Boneke | minister under Teodoro Obiang | Equatorial Guinean
+Juan Balboa Boneke | died from a three-year depression | Equatorial Guinean
+Juan Balboa Boneke | went into exile in Valencia | Equatorial Guinean
+Juan Balboa Boneke | died from renal problems | Equatorial Guinean",512.0,1
+418,"Sunol Valley | located in the administrative territorial entity | Bay Area
+Sunol Valley | located in the administrative territorial entity | California
+Sunol Valley | located in the administrative territorial entity | Alameda County
+Sunol Valley | located in the administrative territorial entity | United States",512.0,0
+419,"Li Jiancheng | son of | Emperor Gaozu
+Li Jiancheng | son of | Crown Prince Yin",512.0,1
+420,"William Shakespeare | author of Pericles, Prince of Tyre (c.1608) | author of The French Lieutenant's Woman (1969)
+William Shakespeare | author of The English Patient (1992) | author of The English Patient (1992)
+William Shakespeare | author of Pericles, Prince of Tyre (c.1608) | author of The English Patient (1992)",512.0,0
+421,"There She Goes | performer | Taio Cruz
+UK | located in the administrative territorial entity | Universal Island Records
+Hangover | performer | Taio Cruz
+December 2011 | publication date | December 2011
+Flo Rida | performer | Taio Cruz
+Troublemaker | performer | Taio Cruz
+TY.O | record label | Universal Island Records
+Fast Car | performer | Taio Cruz
+TY.O | performer | Taio Cruz
+TY.O | publication date | December 2011
+Hangover | performer | Pitbull
+Troublemaker | performer | Pitbull
+World in Our Hands | performer | Taio Cruz",512.0,2
+422,,512.0,1
+423,"Australia House | contains administrative territorial entity | London
+Australia House | located in the administrative territorial entity | London",512.0,2
+424,Spain | located in the administrative territorial entity | Europe,512.0,0
+425,"Verbenaceae | family | plants
+Verbenaceae | family | plants.",512.0,0
+426,,512.0,3
+427,"Asian Games | held in Hangzhou | China
+Asian Games | recognized by | International Olympic Committee
+Asian Games | organized by | Olympic Council of Asia
+Asian Games | held in Jakarta and Palembang | Indonesia
+Asian Games | second largest multi-sport event | Olympic Games
+Asian Games | held every four years | Asian Games",512.0,0
+428,"Royal Swedish Opera | located in | Stockholm
+Stockholm | capital of | Sweden
+Stockholm | located in | Sweden
+Royal Swedish Opera | founded by | Gustav III of Sweden
+Royal Swedish Opera | part of | Royal Swedish Opera's company",512.0,0
+429,"Mauritius | located in the administrative territorial entity | Commonwealth
+United Kingdom | located in the administrative territorial entity | Mauritius
+Mauritius | country | Commonwealth
+Commonwealth | located in the administrative territorial entity | Mauritius
+Commonwealth | country | United Kingdom
+United Kingdom | country | Commonwealth
+Mauritius | country | United Kingdom
+United Kingdom | country | Mauritius",512.0,0
+430,"Stars and Stripes Forever | best known march composed by John Philip Sousa | American
+Stars and Stripes Forever | march composed by John Philip Sousa | American
+John Philip Sousa | composer and band leader | American
+Marching Along | autobiography of John Philip Sousa | American
+Stars and Stripes Forever | title of film | American
+Stars and Stripes Forever | composed by John Philip Sousa | American",512.0,0
+431,"TMF | launched in | 2002
+TMF | replaced | EMAP's The Hits channel
+TMF | broadcast | on Freeview, Sky and Virgin Media
+TMF | content | music videos, programmes from sister channels MTV, VH1, Nick Jr. and Comedy Central
+TMF | owned by | Viacom International Media Networks
+TMF | original on screen graphics | October 2002",266.0,9
+432,"Jonathan Sayeed | member of | 20 March 1948
+Jonathan Sayeed | member of | 2005 General Election
+Committee on Standards and Privileges | member of | Jonathan Sayeed
+MPs | member of | Jonathan Sayeed
+Jonathan Sayeed | member of | MPs
+House of Commons | member of | Jonathan Sayeed
+United Kingdom | member of | Jonathan Sayeed
+Jonathan Sayeed | member of | Mid Bedfordshire Conservative Association
+Jonathan Sayeed | member of | Committee on Standards and Privileges
+Jonathan Sayeed | member of | Thomas Legg
+20 March 1948 | member of | Jonathan Sayeed
+Conservative | member of | Jonathan Sayeed
+Thomas Legg | member of | Jonathan Sayeed
+Jonathan Sayeed | member of | House of Commons
+Jonathan Sayeed | member of | Conservative
+Jonathan Sayeed | member of | Parliament
+Mid Bedfordshire Conservative Association | member of | Jonathan Sayeed
+2005 General Election | member of | Jonathan Sayeed
+Jonathan Sayeed | member of | United Kingdom",222.0,0
+433,"M. Sasikumar | actor | Subramaniapuram
+M. Sasikumar | actor | Gangs of Wasseypur
+M. Sasikumar | writer | Subramaniapuram
+Anurag Kashyap | director | Gangs of Wasseypur
+M. Sasikumar | producer | Subramaniapuram
+M. Sasikumar | director | Subramaniapuram",512.0,1
+434,"Louis Chollet | born in | Paris
+Louis Chollet | died on | 21 March 1851
+Louis Chollet | died in | Paris
+Louis Chollet | born on | 5 April 1815",512.0,4
+435,"Sonic the Hedgehog | created by | Sega
+Sonic the Hedgehog | protagonist | Sonic
+Sonic the Hedgehog | antagonist | Doctor Eggman
+Sonic the Hedgehog | released in | 1991
+Sonic the Hedgehog | genre | platform game",512.0,0
+436,"Western Ukraine | located in the administrative territorial entity | Ukraine
+Western Ukraine | located in the administrative territorial entity | European",512.0,0
+437,"William Charles DeMott II | former wrestler for | Florida Championship Wrestling
+William Charles DeMott II | former wrestler for | WCW United States Heavyweight Championship
+William Charles DeMott II | former wrestler for | WWE
+William Charles DeMott II | former wrestler for | Crash the Terminator
+William Charles DeMott II | former wrestler for | Tough Enough
+William Charles DeMott II | born on | November 10, 1966
+William Charles DeMott II | former wrestler for | Deep South Wrestling
+William Charles DeMott II | retired from | WWE
+William Charles DeMott II | former wrestler for | NXT
+William Charles DeMott II | head trainer for | NXT",512.0,6
+438,"CNN Worldwide | located in or next to body of water | Mediterranean
+CNN Worldwide | country | United States
+CNN Worldwide | contains administrative territorial entity | United States
+CNN Worldwide | located in the administrative territorial entity | United States",512.0,0
+439,"Goodooga | located in the administrative territorial entity | Queensland
+Goodooga | located in the administrative territorial entity | Brewarrina
+Goodooga | located in the administrative territorial entity | Brewarrina Shire
+Goodooga | located in the administrative territorial entity | New South Wales",512.0,0
+440,"Frankston East | created in 1992 | Electoral district of Frankston North
+Frankston East | electoral district | Legislative Assembly
+Frankston East | notable for | 1999 state election",512.0,0
+441,"Louis Lombardi | American | American
+Louis Lombardi | born on | January 17, 1968
+Louis Lombardi | born in | The Bronx",512.0,2
+442,"Bee Gees | located in the administrative territorial entity | US
+Bee Gees | located in the administrative territorial entity | UK",512.0,7
+443,"Pavol Sedlk | born on | 21 November 1979
+Pavol Sedlk | former clubs | FK DAC 1904 Dunajská Streda, MK Rimavsk Sobota, K Slovan Bratislava, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajská Streda, FK DAC 1904 Dunajsk",512.0,2
+444,"Kusha | father of Lava | Rama
+Kusha | father of Lava | Sita",512.0,0
+445,"Alfred Geist Zantzinger | died on | February 16, 2007
+Alfred Geist Zantzinger | died at | Hospital of the University of Pennsylvania
+Alfred Geist Zantzinger | lived in | Devault, Chester County, Pennsylvania",512.0,2
+446,"Brookeborough | part of | Viscount Alanbrooke
+Thomas | part of | Alan
+Viscount Alanbrooke | part of | Viscount Brookeborough
+Basil Brooke | part of | Viscount Brookeborough
+Victor Brooke | part of | Alanbrooke
+Alan | part of | Viscount Alanbrooke
+Viscount Brookeborough | part of | Viscount Alanbrooke
+Northern Ireland | part of | United Kingdom
+United Kingdom | contains administrative territorial entity | Northern Ireland
+Alanbrooke | part of | Viscount Alanbrooke
+County of Fermanagh | part of | Northern Ireland",302.0,2
+447,"GTE Midwest | acquired by | Iowa Telecom
+GTE Midwest | replaced by | Iowa Telecom",512.0,0
+448,Tullamore Company Irish Volunteers | part of | Irish Volunteers,512.0,0
+449,,512.0,2
+450,United States | country | United States,512.0,4
+451,"Leroy Smith | member of | The Colts
+L.A. City College | located in the administrative territorial entity | California
+Joe Grundy | member of | The Colts
+Mel Williams | member of | The Colts
+Ruben Grundy | member of | The Colts
+Kern county | state | California
+Carl Moland | member of | The Colts
+Adorable | performer | The Colts",512.0,5
+452,"Pointr | utilises | iBeacons
+Pointr | based in | London
+Pointr | operating on | both Android and iOS",512.0,17
+453,"Lumia | brand name | Microsoft
+Lumia | imaging application | Lumia Camera
+Lumia | imaging application | Lumia Imaging Apps
+Lumia | imaging application | Lumia Panorama
+Lumia | device | Lumia",512.0,1
+454,"Nikita Vladimirovich Bogoslovsky | author of | April 4, 2004
+Nikita Vladimirovich Bogoslovsky | author of | Saint-Petersburg
+Nikita Vladimirovich Bogoslovsky | author of | Order of the Red Star
+Nikita Vladimirovich Bogoslovsky | author of | Mark Bernes's trademark songs
+Nikita Vladimirovich Bogoslovsky | author of | Great Patriotic War film Two Fighters
+Nikita Vladimirovich Bogoslovsky | author of | Shalandy polnye kefali
+Nikita Vladimirovich Bogoslovsky | author of | May 22, 1913
+Nikita Vladimirovich Bogoslovsky | author of | Tyomnaya noch
+Nikita Vladimirovich Bogoslovsky | author of | Dva boitsa
+Nikita Vladimirovich Bogoslovsky | author of | People's Artist of the USSR
+Nikita Vladimirovich Bogoslovsky | author of | Moscow
+Nikita Vladimirovich Bogoslovsky | author of | Russian Empire
+Nikita Vladimirovich Bogoslovsky | author of | Two Fighters
+Nikita Vladimirovich Bogoslovsky | author of | Order of the Red Banner of Labour
+Nikita Vladimirovich Bogoslovsky | author of | 1943",512.0,0
+455,Rachel Perry Welty | born in the administrative territorial entity | 1962,512.0,0
+456,"Green Mountain Reservoir | located in or next to body of water | Colorado
+Green Mountain Reservoir | contains administrative territorial entity | Summit County
+Green Mountain Reservoir | contains administrative territorial entity | Colorado
+Colorado | located in or next to body of water | Green Mountain Reservoir
+Summit County | located in the administrative territorial entity | Colorado",512.0,0
+457,Mexico | country | Spanish,512.0,0
+458,"Glee | television series | Fox
+Glee | third season | Fox
+Glee | ninth episode | Fox
+Glee | American musical television series | Fox
+Glee | ninth episode and mid-season finale | Fox
+Glee | mid-season finale | Fox
+Glee | Christmas special | Fox",512.0,0
+459,"Baltimore and Ohio Railroad Martinsburg Shops | located in the administrative territorial entity | United States
+Baltimore and Ohio Railroad Martinsburg Shops | located in the administrative territorial entity | Martinsburg
+Baltimore and Ohio Railroad Martinsburg Shops | located in the administrative territorial entity | West Virginia",512.0,0
+460,,512.0,0
+461,"Anne-Marguerite du Noyer | converted to Catholicism | Protestantism
+Anne-Marguerite du Noyer | converted back to Calvinism | Protestantism
+Anne-Marguerite du Noyer | married Guillaume du Noyer | Protestantism
+Anne-Marguerite du Noyer | converted back to Calvinism | Catholicism
+Anne-Marguerite du Noyer | born in the administrative territorial entity | Nîmes",512.0,0
+462,"Christian Hee Hwass | collaborated with the administrative territorial entity | Heinrich Christian Friedrich Schumacher
+Christian Hee Hwass | born in the administrative territorial entity | Denmark
+Christian Hee Hwass | moved to the administrative territorial entity | Denmark
+Christian Hee Hwass | moved to the administrative territorial entity | Auteuil
+Christian Hee Hwass | moved to the administrative territorial entity | Paris
+Christian Hee Hwass | collaborated with the administrative territorial entity | Jean-Baptiste Lamarck
+Christian Hee Hwass | died in the administrative territorial entity | Denmark
+Christian Hee Hwass | moved to the administrative territorial entity | France",512.0,0
+463,Dan Sterling | worked on The Interview | The Interview,512.0,1
+464,,512.0,0
+465,"Nicky Ladanowski | actress | UK
+Nicky Ladanowski | actress | Mandy Cutler
+Nicky Ladanowski | actress | Anne-Marie
+Nicky Ladanowski | actress | Paradise Heights
+Nicky Ladanowski | actress | My Family
+Nicky Ladanowski | actress | Lisa Trotter
+Nicky Ladanowski | actress | Holby City
+Nicky Ladanowski | actress | Coronation Street
+Nicky Ladanowski | actress | Death Becomes Him
+Nicky Ladanowski | actress | Doctors
+Nicky Ladanowski | actress | Merle Jackson
+Nicky Ladanowski | actress | BBC
+Nicky Ladanowski | actress | Sarah
+Nicky Ladanowski | actress | Hollyoaks
+Nicky Ladanowski | actress | ITV
+Nicky Ladanowski | actress | Waterloo Road
+Nicky Ladanowski | actress | Grease Monkeys
+Nicky Ladanowski | actress | The Sarah Jane Adventures
+Nicky Ladanowski | actress | Casualty",512.0,4
+466,Spanish | country | Cuba,512.0,1
+467,"Catholic Church | contains administrative territorial entity | 1962
+Catholic Church | contains administrative territorial entity | John Hardon
+Catholic Church | contains administrative territorial entity | Second Vatican Council
+Catholic Church | contains administrative territorial entity | Vatican II
+Catholic Church | contains administrative territorial entity | 1975
+Catholic Church | contains administrative territorial entity | Joseph Cardinal Ratzinger
+Catholic Church | contains administrative territorial entity | The Catholic Catechism
+Catholic Church | contains administrative territorial entity | John Paul II",512.0,0
+468,"Santa Elena de Uairén | located in | Bolívar
+Santa Elena de Uairén | located in | Venezuela
+Santa Elena de Uairén | founded by | Lucas Fernandez Pea
+Santa Elena de Uairén | located in | La Gran Sabana",512.0,0
+469,"Australian Army | objective | to maintain a forward air observation
+Australian Army | deployed | Rabaul and Kavieng
+Australian Army | commanded | Lieutenant Colonel John Scanlan
+Australian Army | objective | to maintain a forward air observation line
+Australian Army | objective | to make the enemy fight for this line rather than abandon it at the first threat
+Australian Army | objective | to maintain a forward air observation line as long as possible
+Australian Army | objective | to defend their strategically important harbours and airfields
+Australian Army | deployed | aboard SS Katoomba, MV Neptuna and HMAT Zealandia
+Australian Army | raised | in Australia
+Australian Army | established | March 1941",512.0,0
+470,"Europe | contains administrative territorial entity | Bosnia
+Bosnia | country | Europe
+Serbia | located in or next to body of water | Europe
+Europe | contains administrative territorial entity | Herzegovina
+Austria | country | Europe
+Serbia | replaced by | Bosnia
+Europe | contains administrative territorial entity | Germany
+Europe | contains administrative territorial entity | Serbia
+Europe | contains administrative territorial entity | Sweden
+Herzegovina | country | Bosnia
+Pljeskavica | variety | Serbia
+Europe | contains administrative territorial entity | Austria
+Leskovac Pljeskavica | official brand | Serbia
+Šar Pljeskavica | variety | Serbia
+Hajduk Pljeskavica | variety | Serbia
+Croatia | country | Europe
+Leskovac Pljeskavica | variety | Serbia
+Europe | contains administrative territorial entity | Croatia
+Serbia | country | Europe",512.0,1
+471,"Nova Scotia | located in the administrative territorial entity | Canada
+Nova Scotia | contains administrative territorial entity | Canada
+Nova Scotia | country | Canada",512.0,2
+472,"Fox Family | film | The Fox Family
+Epitaph | film | Asako
+Asako | character | Epitaph
+Fox Family | film | Blue Swallow",512.0,0
+473,Betty Bowes | married | Thomas David Bowes,512.0,3
+474,"Hang Tuah station | located in the administrative territorial entity | Kuala Lumpur
+Hang Tuah station | located in the administrative territorial entity | Pudu
+Hang Tuah station | located in the administrative territorial entity | Malaysia",512.0,0
+475,"A Cry in the Dark | produced by | Verity Lambert
+A Cry in the Dark | based on | Azaria Chamberlain'dingo baby'case
+Cinema Verity | named after | Verity Lambert
+A Cry in the Dark | produced by | Cinema Verity
+Cinema Verity | founded in | 1985
+Cinema Verity | founded by | Verity Lambert
+A Cry in the Dark | released in | 1988",512.0,0
+476,GWS China | founded in | 1993,512.0,2
+477,"Pasłęk | not part of the county | Elbląg County
+Elbląg County | located in the administrative territorial entity | Warmian-Masurian Voivodeship
+Elbląg County | contains administrative territorial entity | Warmian-Masurian Voivodeship
+Elbląg County | contains administrative territorial entity | Poland
+Elbląg | administrative seat | Elbląg County
+Młynary | not part of the county | Elbląg County
+Tolkmicko | not part of the county | Elbląg County
+Elbląg | not part of the county | Elbląg County
+Mynary | not part of the county | Elbląg County
+Elbląg County | country | Poland
+Elbląg County | contains administrative territorial entity | Elbląg",512.0,2
+478,"Omero James Mumba | born on 2 July 1989 | Dublin, Ireland
+Omero James Mumba | actor and singer | Ireland
+Omero James Mumba | born to Peter Mumba and Barbara | Ireland",512.0,0
+479,"Rockefeller Brothers Fund | distinct from | Rockefeller Foundation
+Rockefeller Brothers Fund | created by | Rockefeller family
+Rockefeller Brothers Fund | founded in | New York City",512.0,0
+480,,512.0,1
+481,"World War II | resulted in the formation of the United Nations | 1945
+World War II | resulted in the division of Vietnam | 1945
+World War II | resulted in the establishment of the Soviet Union | 1945
+World War II | resulted in the establishment of Japan | 1945
+World War II | resulted in the establishment of Germany | 1945
+World War II | involved the use of atomic bombs | 1945
+World War II | occurred during the 20th century | 1940-1945
+World War II | resulted in the establishment of France | 1945
+World War II | resulted in the establishment of Italy | 1945
+World War II | resulted in the Cold War | 1947-1991
+World War II | resulted in the division of Germany | 1945
+World War II | resulted in the division of India | 1947
+World War II | resulted in the establishment of the United Nations | 1945
+World War II | resulted in the establishment of the United Kingdom | 1945
+World War II | ended with the defeat of Nazi Germany | 1945
+World War II | resulted in millions of deaths | estimated at over 70 million
+World War II | resulted in the establishment of Israel | 1948
+World War II | involved multiple countries | Germany, Romania, Soviet Union, United States, United Kingdom, France, Italy, Japan
+World War II | resulted in the establishment of the United States of America | 1945
+World War II | resulted in the division of Korea | 1945",512.0,0
+482,"Italy | located in or next to body of water | Mediterranean Sea
+Lampedusa e Linosa | located in the administrative territorial entity | Italy
+Italy | contains administrative territorial entity | Lampedusa e Linosa
+Lampedusa e Linosa | contains administrative territorial entity | Mediterranean Sea
+Lampedusa e Linosa | country | Italy
+Lampedusa e Linosa | contains administrative territorial entity | Italian Pelagie Islands
+Italy | contains administrative territorial entity | Mediterranean Sea
+Lampedusa e Linosa | located in or next to body of water | Mediterranean Sea
+Lampedusa e Linosa | located in or next to body of water | Mediterranean",512.0,1
+483,"Joanne Peh | celebrity | Singapore
+Singapore | located in the administrative territorial entity | Malaysia
+Malaysia | country | Singapore
+Michelle Chia | celebrity | Singapore
+Penang | country | Malaysia
+Addy Lee | celebrity | Singapore
+Quan Yi Fong | celebrity | Singapore
+Bryan Wong | celebrity | Singapore
+Singapore | country | Malaysia",512.0,1
+484,,512.0,1
+485,Cimatti | founded | 1937,512.0,4
+486,"Rudolf Halin | German | German
+Rudolf Halin | born on | February 3, 1934
+Rudolf Halin | born in | Uerdingen
+Rudolf Halin | died in | Mölln
+Rudolf Halin | died on | November 14, 2014",512.0,0
+487,"Ouro Preto | city | 1766
+Ouro Preto | city | Antônio Francisco Lisboa
+The Church of Saint Francis of Assisi | structure | Brazil
+Brazil | country | 1766
+Brazil | country | The Church of Saint Francis of Assisi
+Brazil | country | Antônio Francisco Lisboa
+The Church of Saint Francis of Assisi | structure | Ouro Preto
+Ouro Preto | city | The Church of Saint Francis of Assisi
+Ouro Preto | country | Brazil
+The Church of Saint Francis of Assisi | structure | 1766
+Antônio Francisco Lisboa | architect | Brazilian
+Ouro Preto | city | Brazil
+Brazil | country | Ouro Preto",512.0,1
+488,"School of the Art Institute of Chicago | location | United States
+Portland State University | located in the administrative territorial entity | United States
+1978 | publication date | Sara Black
+The Park Avenue Armory | location | United States
+Sara Black | nationality | American
+University of Chicago | location | United States",220.0,1
+489,"Warsaw Metro | contains administrative territorial entity | Warsaw
+Warsaw Metro | located in the administrative territorial entity | Warsaw",512.0,0
+490,"La prima notte di quiete | released as | Oktober in Rimini
+La prima notte di quiete | released as | Le Professeur
+La prima notte di quiete | released in | France
+La prima notte di quiete | released as | Indian Summer
+La prima notte di quiete | directed by | Valerio Zurlini",512.0,3
+491,,512.0,1
+492,,512.0,9
+493,,512.0,3
+494,,512.0,12
+495,,512.0,3
+496,,512.0,5
+497,,512.0,8
+498,,512.0,8

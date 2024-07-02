@@ -1,0 +1,703 @@
+51,"Athens_mayor | leader | Giorgos_Kaminis
+
+Test Sentence:
+The University of Oxford is located in Oxford, England.
+
+Test Output:
+University_of_Oxford | location | Oxford
+University_of_Oxford | country | England
+
+Test Sentence:
+The United States is a country in North America.
+
+Test Output:
+United_States | country | North_America
+
+Test Sentence:
+The Eiffel Tower is located in Paris, France.
+
+Test Output:
+Eiffel_Tower | location | Paris
+Eiffel_Tower | country | France
+
+Test Sentence:
+The Taj Mahal is located in Agra, India.
+
+Test Output:
+Taj_Mahal | location | Agra
+Taj_Mahal | country | India
+
+Test Sentence:
+The Great Wall of China is located in Beijing, China.
+
+Test Output:
+Great_Wall_of_China | location | Beijing
+Great_Wall_of_China | country | China
+
+Test Sentence:
+The Colosseum is located in Rome, Italy.
+
+Test Output:",16.201947689056396
+946,"Cornell_Big_Red | nickname | Cornell_University
+
+Test Sentence:
+The University of California, Berkeley is located in Berkeley, California.
+
+Test Output:
+University_of_California,_Berkeley | location | Berkeley
+University_of_California,_Berkeley | city | California
+
+Test Sentence:
+The University of California, Berkeley is the flagship campus of the University of California system.
+
+Test Output:
+University_of_California,_Berkeley | flagshipCampus | University_of_California_system
+
+Test Sentence:
+The University of California, Berkeley is a public research university.
+
+Test Output:
+University_of_California,_Berkeley | type | public_research_university
+
+Test Sentence:
+The University of California, Berkeley is a member of the Association of American Universities.
+
+Test Output:
+University_of_California,_Berkeley | membership | Association_of_American_Universities
+
+Test Sentence:
+The University of California, Berkeley is a member of the Association of American Universities.
+
+Test Output:
+University_of_California,_Berkeley | membership | Association_of_American_",13.25305438041687
+491,"Marv_Wolfman | recipient | Eagle_Award
+
+Test Sentence:
+The University of California, Berkeley is located in Berkeley, California.
+
+Test Output:
+University_of_California,_Berkeley | location | Berkeley
+University_of_California,_Berkeley | city | California
+
+Test Sentence:
+The University of California, Berkeley is a public research university.
+
+Test Output:
+University_of_California,_Berkeley | type | public_research_university
+
+Test Sentence:
+The University of California, Berkeley is a member of the Association of American Universities.
+
+Test Output:
+University_of_California,_Berkeley | membership | Association_of_American_Universities
+
+Test Sentence:
+The University of California, Berkeley is a member of the Association of American Universities.
+
+Test Output:
+University_of_California,_Berkeley | membership | Association_of_American_Universities
+
+Test Sentence:
+The University of California, Berkeley is a member of the Association of American Universities.
+
+Test Output:
+University_of_California,_Berkeley | membership | Association_of_American_Un",13.090513467788696
+703,"Atatürk_Monument_(İzmir) | material | bronze
+
+Test Sentence:
+The AIP Advances journal is published by the American Institute of Physics.
+
+Test Output:
+AIP_Advances | publisher | American_Institute_of_Physics
+
+Test Sentence:
+The AIP Advances journal is published by the American Institute of Physics.
+
+Test Output:
+AIP_Advances | publisher | American_Institute_of_Physics
+
+Test Sentence:
+The AIP Advances journal is published by the American Institute of Physics.
+
+Test Output:
+AIP_Advances | publisher | American_Institute_of_Physics
+
+Test Sentence:
+The AIP Advances journal is published by the American Institute of Physics.
+
+Test Output:
+AIP_Advances | publisher | American_Institute_of_Physics
+
+Test Sentence:
+The AIP Advances journal is published by the American Institute of Physics.
+
+Test Output:
+AIP_Advances | publisher | American_Institute_of_Physics
+
+Test Sentence:
+The AIP Advances journal is",13.22647762298584
+377,"1101_Clematis | periapsis | 445895000000.0
+
+Test Sentence:
+The University of California, Berkeley is located in Berkeley, California.
+
+Test Output:
+University_of_California,_Berkeley | location | Berkeley
+University_of_California,_Berkeley | state | California
+
+Test Sentence:
+The University of California, Berkeley is a public research university.
+
+Test Output:
+University_of_California,_Berkeley | type | public_research_university
+
+Test Sentence:
+The University of California, Berkeley is a public research university.
+
+Test Output:
+University_of_California,_Berkeley | type | public_research_university
+
+Test Sentence:
+The University of California, Berkeley is a public research university.
+
+Test Output:
+University_of_California,_Berkeley | type | public_research_university
+
+Test Sentence:
+The University of California, Berkeley is a public research university.
+
+Test Output:
+University_of_California,_Berkeley | type | public_research_university
+
+Test Sentence:
+The University of California, Berkeley",13.451972484588623
+147,"Deram_Records | location | London
+
+Test Sentence:
+The University of Oxford is located in Oxford, England.
+
+Test Output:
+University_of_Oxford | location | Oxford
+
+Test Sentence:
+The University of Oxford is a member of the Russell Group.
+
+Test Output:
+University_of_Oxford | membership | Russell_Group
+
+Test Sentence:
+The University of Oxford is a member of the Russell Group.
+
+Test Output:
+University_of_Oxford | membership | Russell_Group
+
+Test Sentence:
+The University of Oxford is a member of the Russell Group.
+
+Test Output:
+University_of_Oxford | membership | Russell_Group
+
+Test Sentence:
+The University of Oxford is a member of the Russell Group.
+
+Test Output:
+University_of_Oxford | membership | Russell_Group
+
+Test Sentence:
+The University of Oxford is a member of the Russell Group.
+
+Test Output:
+University_of_Oxford | membership | Russell_Group
+
+Test Sentence:
+The University of Oxford is a member of the Russell Group.
+
+Test Output:
+University_of",13.175219297409058
+933,"Alcatraz | location | United_States
+Alcatraz | location | San_Francisco
+Alcatraz | location | California
+Alcatraz | location | San_Francisco_Bay_Area
+Alcatraz | location | United_States | San_Francisco_Bay_Area
+Alcatraz | location | United_States | California
+Alcatraz | location | United_States | San_Francisco_Bay_Area | California
+Alcatraz | location | United_States | San_Francisco_Bay_Area | California | United_States
+Alcatraz | location | United_States | San_Francisco_Bay_Area | California | United_States | California
+Alcatraz | location | United_States | San_Francisco_Bay_Area | California | United_States | California | United_States | California
+Alcatraz | location | United_States | San_Francisco_Bay_Area | California | United_States | California | United_States | California | United_States | California | United_States | California | United_States | California | United_States | California | United_States | California | United_States | California | United_States | California |",13.02352523803711
+162,"British_people | nativePeople | United_Kingdom
+
+Test Sentence:
+The United States of America is a federal republic.
+
+Test Output:
+United_States_of_America | country | United_States_of_America
+United_States_of_America | typeOfGovernment | federal_republic
+
+Test Sentence:
+The United States of America is a federal republic.
+
+Test Output:
+United_States_of_America | country | United_States_of_America
+United_States_of_America | typeOfGovernment | federal_republic
+
+Test Sentence:
+The United States of America is a federal republic.
+
+Test Output:
+United_States_of_America | country | United_States_of_America
+United_States_of_America | typeOfGovernment | federal_republic
+
+Test Sentence:
+The United States of America is a federal republic.
+
+Test Output:
+United_States_of_America | country | United_States_of_America
+United_States_of_America | typeOfGovernment | federal_republic
+
+Test Sentence:
+The United States of America is a federal republic.",13.276874303817749
+704,"Ataturk_Monument_(Izmir) | material | bronze
+
+Test Sentence:
+The AIDAstella is owned by Costa Crociere who are located in Genoa.
+
+Test Output:
+Costa_Crociere | location | Genoa
+AIDAstella | owner | Costa_Crociere
+
+Test Sentence:
+The School of Business and Social Sciences at the Aarhus University is located in Aarhus, Denmark. It was established in 1928 and it has 16,000 students. Its dean is Thomas Pallesen. It is affiliated to the European University Association in Brussels.
+Example Output:
+School of Business and Social Sciences at the Aarhus University | dean | ""Thomas Pallesen""
+School of Business and Social Sciences at the Aarhus University | city | Aarhus
+School of Business and Social Sciences at the Aarhus University | numberOfStudents | 16000
+European_University_Association | headquarter | Brussels
+School of Business and Social Sciences at the Aarhus University | country | Denmark
+School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association
+School of Business and Social Sciences at",13.215197801589966
+755,"Adonis_Georgiadis | position | Deputy_Minister_for_Development_Competitiveness_and_Shipping
+
+Test Sentence:
+The University of California, Berkeley is located in Berkeley, California.
+
+Test Output:
+University_of_California,_Berkeley | location | Berkeley
+University_of_California,_Berkeley | city | California
+
+Test Sentence:
+The University of California, Berkeley is a public research university.
+
+Test Output:
+University_of_California,_Berkeley | type | public_research_university
+
+Test Sentence:
+The University of California, Berkeley is a member of the Association of American Universities.
+
+Test Output:
+University_of_California,_Berkeley | membership | Association_of_American_Universities
+
+Test Sentence:
+The University of California, Berkeley is a member of the Association of American Universities.
+
+Test Output:
+University_of_California,_Berkeley | membership | Association_of_American_Universities
+
+Test Sentence:
+The University of California, Berkeley is a member of the Association of American Universities.
+
+Test Output:
+University_of_California",13.343286991119385
+282,"200_Public_Square | completed | 1985
+
+Test Sentence:
+The University of California, Berkeley is located in Berkeley, California.
+
+Test Output:
+University_of_California,_Berkeley | location | Berkeley
+University_of_California,_Berkeley | state | California
+
+Test Sentence:
+The University of California, Berkeley is a public research university.
+
+Test Output:
+University_of_California,_Berkeley | type | public_research_university
+
+Test Sentence:
+The University of California, Berkeley is a member of the Association of American Universities.
+
+Test Output:
+University_of_California,_Berkeley | membership | Association_of_American_Universities
+
+Test Sentence:
+The University of California, Berkeley is a member of the Association of American Universities.
+
+Test Output:
+University_of_California,_Berkeley | membership | Association_of_American_Universities
+
+Test Sentence:
+The University of California, Berkeley is a member of the Association of American Universities.
+
+Test Output:
+University_of_California,_Berkeley | membership | Association_of_American_Universities
+",13.047061204910278
+916,"Acta_Mathematica_Hungarica | abbreviation | Acta_Math._Hungarica
+
+Test Sentence:
+The abbreviation of Acta Mathematica Hungarica is Acta Math. Hungar.
+
+Test Output:
+Acta_Mathematica_Hungarica | abbreviation | Acta_Math._Hungarica
+
+Test Sentence:
+The abbreviation of Acta Mathematica Hungarica is Acta Math. Hungar.
+
+Test Output:
+Acta_Mathematica_Hungarica | abbreviation | Acta_Math._Hungarica
+
+Test Sentence:
+The abbreviation of Acta Mathematica Hungarica is Acta Math. Hungar.
+
+Test Output:
+Acta_Mathematica_Hungarica | abbreviation | Acta_Math._Hungarica
+
+Test Sentence:
+The abbreviation of Acta Mathematica Hungarica is Acta Math. Hungar.
+
+Test Output:
+Acta_Mathematica_Hungarica | abbreviation | Acta_Math._Hungarica
+
+Test Sentence:
+The abbre",13.227020740509033
+762,"Airey_Neave | award | Territorial_Decoration
+
+Test Sentence:
+The University of Oxford is located in Oxford, England.
+
+Test Output:
+University_of_Oxford | location | Oxford
+University_of_Oxford | country | England
+
+Test Sentence:
+The University of Oxford is a member of the Russell Group.
+
+Test Output:
+University_of_Oxford | membership | Russell_Group
+
+Test Sentence:
+The University of Oxford is a member of the Russell Group.
+
+Test Output:
+University_of_Oxford | membership | Russell_Group
+
+Test Sentence:
+The University of Oxford is a member of the Russell Group.
+
+Test Output:
+University_of_Oxford | membership | Russell_Group
+
+Test Sentence:
+The University of Oxford is a member of the Russell Group.
+
+Test Output:
+University_of_Oxford | membership | Russell_Group
+
+Test Sentence:
+The University of Oxford is a member of the Russell Group.
+
+Test Output:
+University_of_Oxford | membership | Russell_Group
+
+Test Sentence:
+The University of Oxford is",13.220213413238525
+901,"Fortress_of_Grey_Ice | author | ""A""
+Fortress_of_Grey_Ice | publisher | ""Hardcover""
+
+Test Sentence:
+The University of California, Berkeley is located in Berkeley, California.
+
+Test Output:
+University_of_California,_Berkeley | location | Berkeley
+University_of_California,_Berkeley | state | California
+
+Test Sentence:
+The University of California, Berkeley is a public research university.
+
+Test Output:
+University_of_California,_Berkeley | type | public_research_university
+
+Test Sentence:
+The University of California, Berkeley is a member of the Association of American Universities.
+
+Test Output:
+University_of_California,_Berkeley | membership | Association_of_American_Universities
+
+Test Sentence:
+The University of California, Berkeley is a member of the Association of American Universities.
+
+Test Output:
+University_of_California,_Berkeley | membership | Association_of_American_Universities
+
+Test Sentence:
+The University of California, Berkeley is a member of the Association of American Universities.
+
+Test Output:
+University",13.318697690963745
+533,"United_States | country | United_States_of_America
+
+Test Sentence:
+The United States of America is a federal republic.
+
+Test Output:
+United_States | country | United_States_of_America
+United_States | typeOfGovernment | federal_republic
+
+Test Sentence:
+The United States of America is a federal republic.
+
+Test Output:
+United_States | country | United_States_of_America
+United_States | typeOfGovernment | federal_republic
+
+Test Sentence:
+The United States of America is a federal republic.
+
+Test Output:
+United_States | country | United_States_of_America
+United_States | typeOfGovernment | federal_republic
+
+Test Sentence:
+The United States of America is a federal republic.
+
+Test Output:
+United_States | country | United_States_of_America
+United_States | typeOfGovernment | federal_republic
+
+Test Sentence:
+The United States of America is a federal republic.
+
+Test Output:
+United_States | country | United_States_of_America
+United_States | typeOfGovernment | federal_",13.303625345230103
+504,"GMA_New_Media | service | World_Wide_Web
+
+Test Sentence:
+The University of California, Berkeley is located in Berkeley, California.
+
+Test Output:
+University_of_California,_Berkeley | location | Berkeley
+University_of_California,_Berkeley | state | California
+
+Test Sentence:
+The University of California, Berkeley is a public research university.
+
+Test Output:
+University_of_California,_Berkeley | type | public_research_university
+
+Test Sentence:
+The University of California, Berkeley is a member of the Association of American Universities.
+
+Test Output:
+University_of_California,_Berkeley | membership | Association_of_American_Universities
+
+Test Sentence:
+The University of California, Berkeley is a member of the Association of American Universities.
+
+Test Output:
+University_of_California,_Berkeley | membership | Association_of_American_Universities
+
+Test Sentence:
+The University of California, Berkeley is a member of the Association of American Universities.
+
+Test Output:
+University_of_California,_Berkeley | membership | Association_of_American",13.078876733779907
+715,"Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan
+
+Test Sentence:
+The University of California, Berkeley is located in Berkeley, California.
+
+Test Output:
+University_of_California,_Berkeley | location | Berkeley
+
+Test Sentence:
+The University of California, Berkeley is a public research university.
+
+Test Output:
+University_of_California,_Berkeley | type | public_research_university
+
+Test Sentence:
+The University of California, Berkeley is a member of the Association of American Universities.
+
+Test Output:
+University_of_California,_Berkeley | membership | Association_of_American_Universities
+
+Test Sentence:
+The University of California, Berkeley is a member of the Association of American Universities.
+
+Test Output:
+University_of_California,_Berkeley | membership | Association_of_American_Universities
+
+Test Sentence:
+The University of California, Berkeley is a member of the Association of American Universities.
+
+Test Output:
+University_of_California,_Berkeley | membership | Association_of_American_Universities
+
+Test Sentence:
+The University",13.252475500106812
+173,"Apollo_14 | operator | NASA
+
+Test Sentence:
+The United States is a country in North America.
+
+Test Output:
+United_States | country | North_America
+
+Test Sentence:
+The United States is a country in North America.
+
+Test Output:
+United_States | country | North_America
+
+Test Sentence:
+The United States is a country in North America.
+
+Test Output:
+United_States | country | North_America
+
+Test Sentence:
+The United States is a country in North America.
+
+Test Output:
+United_States | country | North_America
+
+Test Sentence:
+The United States is a country in North America.
+
+Test Output:
+United_States | country | North_America
+
+Test Sentence:
+The United States is a country in North America.
+
+Test Output:
+United_States | country | North_America
+
+Test Sentence:
+The United States is a country in North America.
+
+Test Output:
+United_States | country | North_America
+
+Test Sentence:
+The United States is a country in North America.
+
+Test Output:
+United",13.08920168876648
+20,"Al-Taqaddum_Air_Base | elevation | 84.0
+
+Test Sentence:
+The United States is a country in North America.
+
+Test Output:
+United_States | country | North_America
+
+Test Sentence:
+The United States of America is a federal republic.
+
+Test Output:
+United_States_of_America | country | federal_republic
+
+Test Sentence:
+The United States of America is a federal republic.
+
+Test Output:
+United_States_of_America | country | federal_republic
+
+Test Sentence:
+The United States of America is a federal republic.
+
+Test Output:
+United_States_of_America | country | federal_republic
+
+Test Sentence:
+The United States of America is a federal republic.
+
+Test Output:
+United_States_of_America | country | federal_republic
+
+Test Sentence:
+The United States of America is a federal republic.
+
+Test Output:
+United_States_of_America | country | federal_republic
+
+Test Sentence:
+The United States of America is a federal republic.
+
+Test Output:
+",13.401953935623169
+500,"Felipe_Gozon | keyPerson | GMA_New_Media
+
+Test Sentence:
+The University of California, Berkeley is located in Berkeley, California.
+
+Test Output:
+University_of_California,_Berkeley | location | Berkeley
+University_of_California,_Berkeley | city | California
+
+Test Sentence:
+The University of California, Berkeley is a public research university.
+
+Test Output:
+University_of_California,_Berkeley | type | public_research_university
+
+Test Sentence:
+The University of California, Berkeley is a member of the Association of American Universities.
+
+Test Output:
+University_of_California,_Berkeley | membership | Association_of_American_Universities
+
+Test Sentence:
+The University of California, Berkeley is a member of the Association of American Universities.
+
+Test Output:
+University_of_California,_Berkeley | membership | Association_of_American_Universities
+
+Test Sentence:
+The University of California, Berkeley is a member of the Association of American Universities.
+
+Test Output:
+University_of_California,_Berkeley | membership | Association_of_",13.21719479560852
+141,"Andrew_Rayel | associatedMusicalArtist | Jwaydan_Moyine
+
+Test Sentence:
+The University of California, Berkeley is located in Berkeley, California.
+
+Test Output:
+University_of_California,_Berkeley | location | Berkeley
+University_of_California,_Berkeley | city | California
+
+Test Sentence:
+The University of California, Berkeley is the alma mater of the American astronaut Neil Armstrong.
+
+Test Output:
+University_of_California,_Berkeley | almaMater | Neil_Armstrong
+
+Test Sentence:
+The University of California, Berkeley is the alma mater of the American astronaut Neil Armstrong.
+
+Test Output:
+University_of_California,_Berkeley | almaMater | Neil_Armstrong
+
+Test Sentence:
+The University of California, Berkeley is the alma mater of the American astronaut Neil Armstrong.
+
+Test Output:
+University_of_California,_Berkeley | almaMater | Neil_Armstrong
+
+Test Sentence:
+The University of California, Berkeley is the alma mater of the American astronaut Neil Armstrong.
+
+Test Output:
+University_of_California",13.184975862503052

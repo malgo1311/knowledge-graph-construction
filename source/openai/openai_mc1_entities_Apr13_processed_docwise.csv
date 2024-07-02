@@ -1,0 +1,848 @@
+doc_key,processed_entities,output_tokens
+0,"25 km; Council; Warhol; chromium; Joclyn Reynolds; Kyrla.halford@uabila.ac.kronos; 1997; xylene arsenic; Elodis; Yanick Cato; lead; Cesare Nespola; Abila; ethylene glycol; Initial Stage; Joreto Katell; Esme Nesmith; Master of Humanities; POK; Protectors of Kronos SMO; Chief Operating Officer; Elodisians; Valentine Mies; University of Abila; August; Mira; River; August 18 1998; Minister of Health; selenium; Wellness for All; Alliance Stage; Petrus Gerhard; benzene; Juliana Vann; Sten Sanjorge, Jr.; Paper SW1138; October 2001; SW1138; Chamber of Commerce; Kronos government; Jeroen; Protectors of Kronos; Bodrogi; Fluss; Tiskele River; Lemual and Neske Vann; Jeroen Karel; GAStech fields; Elodisan; Hank Fluss; Minister of Interior; benzene toxicity; Ale L. Hanne; 1998; leukemia; Elodis Community Health Center; City Council; Kyrla Halford; barium; October 2005; Grassroots Effort; Juliana; CEO of GAStech; Elian Karel; 2005; toluene; SMO; June 2001; Carmine Osvaldo; Osvaldo; Center for Change Now; Master’s Thesis; Hyper Acidic Substrate Removal; WFA; floodplain farming; 1834; Minister Nespola; March 2001; Kronos military; Government of Kronos Assembly; GAStech; Kronos; Henk Bodrogi; August 2001; July 1999",684
+1,"Lucio Jakab; 25 km; Kronosian government; 1997; Elodis; Cesare Nespola; 2005-2008; mainstream political forces; Abila; ethylene glycol; POK; HASR; Fredrick N. Wagner; University of Abila; Lorenzo Di Stefano; agrarian lifestyle; Tiskele Bend gas fields; Minister of Health; 2002-2004; 200-300; Vincent Kapelou; Tethys; Wellness for All (WFA); Juliana Vann; Sten Sanjorge, Jr.; 1997-2001; 2009; Kronosian; Nespola; Di Stefano; Silvia Marek; Protectors of Kronos; Bodrogi; Fluss; Tiskele River; social movement; new wave activists; Isia Vann; Jeroen Karel; No entities detected.; Hank Fluss; Kronosian military; 1998; environmental science; Tiskele Bend; Three Possible Futures; Westley B. Andrews; Isia; Dominant POK Personalities; Mandor Vann; 2004; Activism and Protest; Karel; General Assembly; Elian Karel; Elodis Chamber of Commerce; Social movements; 2005; Kronosian embassies; President Kapelou; Carmine Osvaldo; Osvaldo; Hyper Acidic Substrate Removal; Asteria; WFA; January 2009; Elodis City Council; Tiskele Bend fields; March 2001; Kronos military; GAStech; Kronos; Henk; 2001; Henk Bodrogi; August 2001; Save Our Wildlands; the capitol city; July 1999",630
+2,Kronos federal police; All News Today; Kronos; Tiskele Bend GAStech; The Weavers of our Homeland; This is Our Land; Protectors of Kronos; Songs of the Farmer; 2005/04/06; POK; ELODIS,57
+3,ABILA; Silvia Marek; All News Today; 2012/04/09; Protectors of Kronos; Kronos,28
+4,ABILA; All News Today; 1993/02/02; President Luis Araullo; Kronos,30
+5,1961; Sten Sanjorge Sr; Reese; 6500; Tiskele River; Sanjorge Sr; KRONOS; Elodis; Petrus Gerhard; '94; Tethys; ELODIS; Hank Fluss; Sten Sanjorge Jr; All News Today; Elodis Weekly Journal; Homeland Illumination; Pondo Reese; Tiskele Bend; People of Kronos; GAStech; 1998/03/20; Henk Bodrogi; Osvaldo hardware store; GAStech International,128
+6,All News Today; Ministry of Health; Kronos; Wellness For All; KRONOS; Elodis Weekly Journal; interior; Reese; Pondo Resses; health; justice; foreign affairs; 1998/05/15; ELODIS; Henk Bodrogi,60
+7,Wellness for All; All News Today; Elodis Community Health Center; Kronos; 1998; 2004/05/29; Elodis municipal website; ELODIS,51
+8,ABILA; benzene; All News Today; 2013/06/21; Protectors of Kronos; Elodis; Juliana Vann; WHO BRINGS A GUN TO A SIT IN?; 1998; Tiskele River; Abila Police; June 19th; Kronos; POK; Kronos government,75
+9,2001/03/22; All News Today; Abila; Protectors of Kronos; Elodis; Homeland Illumination; Cesare Nespola; Kronos; Minister of Health; General Assembly; Henk Bodrogi,50
+10,ABILA; 1998/11/15; All News Today; 1990s; 1997; Protectors of Kronos; Elodis; Cesare Nespola; Kronos; POK; Minister of Health,49
+11,"Elian Karel; Protectors of Kronos; 2009/06/20; ELIAN KAREL; Elodis; POK mission; Abila City Prison; ABILA, Kronos; March 12; All News Today; President's office; Juliana Vann; 1998; KRONOS JAIL; GAStech; Tethyn; Minister of Justice; Karel; Chief of Police",96
+12,All News Today; Adian Koppolis; Kronos; Valeria; 2007/03/21; Marcellus Edris; GASTECH; GAStech; ELODIS; Celia; Elodis Primary School,50
+13,ABILA; All News Today; 1997; Protectors of Kronos; Carmine Osvaldo; Juliana Vann; Elodis; 1999/07/08; Cesare Nespola; Kronos; POK,66
+14,benzene; Wellness for All; All News Today; 1998/05/16; Kronos; Elodis Community Health Center; acetic anhydride; chlorine dioxide; arsenic; ELODIS,54
+15,ABILA; President; All News Today; 2009/03/12; police station; Elian Karel; Protectors of Kronos; Elodis; Michale Kraft; Saturday; Karel; GAStech; Kronos; POK,55
+16,Silvia Marek; Jeroen; Elian Karel; Protectors of Kronos; ABILA; the afternoon; the assembly; Antaura Karel; Elodis; 19 June 2009; All News Today; 2012/06/20; Juliana Vann; the police; Kronos; POK; Henk Bodrogi; pepper spray; batons; Elian; three years ago today; public officials,92
+17,ABILA; All News Today; 2014/01/19; Kronos capital building; GAStech-Kronos; GAStech; Kronos,33
+18,ABILA; Mestache Vardshvna; All News Today; 2012/09/08; Elian Karel; Juliana Vann; Protectors of Kronos; 1998; 2009; Kronos,50
+19,"Elian Karel; Abila Chief of Police; Abila Police Station; Elodis; ABILA, Kronos; Kraft; benzene; All News Today; Abila; Juliana Vann; 1998; June 19th; GAStech; Kronos; POK; Elian; Juliana; 2011/06/21; Karel",82
+20,"Willem Vasco-PAIS; 5 million cubic meters; December 16, 2013; Mrs. Avila; ABILA; Sten St. George, Jr.; $327.25 million; $96.25 million; Athena Speaks; Haneson Ngohebo; Tethys; 2014/01/20; Ingrid Barranco; ADA Campo-Corrente; Mr. St. George, Jr.; Orhan Strum; $1.96 billion; GAStech; Kronos; $38.5 million; Miriam Avila; IPO",146
+21,6 a.m.; January 20; ABILA; 10:00; Athena Speaks; Tethys; 2014/01/20; Sten St. George Jr.; department of fire of Abila; 14; Abila; GASTECH; government of Kronos; GAStech; Kronos; Edvard Vann; office of GAStech,114
+22,"2009/02/21; Athena Speaks; civils servant of government; GASTECH; ABILA, Kronos; Carman of Adrien; GAStech; Kronos; POK",51
+23,"ABILA; PRESIDENT Sten St George, Jr.; 8 AM; Tomorrow morning; Athena Speaks; Haneson Ngohebo; Blog scene; GAStech; St. George, Jr.; 2014/01/19; Kronos; IPO",58
+24,ABILA; 2009/06/21; Athena Speaks; Elodis; 1998; Elan Carol; Siopa; Juliana; Kronos; POK,46
+25,"ABILA; 14:30; Ravi Danisliau; AIRPORT Of ABILA; Danisliau; two planes; 12:30; Athena Speaks; GAStech - Kronos; Rome, Italy; Italy; Rome; 2014/01/20; GAStech; Kronos",68
+26,"international Kronos; Elodis; Athena Speaks; Tiskele; government of Kronos; 1997/10/17; GAStech; Kronos; ABILA, Kronos",55
+27,"2013/12/17; Athena Speaks; Carman d' Adrien; ABILA, Kronos; POK",41
+28,"BODROGI, CARMIN; heroin; MDMA; 1/7/1992; GUDENZ, KEL; 12/1/1993; COARDA, SEVE; 8/31/1952; 2/17/1982; CUSEMA, BRITA; 3/26/1981; Athena Speaks; DUNNA, THAD; 4/3/1994; 3/17/1971; AWELON, CYNTHE; MORDECAI, FRANCISCO; PEAIRS, MELSHA; SALANIAU, FERDINAND; 2/15/1995; 2011/11/23; HACHISH; HOLANDE, ANDA; 7/2/1995; 5/13/1979; 3/20/1981; KIBALIAU, IYAN; 9/20/1974; BLUMIAU, WILLEM; MDMC",238
+29,ABILA; President Dorel Kapelou II; Araullo; Athena Speaks; Former President Luis; Shine Araullo; Kronos; 2000/10/04; October 1,60
+30,"Athena Speaks; 2000/08/18; Elodis; Sunday; Tiskele; GAStech; ABILA, Kronos; GAStech International",55
+31,"ABILA; Sten St. George, Jr.; Athena Speaks; Michale Kraft; Carman d' Adrien; Elan Carol; THE CHIEF OF STOPPED POK; GAStech; Kronos; 2009/03/14",56
+32,2005/09/26; Kronos; government; GAStech de Kronos; Athena Speaks; Elodis; Tiskele; Rufus Drymiau; GAStech; ELODIS; POK,49
+33,last year; Abila; government; Athena Speaks; 2010/06/15; Elan Carol; Hagar Awelon; June 19; Kronos; Siopa d' Abila; guards of Kronos,61
+34,ABILA; Africa; Middle East; Athena Speaks; guards of Kronos; Europe; Kronos; 2011/05/15,31
+35,ABILA; Abila; 14; 17:00; Athena Speaks; Edvard Vann; Elodis; GASTECH; Kronos Police; 2014/01/20; GAStech; Kronos; POK,53
+36,ABILA; armine Edria; Celia Edris; Athena Speaks; Elodis; hospital of Abila; GAStech; Marcellus Edris; Rufus Drymiau; 2007/04/11; Kronos; Valeria Edris,71
+37,ABILA; 14; Athena Speaks; GASTECH; 2014/01/20; Kronos; GAStech Kronos,39
+38,benzene; selenium; Water for All (WFA); barium; Kronos; Athena Speaks; Elodis; xylene; toluene arsenic; GAStech; chromium; lead; activist of Kronos; Tethys; 1998/11/17; ELODIS,83
+39,2; organization of the businesses; 85 seats; General meeting; 2010/10/04; ABILA; President Kapelou II; Ren Touvi; Athena Speaks; 1.0%; 13; Kronesian; Dorel Kapelou II; part of the trade unions; Kronos; democratic party of Kronos; 98.7%,114
+40,"Mr. Kapelou; Athena Speaks; Vincent Kapelou; President Kapelou; Kronos; ABILA, Kronos; 2012/03/10; POK",41
+41,ABILA; Athena Speaks; 2010/06/21; police force; government of Kronos; plaza; police force of Abila; Kronos; POK,53
+42,ABILA; Emilio Haber; 2011/07/29; Protectors of Kronos; Athena Speaks; No entities detected.; Rufus Drymiau; Siopa; Kronos; POK,46
+43,Kronos; Abila; 1997/04/24; government; Athena Speaks; Elodis; Tiskele; GAStech; ELODIS; GAStech International,41
+44,Elian Karel; Protectors of Kronos; chromium; June 19; toluene; arsenic; 2012/08/24; ABILA; selenium; Wellness for All; 1997; Jeroen Karel; 2011; Athena Speaks; Elodis; xylene; lead; WFA; benzene; Abila; Juliana Vann; 1998; 2009; GAStech; Kronos; GAStech Tiskele; POK; barium,132
+45,2005/09/25; Kronos; Protectors of Kronos; Elodis; Tiskele Bend; Rufus Drymiau; Kronos Government; ELODIS; Central Bulletin; GAStech International,47
+46,ABILA; Emilio Haber; Protectors of Kronos; Siopa district; Rufus Drymiau; Kronos Government; 2011/07/28; Kronos; POK; Central Bulletin,44
+47,ABILA; 14 GAStech; Protector of Kronos; Abila; 17:00; Government; Edvard Vann; GAStech - Kronos; 6 hours; GASTECH; Kronos Police; 2014/01/20; Kronos; POK; Central Bulletin,65
+48,Kronos; Abila; Elodis; Tiskele River; Tiskele Bend; government of Kronos; 1997/04/23; ELODIS; Central Bulletin; GAStech International,44
+49,ABILA; 1997/10/16; Kronos; Government of Kronos; Elodis; Tiskele Bend; ELODIS; Central Bulletin; GAStech International,39
+50,5 million cubic meters; GAStech - Kronos; Centrum; ABILA; $327.25 million; Government; $96.25 million; CFO; COO; Tethys; 2014/01/20; CIO; Ingrid Barranco; Orhan Strum; GASTECH; Kronos; Central Bulletin; Ada Campo-Corrente; Miriam Avila; GAStech International; IPO,90
+51,Elian Karel; Protectors of Kronos; ABILA; Wellness for All; 1997; Jeroen Karel; 2011; Elodis; WFA; WFA organization; Government of Kronos; 2012/08/23; Tiskele Bend; 2009; Kronos; POK; Central Bulletin; Juliana; GAStech International,99
+52,ABILA; Democratic Party of Kronos; Dorel Kapelou II; Ren Touvi; Party of Kronos Industrialists; 2010/10/03; Kronos; Central Bulletin; General Assembly,66
+53,ABILA; Elian Karel; Government of Kronos; Protectors of Kronos; Siopa district; Hagar Awelon; June 19; Kronos; 2010/06/14; Central Bulletin,45
+54,"KRONOS POLICE ARREST BLOTTER; THEFT ALL OTHER-3RD DEGREE; DRUG PARAPHERNALIA; 1/7/1992; THEFT SHOPLIFTING-5TH DEGREE; ABILA; GUDENZ, KEL; FORGERY; 8/31/1952; CUSEMA, BRITA; 3/26/1981; DUNNA, THAD; FAILURE TO MAINTAIN CONTROL; 4/3/1994; 3/17/1971; AWELON, CYNTHE; MORDECAI, FRANCISCO; PEAIRS, MELSHA; 2/15/1995; 2011/11/23; PEDESTRN SUBJECT TO SIGNAL; HOLANDE, ANDA; PUBLIC INTOXICATION; Central Bulletin; 7/2/1995; 3/20/1981; KIBALIAU, IYAN; 9/20/1974; BLUMIAU, WILLEM; DWLU; IMPROPER BRAKE LIGHT",256
+55,benzene; Wellness for All; selenium; barium; Kronos; xylene arsenic; Government of Kronos; Protectors of Kronos; chromium; lead; WELLNESS FOR ALL; Tethys; toluene; 1998/11/16; Central Bulletin; ELODIS; GAStech International,67
+56,President Kapelou; Luis Araullo; Abila; Dorel Kapelou II; 62%; 36%; 2000/10/02; Kronos; 1 October; Central Bulletin,44
+57,"2009/02/19; Adrien Carman; GASTECH; ABILA, Kronos; POK; Central Bulletin; GAStech International",33
+58,ABILA; TRAFFIC ACCIDENT NEAR ELODIS; Celia Edris; Carmine Edris; Elodis; Valeria Edris; Marcellus Edris; 9; Rufus Drymiau; 2007/04/11; Kronos; Central Bulletin; GAStech International,66
+59,ABILA; Abila police; Protectors of Kronos; 2010/06/21; Kronos; POK; Central Bulletin,29
+60,"ABILA; Initial Public Offering; GAStech - Kronos; GAStech; Sten Sanjorge, Jr.; 2014/01/19; Kronos; Central Bulletin; IPO",51
+61,Protectors of Kronos; a month ago; GAStech Kronos; ABILA; 10:00; Abila Police Department; 6 hours; Kronos Government; Tethys; 2014/01/20; 14; Abila Fire Department; GASTECH; GAStech; Kronos; Central Bulletin; Edvard Vann; GAStech International,90
+62,ABILA; Elodis; Tiskele Bend; 2000/08/17; GAStech; Kronos; Central Bulletin; GAStech International,46
+63,ABILA; Protector of Kronos; 2009/06/21; Elian Karel; Protectors of Kronos; Elodis; Remember Juliana; 1998; Siopa; Justice for Elian; Kronos; POK; Central Bulletin,54
+64,ABILA; Elian Karel; Protectors of Kronos; Michale Kraft; GAStech - Kronos; 2009/03/13; Kronos; POK; Central Bulletin; Adrien Carman,46
+65,"2013/12/17; ABILA, Kronos; POK; Central Bulletin; Adrien Carman",24
+66,VOICES; Centrum Sentinel; Abila; 20 January 2014; Tethys,20
+67,VOICES; Centrum Sentinel; 20 January 2014; 20 gen. 2014; 1025,25
+68,21 January 2014; VOICES; Centrum Sentinel; Abila; 10:15; Tethys; GAStech-Kronos; GAStech,36
+69,VOICES; Centrum Sentinel; Abila; 20 January 2014; GAStech,20
+70,VOICES; Centrum Sentinel; 20 January 2014; 1251; the police; the government; GAStech,27
+71,GAStech; VOICES; Centrum Sentinel; 20 January 2014,17
+72,Captain Federigo Accardi; VOICES; Centrum Sentinel; 20 January 2014,19
+73,VOICES; Centrum Sentinel; 20 January 2014; Sanjorge; fire unit; GAStech,24
+74,VOICES; Centrum Sentinel; 20 January 2014; GAStech; Kronos,20
+75,The megaphone of fire unit; VOICES; Centrum Sentinel; 20 January 2014,21
+76,VOICES; Centrum Sentinel; 20 January 2014; government reception; Sanjorge; GAStech,24
+77,1512; VOICES; Centrum Sentinel; 20 January 2014; Two vehicles; GAStech,24
+78,1840; VOICES; Centrum Sentinel; 20 January 2014; Abila; limousine; airport,26
+79,VOICES; Centrum Sentinel; 20 January 2014; GAStech; Kronos; 2020,24
+80,21 January 2014; VOICES; Centrum Sentinel; Abila; GAStech,20
+81,Hullaballoo; VOICES; Centrum Sentinel; 20 January 2014; VIPs; 1538,25
+82,VOICES; Centrum Sentinel; 20 January 2014; Abila; 1942; GAStech; Kronos,27
+83,VOICES; Centrum Sentinel; 20 January 2014; National Fire Departments; GAStech,21
+84,VOICES; Centrum Sentinel; 20 January 2014; two automobiles; squad of the police; 1247,25
+85,1410; VOICES; Centrum Sentinel; 20 January 2014; GAStech,21
+86,1027; VOICES; Centrum Sentinel; 20 January 2014,17
+87,VOICES; Centrum Sentinel; Abila; 20 January 2014; NEWS; GAStech,22
+88,VOICES; Centrum Sentinel; 20 January 2014; Sanjorge; capitol,20
+89,VOICES; Centrum Sentinel; 20 January 2014; Kapelou; Sten Sanjorge; Council; GAStech; the ministers,32
+90,21 January 2014; VOICES; Centrum Sentinel; Abila; Sten Sanjorge; Tethys; GAStech,30
+91,VOICES; Centrum Sentinel; Abila; 20 January 2014; 1802,20
+92,VOICES; Centrum Sentinel; 20 January 2014; 1621; police; glass elevator; Reporter,24
+93,VOICES; Centrum Sentinel; 20 January 2014; 1807; GAStech,21
+94,21 January 2014; VOICES; Centrum Sentinel; $20 MILLION; LAW OF DEFIANCE; OUR CHILDREN; BUSINESSMEN; KLEPTOCRACY; GOVERNMENT; THIS LARGE NATION; ELITIST ONES; OUR RESOURCES; KRONOS PEOPLE; OUR NATIVE LAND; OUR GOVERNMENT; UNITED STATES; OUR LIFESTYLE; FOREIGN SOCIETIES; GREED CELEBRATION,92
+95,VOICES; Centrum Sentinel; 20 January 2014; The National Fire Departments; GAStech,22
+96,government civil employees; VOICES; Centrum Sentinel; 20 January 2014; CEO Sanjorge; the capitol,26
+97,21 January 2014; VOICES; Centrum Sentinel; the government; Petrus Gerhard; Kronos; POK,27
+98,VOICES; Centrum Sentinel; 1937; 20 January 2014; island of Kronos; police of Kronos; Kronos,30
+99,1356; VOICES; Centrum Sentinel; 20 January 2014; GAStech-Tethys; GAStech,28
+100,VOICES; Centrum Sentinel; 20 January 2014; 1837; GAStech; the first executive breakfast,26
+101,VOICES; Centrum Sentinel; 20 January 2014; fire unit; bomb; squad of the bomb,23
+102,ABILA; Silvia Marek; 2012/11/11; Wednesday; Kronos; POK; Daily Pegasus,37
+103,Kronos; 2002/05/27; HASR; oncology; 1998; Nespola; general hospital of Abila; LEAF 2002; municipal Web site of Elodis; 178%; PUBLIC HEALTH OF ELODIS; ELODIS; Daily Pegasus,71
+104,ABILA; Elian Karel; Elodis; Michale Kraft; the president; Saturday; 2009/03/13; Karel; GAStech; Kronos; POK; Daily Pegasus,69
+105,"Elian Karel; Elodis; ABILA, Kronos; benzene; Abila; two weeks; 19 of June; Julian Vann; 1998; GAStech; Kronos; head of Abila of the police; Michale Kraft; POK; Elian; Coroner of the city of Abila; 2011/06/21; Karel; Daily Pegasus",89
+106,Valeria; Carmine; Abila; the city of Elodis; Elodis; The police; 2007/03/21; Marcellus Edris; Fixes Koppolis; Celia; GAStech; Kronos; Koppolis; ELODIS; Daily Pegasus,92
+107,Charley Normand; Griffith Mabel; Abila; government; Mabel; Elodis; Julian; 2001/09/02; Tiskele; GAStech; Kronos; POK; ELODIS; Daily Pegasus,76
+108,"Elian Karel; Abila; Kronosian; July of 2010; 19 of June; Julian; Elian; 2010/06/21; Karel; Kronos; ABILA, Kronos; Daily Pegasus; POK",53
+109,statistic of the health; Abila; government; KRONOS; 1998/05/17; Elodis; Reese; Pondo Reese; Tiskele; ministry of the health; medical files; Kronos; ELODIS; Daily Pegasus; Henk Bodrogi,76
+110,"Elian Karel; office of the president; 12 of March; Elodis; ABILA, Kronos; police station; 2009/06/21; Abila; Julian Vann; 1998; Kronos; GAStech de Tethyn; Michale Kraft; POK; Kriste Brontes; march; Karel; Daily Pegasus",107
+111,Elodis; 2004/05/31; 1998; municipal Web site of Elodis; Kronos; ELODIS; Daily Pegasus,51
+112,1961; Sten Sanjorge; Reese; Tiskele; KRONOS; Elodis; '94; Osvaldo; Tethys; 25 of April of 1998; ELODIS; Sten Sanjorge Jr; Mr. hank Fluss; Pondo Reese; GAStech; Kronos; Henk Bodrogi; 1998/03/21; 250 years; Daily Pegasus,109
+113,Abila; Elodis; Bodrogi; 2001/03/23; Minister of the health; General Assembly; the end of this year; Will stop Nespola; Kronos; Daily Pegasus; Henk Bodrogi,54
+114,ABILA; 1997; Carmine Osvaldo; Elodis; Julian Vann; Nespola; 1999/07/08; Osvaldo; MINISTER OF THE HEALTH; Kronos; POK; Daily Pegasus; Prime minister of the health,76
+115,Elian Karel; 1993; the city of Abila; 2009/03/09; ABILA; the electrical systems; 1997; general hospital of Abila; Jon L.; the meeting of yesterday; foreign operations of the gas; the park the city of Abila; Abila; Julian Vann; Julian; 1998; governmental offices of Kronos; GAStech; Kronos; POK; Henk Bodrogi; the ministers; the office of the president; president Araullo; Saturday; the nonlucrative hospital; Karel; foreign companies; 20 years old; Daily Pegasus,183
+116,ABILA; Mestache Vardshvna; Elian Karel; 7 of September of 2012; Julian Vann; 1998; 2014/03/26; Kronos; Daily Pegasus,50
+117,benzene; Elodis Community; 1998/05/17; dioxide of clorina; acetic anhydride; health for everything; 1998; arsenic; 30; PUBLIC HEALTH OF ELODIS; Kronos; ELODIS; Daily Pegasus,60
+118,Silvia Marek; 19 of June of 2009; Jeroen; assembly; Elian Karel; ABILA; command batons; Antaura Karel; 2012/06/22; Elodis; Marek; police of Abila; Abila; Julian Vann; Julian; The police; Kronos; POK; aerosol of the pepper; Henk Bodrogi; Elian; three years ago today; Daily Pegasus,104
+119,ABILA; Kapelou the Jr of II; 2014/01/19; Sten Sanjorge; GAStech-Kronos; GAStech; Kronos; Daily Pegasus,42
+120,ABILA; Kronos; 1997; Elodis; Will stop Nespola; 1998/11/16; POK; Daily Pegasus; Henk Bodrogi,46
+121,"leaders of Elodis; Earth; scientific analysis; Bodrodgi; Sten Sanjorge; Bodrogi; 1990; Tiskele; Joclyn Reynolds; selenium; Sanjorge; KRONOS; Elodis; lead; Reynolds; Ferro; 1998/04/27; Asia South-Eastern; 200 years; ELODIS; benzene; Kronesian; tolueno; health for all; ""health for all""; 15 of May of 1998; Pondo Reese; government of Kronos; GAStech; arsenic of xylene; Henk Bodrogi; Jr; Mr. Fluss; Fluss hank; company of the gas; Daily Pegasus",175
+122,second; civil employees; Tiskele; fourteen years; ABILA; 2013/06/22; boats; Elodis; great homes; banks; automobiles of luxury; truth; president Kapelou; benzene; three years; park; Abila; 19 of June; Julian Vann; 1998; cafes; aviators; Kronos; POK; justice; public; Pacific; Daily Pegasus,107
+123,fenol; ethylene glycol; HASR; Elodis; acetic anhydride; 2000/06/01; 1998; lead; Nespola; oncology; general hospital of Abila; PUBLIC HEALTH OF ELODIS; 89%; Kronos; ELODIS; Daily Pegasus,69
+124,ABILA; 1993/02/04; Luis Araullo; 14; Mars Government; The 14; offices of the president; 86-14 month; Sarto Takings; education; Kronos; utilities; healthcare; Daily Pegasus,51
+125,"""songs of the farmer""; 2005/04/07; federal police of Kronos; ""this are our earth""; Tiskele; GAStech; Kronos; POK; ELODIS; Daily Pegasus",57
+126,ABILA; Silvia Marek; Elodis; 2012/04/10; Kronos; Daily Pegasus,26
+127,1998/08/21; OF TEN YEARS; Tiskele; 21 of August; 20 kilometers; the family home; the river; the funeral services; Elodis; the government; the small girl; the rural municipality; Tethys; ELODIS; benzene; Julian Vann; Julian; GAStech; Kronos; the corporation; Daily Pegasus,93
+128,"Black Sea; Tethys-only; Kronosian; GAStech TV; 2013/02/24; Kronosian government; Sten Sanjorge, Jr; Europe; Tethys; Mediterranean region; GAStech; Kronos; Everyday News",70
+129,"emergency equipment; Kosovo; O.N.U; Health for all; September; aid equipment; Cord of Jim; victims of the earthquake; Taiwan; Dr Mahmed; 15 million; global report; 2500 people; Singapur THAT TOOK CARE OF; Richter; spokesman; health; Malaysia; FoodSupport; medicines; Everyday News; Izmit, Turkey; global press; Dr Jayala Mahmed; 1999/11/16; earthquake; Turkey; 100,000 buildings; local press",130
+130,"""protectors of Kronos""; the presidential office; Kapalou; 4 of March of 2010; Karel Kapelou II; the government; Petra Hohimae; 2014/03/26; Mediterranean; Kronos; Everyday News",60
+131,"Mr. Drymiau; Kronos de Kronos; Kronos de Abila; 1997; 2009/02/23; Tethys; Abila; protectors of Kronos; health for all; 1998; government of Kronos; POK terrorism; Kronos; Everyday News; POK; Tuesday; Kronosian; The protectors of Kronos; Rufus Drymiau; ""Justice for Julian""",104
+132,North Sea; the abundant natural resources; the industry of the gas; Sten Sanjorge; Glasgow; Fluss hank of the Jr; Sten; Tethan; 60s; Sanjorge; the capital city; Scotland; Tethys; Thethys; 1974; 70s; GAStech; Everyday News; 1982/10/03; the new energy,132
+133,observation post; civil employees; insecticides; Interpol; 21 October 2013; Tethys; Arise; Asteria; caramel of cotton; Tethys Counterdrug; spice soña; Everyday News; flower of tulip; harbor; Loblaw; Loblaw Robert; Asterian; 2014/03/26; MDMC; detergent,96
+134,9AM (KDT); Abila; Elodis; Fixes Koppolis; Intersection; GAStech; Kronos; Everyday News; 2007/03/19,38
+135,2012/06/21; capital building; Abila; Tuesday; Elian Karel; police; government; spokesmen of the government; groups of the criminals; Julian Vann; the government; the presidential farm; forces of the security; presidential mansion; GAStech; Kronos; Everyday News; POK,77
+136,CEO Sten Sanjorge; Jr; 2009/06/23; Elian Karel; Abila; 10 years; Kronosian; Wednesday; GASTech; Sanjorge; Julian Vann; 1998; Karel; GAStech; Kronos; Everyday News; May; POK,86
+137,2014/01/21; GASTech; Council; Tethan; Juan Rathburn; APA; Tethys; Sten Sanjorge Jr; Ingrid Barranco; Abila; protectors of Kronos; Willem Vasco-Pais; fire alarm; Orhan Strum; Kronos; POK; Everyday News; $20 million; Ada Campo-Corrente; Asterian,98
+138,"the times; slate; 1984/05/05; Sten Sanjorge, Jr; 10 next years; the government of Kronos; gas; 20, 30 or 40 years; local advice; Europe; SanJorge; Oskar Wertz; oil; European; west; GAStech; Kronos; Everyday News; fossil fuel; Mediterranean Sea; government; local communities; University of Tethys; marine atmospheres",121
+139,The initial protests; The government; The environmental situation; The citizens; Abila; The company; Dorel Kapelou II; Abilia; The administration; The police; Tethys; The hundreds of rural citizens; 2013/11/13; GAStech; Kronos; Everyday News; Shawn Pastorini; Terek Kamal,94
+140,CEOs; Kronosians; Krono; A; years 80; 15 years; Foreign CEOs; overseas markets; country; Hay; Q; Elodis; culture; CEO; Tethys; foreign CEO; Tethian; European; industry; A to B; 17 of January of 1995; GAStech; Kronos; Everyday News; foreign executive; Fluss hank; Kronosian; foreign CEOs; 2014/03/26; luxury merchandize,136
+141,K2bn; civil employees; K17; 2012/02/22; K3.5bn; six years ago; 2012; budgetary exercise 2011-12; North America; 15% the last year; Kronos fields; last year; oil; .83m of oil per day; 20 years; 26 wells; Julio Jecovic; Norway; production costs; 12 last months; oil and gas industry; 15 wells; GAStech; Kronos; Everyday News; energy; annual survey; government; Kronos Jecovic; Oil and the gas Kronos; K30; gas fields; energy minister; 27%,144
+142,"department of the emergency; bottoms; Potter de Ralf; organized crime; Alicia Bianca; political groups; man; Biance; Elodis; general hospital of Abila; ""spice soña""; ""flower of tulipán""; designer drugs; ""It""; insurgent organizations; investigators; drug traffic; greater region of the city; chemical agents; police; socioeconomic youths; 2013/02/09; body of firemen of Abila; ""herbaria therapy""; K18; Bianca; cocaine; ""caramel of cotton""; female; The designer drugs; synthetic marijuana; Sgt Antonio Arresta; Kronos; Everyday News; toxicología; 54 years; adults; Arresta; army of people; medical calls of the emergency; ""the cold"" drug; 4 of February; cotton caramel; last month; ""cotton caramel""; Asterian; general of Abila; K166; Hospitals of Abila; Citywide",261
+143,20 Jan 2014; VOICES; 20 January 2014; Sanjorge; Homeland Illumination; Maha Salo; GAStech; Kronos,37
+144,21 January 2014; VOICES; 21 Jan 2014; Protectors of Kronos; Homeland Illumination; Petrus Gerhard; Maha Salo; Kronos; POK,43
+145,ABILA; President Kapelou II; 19 January 2014; CEO Sten Sanjorge Jr.; Homeland Illumination; Petrus Gerhard; GAStech-Kronos; GAStech; Kronos,48
+146,22 March 2001; Abila; Protectors of Kronos; Elodis; Homeland Illumination; Maha Salo; Kronos; General Assembly; Henk Bodrogi,50
+147,20 Jan 2014; VOICES; 20 January 2014; 1251; Homeland Illumination; The police; Maha Salo; GAStech; GAStech officials,42
+148,"20 June 2011; Elian Karel; Abila City Coroner; Kronos; Juliana Vann; Elodis; Homeland Illumination; Elian; 1998; Abila Chief of Police; Abila Police Station; June 19th; Karel; GAStech; Michale Kraft; ABILA, Kronos; POK",81
+149,20 Jan 2014; VOICES; 20 January 2014; Homeland Illumination; Maha Salo; GAStech; Kronos; 2020,37
+150,ABILA; Silvia Marek; Jeroen; 20 June 2012; Elian Karel; Antaura Karel; Abila police; Protectors of Kronos; Elodis; Juliana Vann; Homeland Illumination; Petrus Gerhard; Elian; three years ago today; 19 June 2009; Kronos; POK; Henk Bodrogi,90
+151,20 Jan 2014; VOICES; 20 January 2014; 1155; Homeland Illumination; Maha Salo; The fire department,34
+152,Kronos federal police; Kronos; Tiskele Bend GAStech; The Weavers of our Homeland; 05 April 2005; Protectors of Kronos; This is Our Land; Homeland Illumination; Maha Salo; Songs of the Farmer; ELODIS; POK,62
+153,"20 June 2011; Elian Karel; Abila City Coroner; Kronos; Juliana Vann; Elodis; Homeland Illumination; Elian; 1998; Abila Chief of Police; Abila Police Station; June 19th; Karel; GAStech; Michale Kraft; ABILA, Kronos; POK",78
+154,89%; 1998 Wellness for All; Abila General Hospital; Kronos; Hyper Acidic Substrate Removal; HASR; Elodis; acetic anhydride; Homeland Illumination; lead; ethylene glycol; Minister of Health Nespola; Maha Salo; 31 May 2000; ELODIS; phenol,87
+155,20 Jan 2014; VOICES; 20 January 2014; 1027; Homeland Illumination; Maha Salo,30
+156,ABILA; President Kapelou; Abila capital building; Kronos; Kronos government; Protectors of Kronos; Elodis; Juliana Vann; Homeland Illumination; Petrus Gerhard; Tiskele River; Abila Police; 1998; No entities detected.; June 19th; Kronos; POK martyrs; 20 June 2013,85
+157,"ELODIS, Kronos; 20 km; August 21; Wellness For All; Government of Kronos; Juliana Vann; Elodis; Homeland Illumination; Petrus Gerhard; Tiskele River; leukemia; benzene poisoning; Juliana; Tethys; GAStech; Kronos; 19 August 1998",77
+158,ABILA; President; Elian Karel; Abila; Minister of Justice; Protectors of Kronos; Elodis; Michale Kraft; Homeland Illumination; Petrus Gerhard; Saturday; Karel; GAStech; Kronos; POK; 12 March 2009,80
+159,Wellness for All; Abila General Hospital; Elodis Community Health Center; Kronos; 25 May 2002; HASR; Elodis; Homeland Illumination; 1998; Minister of Health Nespola; Maha Salo; Hyper Acidic Substrate Removal; ELODIS,76
+160,20 Jan 2014; VOICES; 20 January 2014; Abila; Homeland Illumination; 1942; Maha Salo; GAStech; Kronos,40
+161,ABILA; Mestache Vardshvna; Kronos; Elian Karel; Juliana Vann; Protectors of Kronos; Homeland Illumination; 1998; 2009; Maha Salo; Karel; 7 September 2012,78
+162,the capital building; GAStech headquarters; VOICES; 20 January 2014; Sten Sanjorge; Homeland Illumination; Ministers and Council members; last month; President Kapelou; Maha Salo; GAStech; today; healthcare,55
+163,Ministry of Health; Kronos; Abila; Wellness For All; KRONOS; 15 May 1998; Elodis Weekly Journal; Reese; Homeland Illumination; Petrus Gerhard; Tiskele River; Pondo Reese; ELODIS; Part Three; Henk Bodrogi,71
+164,20 Jan 2014; VOICES; 20 January 2014; CEO Sanjorge; Homeland Illumination; Petrus Gerhard; Illumination; Maha Salo; capitol building,43
+165,ABILA; Silvia Marek; Protectors of Kronos; Homeland Illumination; 9 April 2012; Maha Salo; Kronos; Elodis city park,39
+166,VOICES; 20 January 2014; Homeland Illumination; Fire Captain Federigo Accardi; Maha Salo,26
+167,ABILA; 14 November 1998; 1990s; 1997; Cesare Nespola; Protectors of Kronos; Elodis; Homeland Illumination; Maha Salo; Kronos; POK; Minister of Health; Henk Bodrogi,60
+168,21 January 2014; VOICES; 21 Jan 2014; KRONOS; Homeland Illumination; Maha Salo; $20 million,32
+169,VOICES; 20 January 2014; Homeland Illumination; Maha Salo; GAStech,23
+170,1512; 20 Jan 2014; VOICES; 20 January 2014; Two police vehicles; Homeland Illumination; Maha Salo; GAStech,38
+171,VOICES; 20 January 2014; 1430; Homeland Illumination; Petrus Gerhard; 1515; Abila airport; Maha Salo; GAStech,40
+172,ABILA; President; Kraft; Elian Karel; Abila; Minister of Justice; Protectors of Kronos; Elodis; Michale Kraft; Homeland Illumination; Petrus Gerhard; Saturday; Karel; GAStech; Kronos; POK; 12 March 2009,82
+173,ABILA; 1997; Protectors of Kronos (POK); Carmine Osvaldo; Juliana Vann; Elodis; Homeland Illumination; Maha Salo; Kronos; POK; 7 July 1999,77
+174,20 Jan 2014; VOICES; 20 January 2014; bomb squad; Homeland Illumination; fire department; Maha Salo,32
+175,20 Jan 2014; VOICES; 20 January 2014; Homeland Illumination; 1522; Maha Salo; GAStech,34
+176,"Southeast Asia; Profits; town; Bodrodgi; Bodrogi; 1990; Tiskele River; next day; Joclyn Reynolds; toluene; selenium; Wellness for All; xylene arsenic; Sanjorge; KRONOS; Elodis; Petrus Gerhard; lead; Reynolds; city officers; draught; 200 years; equipment; ELODIS; Hank Fluss; benzene; natural disasters; May 15, 1998; water specialist; Ferro Hardware store; home; Homeland Illumination; Pondo Reese; gas company; Sten Sanjorge, Jr.; worship days; tractor; GAStech; Kronos; Henk Bodrogi; acreage; representative; Wellness For All; oil and gas development; crops; truck; Mr. Henk Bodrogi; water; 25 April 1998",202
+177,1356; 20 Jan 2014; VOICES; 20 January 2014; Homeland Illumination; Maha Salo; GAStech-Tethys; GAStech,41
+178,20 Jan 2014; VOICES; 20 January 2014; Firemen; Homeland Illumination; Maha Salo; GAStech,33
+179,21 January 2014; VOICES; 21 Jan 2014; Sten Sanjorge; Homeland Illumination; Abila airport; Tethys; Maha Salo; GAStech,44
+180,20 Jan 2014; VOICES; 20 January 2014; Homeland Illumination; fire department; Maha Salo,29
+181,20 Jan 2014; VOICES; 20 January 2014; 1937; Kronos police; Homeland Illumination; Maha Salo; Kronos,37
+182,21 January 2014; VOICES; 21 Jan 2014; Homeland Illumination; Petrus Gerhard; Maha Salo,31
+183,21 January 2014; VOICES; Abila; Homeland Illumination; 0911; Maha Salo; GAStech,30
+184,20 Jan 2014; VOICES; 20 January 2014; Airport; Homeland Illumination; 1807; Maha Salo; GAStech,36
+185,20 Jan 2014; VOICES; 20 January 2014; VIPs; Homeland Illumination; Maha Salo; 1538,33
+186,1232; VOICES; 20 January 2014; Homeland Illumination; Maha Salo; GAStech; Kronos,30
+187,20 Jan 2014; VOICES; 20 January 2014; 1247; Homeland Illumination; two police squad cars; Maha Salo,35
+188,benzene; Wellness for All; Elodis Community Health Center; Kronos; 15 May 1998; Elodis; acetic anhydride; Homeland Illumination; Petrus Gerhard; 1998; chlorine dioxide; arsenic; ELODIS,67
+189,Charley Normand; Protectors of Kronos; Tiskele River; 31 August 2001; Elodis; Kronos police; Petrus Gerhard; ELODIS; Abila; five activists; Government of Kronos; Tiskele Bend fields; government cars; Homeland Illumination; GAStech; Kronos; POK; three parties; Elodis jail; Juliana; Griffith Mabel; Mabel,109
+190,20 Jan 2014; VOICES; 20 January 2014; Sanjorge; Homeland Illumination; Gerhard; Maha Salo,33
+191,ABILA; President; Kronosians; 14; Homeland Illumination; Petrus Gerhard; President Luis Araullo; 2 February 1993; Kronos,42
+192,Elodis police; 20 March 2007; Kronos; Adian Koppolis; Valeria; Carmine; Abila; Elodis city jail; Commissioner Koppolis; Homeland Illumination; Marcellus Edris; GASTECH; Maha Salo; GAStech; ELODIS; Celia; Elodis Primary School,77
+193,"1961; Sten Sanjorge Sr; Reese; Tiskele River; Sanjorge Sr; Elodis; Petrus Gerhard; '94; Tethys; Hank Fluss; Sten Sanjorge Jr; April 25, 1998; Elodis Weekly Journal; Homeland Illumination; Pondo Reese; Tiskele Bend; People of Kronos; GAStech; Kronos; Henk Bodrogi; Mt. Bouro; Osvaldo hardware store; GAStech International; 19 March 1998",146
+194,20 Jan 2014; VOICES; 20 January 2014; Sanjorge; Homeland Illumination; Gerhard; Maha Salo; GAStech,37
+195,20 Jan 2014; 1410; VOICES; 20 January 2014; Homeland Illumination; Maha Salo; GAStech,34
+196,"Elian Karel; Protectors of Kronos; March; Elodis; Petrus Gerhard; 19 June 2009; Abila City Prison; ABILA, Kronos; March 12; President's office; Juliana Vann; Homeland Illumination; 1998; GAStech; Michale Kraft; POK; Tethyn; Kriste Brontes; Minister of Justice; Karel; Chief of Police",105
+197,20 Jan 2014; VOICES; 20 January 2014; 1621; police; second floor; Homeland Illumination; Maha Salo,35
+198,Wellness for All; Elodis Community Health Center; Kronos; Homeland Illumination; Petrus Gerhard; 1998; Elodis municipal website; ELODIS; 29 May 2004,56
+199,21 January 2014; VOICES; Police; 10:15; 21 Jan 2014; Homeland Illumination; Tethys; Maha Salo; GAStech-Kronos; GAStech; Abila Police,52
+200,Ten-year; Abila City park; Elian Karel; 1993; POK campaign; 20-year; ABILA; 1997; Jon L.; Petrus Gerhard; President's office; Juliana Vann; Homeland Illumination; Remember Juliana; 1998; 7 March 2009; GAStech; Kronos; POK; Henk Bodrogi; Abila General Hospital; President Araullo; Saturday; Karel; Kronos government,121
+201,20 Jan 2014; VOICES; 20 January 2014; Homeland Illumination; Petrus Gerhard; Tethys; Maha Salo; Abila Police Headquarters,40
+202,ABILA; Elian Karel; Kronos; Abila City Coroner; Protectors of Kronos; Homeland Illumination; Petrus Gerhard; Elian; July 2010; Juliana; Karel; 19 June 2010; POK,58
+203,20 Jan 2014; 1840; VOICES; 20 January 2014; Homeland Illumination; Petrus Gerhard; Abila airport; Maha Salo,39
+204,20 Jan 2014; VOICES; 20 January 2014; Homeland Illumination; Petrus Gerhard; Abila airport; 1802; Maha Salo,39
+205,20 Jan 2014; VOICES; 20 January 2014; Homeland Illumination; 1837; Maha Salo; GAStech,34
+206,20 Jan 2014; VOICES; 20 January 2014; Homeland Illumination; Abila Airport; Maha Salo; 1744; GAStech,38
+207,ABILA; Tiskele Bend Fields; 2001/08/31; Protectors of Kronos; Drilling Poisoned Our Water; Juliana Vann; Remember Juliana; 1998; Adrien Carman; GAStech; Kronos; POK; International News,63
+208,"1993/01/19; ABILA; billions of dollars; 20 years; President Araullo; Parliament; Government; Foreign Investment; 5,000; Tiskele Bend; Ministry of the Interior; Kronos; International News",50
+209,ABILA; Abila police; 2014/01/21; Adrien Carman; GAStech; Kronos; POK; International News,40
+210,"Tethyn federal law enforcement; Abila; Protectors of Kronos; Edvard Vann; ABILA, Kronos; 2014/01/20; GAStech; POK; International News",52
+211,Police; 2013/12/16; Abila; Adrien Carmen; Kronos; POK; International News,25
+212,"last year; Police; Elian Karel; Juliana Vann; International News; government security forces; Capitol; ABILA, Kronos; 2013/06/20; POK",40
+213,"Tiskele Bend Fields; POK protesters; Police; Tiskele Bend; 5:30 a.m.; 9 a.m.; 2005/04/06; ABILA, Kronos; International News; POK",48
+214,ABILA; Ingrid Barranco; President Kapelou; Capitol Building; Abila General Hospital; Willem Vasco-Pais; Sten Sanjorge Jr.; Orhan Strum; Ada Campo-Corrente; GAStech; Rufus Drymiau; 20th year; Tethys; The Star; 2014/01/19; Kronos; International News,81
+215,ABILA; 1995/10/11; Sanjorge; President Sten Sanjorge Jr.; Kronos; Minister Sarto; International News,42
+216,"Rufus Drymiau; 2011/07/28; ABILA, Kronos; International News; POK",25
+217,"Abila General Hospital; Araullo; 1995/11/21; 1930; Torsten Trucco; ABILA, Kronos; International News",34
+218,"rural health projects; taxes; health education; foreign investment.; health care; 2001/03/18; clean water projects; oil and gas development; rural areas; International News; energy sector; President Kapelou; ABILA, Kronos; General Assembly",64
+219,ABILA; Capitol Building; Abila; Sten Sanjorge Jr.; Sanjorge; 2014/01/21; GAStech HQ; Centrum; Tethys; President Kapelou; GAStech; Kronos; International News,54
+220,ABILA; 2009/02/18; Protectors of Kronos; Government; Adrien Carman; Rufus Drymiau; GAStech; Kronos; POK; International News,54
+221,ABILA; Kapelou; 2012/06/22; Elodis; Kronos; POK; International News,27
+222,"Police; Elian Karel; Abila; Protectors of Kronos; Juliana Vann; 2010/06/21; Marek; ABILA, Kronos; POK; last summer; International News; Abila Police Headquarters",58
+223,"Tiskele Bend Gas Fields; Tiskele Bend; Ministry of Interior; 1996/03/14; GAStech; ABILA, Kronos; Minister Sarto; International News",40
+224,ABILA; health education; Oil; health care; clean water projects; Last year; Abila; Gas Development; Minister Nespola; 1999/07/04; Kronos; International News,51
+225,ABILA; 2009/03/12; Elian Karel; Protectors of Kronos; Michale Kraft; Karel; Kronos; International News,34
+226,ABILA; presidential manor; 2012/06/20; capitol building; Kronos; POK; International News,27
+227,"Mediterranean; Black Sea; International Times; 22 February 2013; Kronosian regions; Kronosian government; Sten Sanjorge, Jr; Europe; Tethys; Gastech; GAStech; Kronos; GAStech TV station",60
+228,CFO Ingrid Barranco; 21 January 2014; GASTech; Protectors of Kronos; COO Orhan Strum; GAStech President; International Times; GASTech headquarters; APA; Tethys; $20 Million; John Rathburn; The Times; Abila; CEO Sten Sanjorge Jr; Kronos; POK; CIO Ada Campo-Corrente; Asterian People's Army,127
+229,K2bn; K17; .83m barrels; International Times; K3.5bn; Government; 2012; 2011-12; Ministry; North America; Jecovic; 20 February 2012; 12 months; Norway; Kronos Treasury; GAStech; Oil and Gas Kronos; Kronos; Jules Jecovic; 8%; K30; 27%,90
+230,International Times; Elian Karel; Abila; Wednesday; Sten Sanjorge Jr.; GASTech; Protectors of Kronos; Juliana Vann; 1998; Kronosian government; 22 June 2009; Karel; GAStech; Kronos; POK; May,75
+231,International Times; gangs of criminals; Police; 20 June 2012; Abila; Tuesday; Elian Karel; presidential homestead; Protectors of Kronos; Juliana Vann; Government; government buildings; security forces; GAStech international; Kronos; POK,67
+232,"Interpol; ""cotton candy""; International Times; 21 October 2013; APA; Times; Tethys; Arise; Asteria; Senior Inspector Robert Loblaw; ""spice dreams""; Senior Inspector Loblaw; ""Tulip Blossom""; Tethys Counterdrug Team; Loblaw; Asterian People's Army; MDMC; port officials",99
+233,International Times; 4 October 1982; GASTech; Sten Sanjorge; 2 October; Leadership; Times,27
+234,"100,000; 2500; Kosovo; this year; Aid agencies; September; Wellness for All; International Times; central Taiwan; Jim Cordon; 15 million; two; Dr. Mahmed; Malaysia; Richter scale; FoodSupport; Izmit, Turkey; Tuesday; 20,000; 7.3; Dr. Jayala Mahmed; Emergency Teams; CARING Singapore; Thirteen; Turkey; 14 November 1999",119
+235,International Times; Abila; Kronosian; 12 November 2013; Abilia; Protectors of Kronos; Dorel Kapelou II; GAStech International; Times; Tethys; GAStech; Kronos; Shawn Pastorini; Terek Kamal,74
+236,Wellness for All; International Times; Mr. Drymiau; Kronos; Abila; 1997; Kronosian; Protectors of Kronos; 1998; Times; Rufus Drymiau; Juliana; Tethys; 22 February 2009; POK; 1998 anti-terrorism treaty,87
+237,9AM (KDT); International Times; Adian Koppolis; Elodis; Abila Children's Hospital; GAStech; Kronos; 18 March 2007; Calistermi Road,44
+238,North Sea; Daily Record; Sten Sanjorge; Glasgow; 2 October 1982; Centrum; 1970s; International Times; Sanjorge; Scotland; Tethys; Hank Fluss; Thethys; 1974; Sanjorge Gas company; Tethan Gas Industry; GAStech; Sten Jr.; 1960s; Tethan government,127
+239,February 4; carnival treat; The Asterian People's Army; Ralf Potter; Abila Hospitals; Alicia Bianca; Biance; International Times; Elodis; Designer drugs; Emergency Department; Kronos National Poison Center; national poison center; cotton candy; 20 years; 7 February 2013; Abila; Abila Fire Department; Spice Dreams; Bianca; cocaine; seven years; synthetic marijuana; Sgt Antonio Arresta; Kronos; Abila General Hospital; herbal therapy; khat; Abila General; Tulip Blossom; Cotton Candy; K18; K166; 54-year-old,152
+240,"West; Tethys University; Professor Oskar Wertz; Kronos government; 3 May 1984; local councils; International Times; 100 trillion cubic feet; 20, 30 or 40 years; Sanjorge; next 10 years; hyper-acidic substrate removal; Times; Europe; SanJorge; communities; Shale gas; European; fossil fuel resources; Sten Sanjorge, Jr.; GAStech; Kronos; Mediterranean Sea; marine environments; offshore shale gas; landholders",135
+241,"Annual POK Rally; Elian Karel; protestors; three officers; President Dorel Kapelou; Marcella Trapani; rubber bullets; Tethys; ABILA, Kronos; water cannons; Juliana Vann; GAStech; police vehicles; 20 June 2013; POK; tear gas; pepper spray; Kronos Star; Capitol; police forces",83
+242,Cato Rossini; 20 January 2014; 12:20 PM; Abila police; Marcella Trapani; GAStech Headquarters Building; Kronos Star; GAStech,43
+243,"President Kapelou; Elian Karel; Abila; Protectors of Kronos; Marcella Trapani; Elodis; 18 February 2009; Rufus Drymiau; ABILA, Kronos; Kronos Star; GAStech; POK; Adrien Carman",77
+244,Capitol Building; 19 January 2014; 20th year; President Kapelou; The Star; ABILA; Tethys; Ingrid Barranco; Willem Vasco-Pais; Sten Sanjorge Jr.; Orhan Strum; Tiskele Bend; GAStech; Kronos; Abila General Hospital; Ada Campo-Corrente; Rufus Drymiau; Kronos Star; GAStech International,92
+245,"Abila; Marcella Trapani; 15 December 2013; ABILA, Kronos; Kronos Star; Adrien Carmen; POK",34
+246,"President Kapelou; rural health projects; Assembly; gas and oil taxes; Kronos Star; 17 March 2001; Eva Thayer; later this year; ABILA, Kronos; General Assembly",54
+247,"Tiskele Bend Fields; Carmine Gurganus; Drilling Poisoned Our Water; Protectors of Kronos; Marcella Trapani; Juliana Vann; Government; Remember Juliana; 1998; 30 August 2001; Kronos Star; GAStech; Kronos; ABILA, Kronos; Adrien Carman; POK",84
+248,"Siopa District; Abila; Protectors of Kronos; Marcella Trapani; ABILA, Kronos; Kronos Star; 20 June 2011; POK",40
+249,Cato Rossini; 20 January 2014; Marcella Trapani; 6:40 PM; GAStech Headquarters Building; Tethys; Kronos Star; GAStech,43
+250,Cato Rossini; 20 January 2014; Marcella Trapani; GAStech Headquarters Building; Kronos Star; 2:00 PM,35
+251,Cato Rossini; 20 January 2014; 5:50 PM; Marcella Trapani; GAStech Headquarters Building; Kronos Star; capitol building; GAStech,43
+252,"President Kapelou; Bachelor's of Science; Tethys Central University; Ministry of Health; Araullo; 1995; Master's of Science; 2000; Vincent Kapelou; 14 June 2001; Eva Thayer; Kronos Star; ABILA, Kronos",71
+253,Cato Rossini; 20 January 2014; GAStech executive jet; 6:30 PM; Marcella Trapani; GAStech Headquarters Building; Kronos Star; GAStech,45
+254,Cato Rossini; 20 January 2014; Marcella Trapani; GAStech Headquarters Building; 3:20 PM; Kronos Star; GAStech,39
+255,Cato Rossini; 20 January 2014; Marcella Trapani; GAStech Headquarters Building; Kronos Star; GAStech; 8:15 PM,39
+256,Cato Rossini; 20 January 2014; Abila; Marcella Trapani; 7:30 pm; GAStech Headquarters Building; Kronos Star; 7:15 PM,44
+257,Cato Rossini; 20 January 2014; Protectors of Kronos; Marcella Trapani; GAStech Headquarters Building; Kronos Star; 5:30 PM; GAStech; POK,48
+258,"Abila General Hospital; 20 June 2012; police; Marcella Trapani; the presidential manor; the capitol building; Several protestors; Kronos Star; ABILA, Kronos; POK",46
+259,"Cato Rossini; 20 January 2014; Marcella Trapani; 5:10 PM; GAStech Headquarters Building; ""people in black""; Kronos Star; GAStech",45
+260,Cato Rossini; 20 January 2014; Fire department; Marcella Trapani; GAStech Headquarters Building; Kronos Star; GAStech; 11:45 AM,42
+261,"Marcella Trapani; Andreas; President Kaeplou; 7 March 2012; Vincent Kapelou; Kronos Star; Cesare Nespola; ABILA, Kronos; Minister of Health; 2001; POK",54
+262,"ABILA; foreign ""experts""; foreign companies; Lelio Masin; President Araullo; Abila; our modernization; our government; foreigners; 18 January 1998; our country; Kronos Star; Kronos",50
+263,Cato Rossini; 20 January 2014; Marcella Trapani; GAStech Headquarters Building; Kronos Star; 3:40 PM; GAStech,39
+264,Cato Rossini; 20 January 2014; Marcella Trapani; GAStech Headquarters Building; Mr. Strum; Kronos Star; 1:50 PM; GAStech,44
+265,Cato Rossini; 20 January 2014; 12:40 PM; Marcella Trapani; GAStech Headquarters Building; Kronos Star; GAStech,39
+266,"Tiskele Bend Gas Fields; Kronos; President Araullo; 13 March 1996; Mr. President; Ministry of Interior; Kronos Star; GAStech; Donato Petri; ABILA, Kronos; Minister Sarto",51
+267,"Abila General Hospital; trauma and burn care units; Araullo; emergency services area; 21 November 1995; Abila General; 1930; Kronos Star; Torsten Trucco; psychiatric care wing; new hospital; ABILA, Kronos",66
+268,Cato Rossini; 20 January 2014; Willem Vasco-Pais; Marcella Trapani; GAStech Headquarters Building; Kronos Star; 1:40 PM,49
+269,Cato Rossini; 20 January 2014; Sten Sanjorge Jr.; Abila International Airport; Marcella Trapani; GAStech Headquarters Building; Tethys; Kronos Star; GAStech; 6:10 PM,55
+270,"Tethyn federal law enforcement; 20 January 2014; Centrum, Tethys; Abila; Protectors of Kronos; Marcella Trapani; Edvard Vann; ABILA, Kronos; Kronos Star; GAStech; Kronos; POK",70
+271,Ingrid Barranco; Cato Rossini; 20 January 2014; GSAtech; Marcella Trapani; GAStech Headquarters Building; Kronos Star; 1:35 PM; Ms. Barranco,49
+272,"President Kapelou; 21 January 2014; Capitol Building; Centrum, Tethys; Abila; Sten Sanjorge Jr.; 20th year; Kronos Star; Eva Thayer; GAStech; ABILA, Kronos",69
+273,ABILA; health education; Abila General Hospital; Oil; Kronos; health care; clean water projects; Gas Development; rural areas; Minister Nespola; 3 July 1999; Kronos Star; Donato Petri; Health Cesare Nespola,57
+274,Cato Rossini; 20 January 2014; 3:05 PM; Marcella Trapani; GAStech Headquarters Building; Kronos Star,35
+275,"Silvia Marek; Abila General Hospital; Police; Elian Karel; 20 June 2010; Abila police; Protectors of Kronos; Marcella Trapani; Juliana Vann; Adrien Carman; Kronos Star; ABILA, Kronos; POK",80
+276,Cato Rossini; 20 January 2014; Marcella Trapani; 4:25 PM; GAStech Headquarters Building; Kronos Star; GAStech;,40
+277,Cato Rossini; 20 January 2014; Marcella Trapani; Ada Campo-Corrente; GAStech Headquarters Building; Kronos Star; 1:30 PM,48
+278,ABILA; Lelio Masin; Kronos; Sanjorge; GAStech international; President Sten Sanjorge Jr.; GAStech-Kronos; Kronos Star; Minister Sarto; 10 October 1995,61
+279,Cato Rossini; 20 January 2014; Abila Fire; Marcella Trapani; 11:55 PM; GAStech Headquarters Building; Kronos Star; Federigo Accardi; GAStech,48
+280,"Kapelou; Elodis; ABILA, Kronos; Kronos Star; Eva Thayer; 21 June 2012; POK",32
+281,"President Kapelou; 27 July 2011; Rufus Drymiau; ABILA, Kronos; Kronos Star; Eva Thayer; POK",35
+282,Ingrid Barranco; Cato Rossini; 20 January 2014; Sten Sanjorge Jr.; Willem Vasco-Pais; Marcella Trapani; Orhan Strum; Ada Campo-Corrente; capitol; GAStech Headquarters Building; 12:25 PM; Kronos Star; GAStech,72
+283,President Kapelou; Cato Rossini; 20 January 2014; Government; Marcella Trapani; GAStech Headquarters Building; Rufus Drymiau; 8:00 PM; Kronos Star,48
+284,20 June 2009; President Kapelou; Elian Karel; Abila; Protectors of Kronos; Marcella Trapani; The Protectors of Kronos; Siopa; Kronos Star; Kronos; POK,52
+285,"Dr. Ronald Gerard; Abila General Hospital; Ministry of Health; Nespola's office; Kronos; Lelio Masin; Elodis; Tiskele Bend; Tethys; 9 November 1998; Cesare Nespola; Kronos Star; ABILA, Kronos",65
+286,Cato Rossini; 20 January 2014; Marcella Trapani; 10:00 PM; GAStech Headquarters Building; Tethys; Kronos Star; Kronos,50
+287,ABILA; Tomas Sarto; Kronosians; 18 January 1993; President Araullo; Parliament; energy development companies; Minister of the Interior; Tiskele Bend; Kronos Star; Ministry of the Interior; Kronos; Donato Petri,55
+288,"President Araullo; Sten Sanjorge Jr.; Tiskele Bend; Tethys; Kronos Star; 12 March 1993; Ministry of Interior; Donato Petri; ABILA, Kronos; GAStech International",51
+289,Vann; Cato Rossini; 20 January 2014; Marcella Trapani; GAStech Headquarters Building; Kronos Star; POK,35
+290,7:45 PM; Cato Rossini; 20 January 2014; Carman; Marcella Trapani; GAStech Headquarters Building; Kronos Star; GAStech,42
+291,Capitol Building; Cato Rossini; 20 January 2014; Abila; Marcella Trapani; 10:15 AM; GAStech Headquarters Building; Kronos Star; GAStech,58
+292,"21 January 2014; Abila police; Marcella Trapani; Kronos Star; GAStech; ABILA, Kronos; Adrien Carman; POK",48
+293,Cato Rossini; 20 January 2014; Marcella Trapani; GAStech Headquarters Building; Kronos Star; 10:30 AM; Abila fire department,40
+294,Cato Rossini; 20 January 2014; 10:50 AM; Marcella Trapani; GAStech Headquarters Building; Kronos Star; GAStech,39
+295,Cato Rossini; 20 January 2014; Abila; Marcella Trapani; Edvard Vann; GAStech Headquarters Building; 7:00 PM; Kronos Star; GAStech; POK,50
+296,Cato Rossini; 20 January 2014; 10:20 AM; Marcella Trapani; GAStech Headquarters Building; Kronos Star; GAStech,39
+297,GasTech; Cato Rossini; 20 January 2014; Abila; Marcella Trapani; GAStech Headquarters Building; 7:35 PM; Kronos Star; Adrien Carman,46
+298,"6 April 2005; Tiskele Bend Fields; Police; Assembly; government; Marcella Trapani; Tiskele Bend; Rufus Drymiau; 5:30 a.m.; Kronos Star; 9 a.m.; ABILA, Kronos; POK",65
+299,Cato Rossini; 20 January 2014; GSAtech; 1:25 PM; Marcella Trapani; Orhan Strum; GAStech Headquarters Building; Mr. Strum; Kronos Star; GAStech,53
+300,"Elian Karel; Kronos; Protectors of Kronos; Marcella Trapani; Kronos Star; Karel; Michale Kraft; ABILA, Kronos; Adrien Carman; 12 March 2009",54
+301,Cato Rossini; 20 January 2014; 7:40 PM; Carman; Marcella Trapani; GAStech Headquarters Building; Kronos Star; Kronos,41
+302,Cato Rossini; 20 January 2014; Police; Marcella Trapani; GAStech Headquarters Building; Kronos Star; GAStech; 1:00 PM,41
+303,21 January 2014; ON SCENE BLOG; Modern Rubicon; GAStech; Kronos; POK; $20 million,30
+304,ON SCENE BLOG; 20 January 2014; Abila; Modern Rubicon; Morgue,22
+305,"21 January 2014; ON SCENE BLOG; CEO; Modern Rubicon; Sten Sanjorge, Jr.; Tethys; GAStech",34
+306,ON SCENE BLOG; 20 January 2014; Modern Rubicon; GAStech; Kronos,23
+307,ON SCENE BLOG; 20 January 2014; Modern Rubicon; AFD; GAStech; Kronos,26
+308,ON SCENE BLOG; 20 January 2014; Modern Rubicon; 1506; GAStech,24
+309,ON SCENE BLOG; 20 January 2014; 1947; Modern Rubicon; news conference; GAStech; police of Abila,32
+310,21 January 2014; ON SCENE BLOG; Abila; DAY TWO; Modern Rubicon; 9:00; GAStech; police of Abila,36
+311,ON SCENE BLOG; administrative assistant; 20 January 2014; Kronos; Modern Rubicon; GAStech; Tethys quarters,31
+312,ON SCENE BLOG; 20 January 2014; Abila; 1220; Modern Rubicon; GAStech,27
+313,ON SCENE BLOG; 20 January 2014; Abila; 1810; 15:20; Modern Rubicon; Rome; GAStech; Kronos,37
+314,ON SCENE BLOG; 20 January 2014; Abila; fire signaler; Modern Rubicon; 1158; 11:45; AFD; GAStech,39
+315,ON SCENE BLOG; 20 January 2014; Modern Rubicon; 2021; GAStech; Kronos,27
+316,ON SCENE BLOG; 20 January 2014; 1915; Edvard Vann; Modern Rubicon; GAStech; Kronos; POK,35
+317,ON SCENE BLOG; 20 January 2014; Modern Rubicon; GAStech; IPO,22
+318,ON SCENE BLOG; 20 January 2014; Abila; Modern Rubicon; GAStech,23
+319,20 January 2014; Abila; Modern Rubicon; GAStech; Kronos,20
+320,"ON SCENE BLOG; 20 January 2014; Sanjorge; 1853; airport of Tethys; Modern Rubicon; Sten Sanjorge, Jr.; Tethys; GAStech; Kronos; PM of 2:00",56
+321,"ON SCENE BLOG; 20 January 2014; Abila; 1748; Modern Rubicon; Rome, Italy",27
+322,ON SCENE BLOG; 20 January 2014; Orhan Strum; Modern Rubicon; GAStech; Linda Lagos,28
+323,"ON SCENE BLOG; 20 January 2014; Modern Rubicon; CEO Sanjorge, Jr.; GAStech",28
+324,21 January 2014; ON SCENE BLOG; 10:00; Abila; Modern Rubicon; Tethys; GAStech; Kronos; 934,38
+325,"ON SCENE BLOG; 20 January 2014; Abila; Modern Rubicon; Rome, Italy; GAStech",27
+326,ON SCENE BLOG; 20 January 2014; Abila; the police of Abila; 1920; Modern Rubicon,29
+327,ON SCENE BLOG; conference room; 20 January 2014; Unknown people; Modern Rubicon; black clothing; GAStech; Kronos,32
+328,ON SCENE BLOG; 20 January 2014; 1405; Modern Rubicon; Inks; GAStech; Kronos,30
+329,CEO Sten Sanjorge; Jr.; Ingrid Barranco; ON SCENE BLOG; 20 January 2014; Abila; Willem Vasco-Pais; Orhan Strum; Ada Campo-Corrente; Modern Rubicon; GAStech; Kronos,58
+330,ON SCENE BLOG; 20 January 2014; the government; Modern Rubicon; the police; the centers of GAStech; GAStech; the fire unit,37
+331,ON SCENE BLOG; 20 January 2014; Abila; 1035; Modern Rubicon,23
+332,Modern Rubicon; GAStech; ON SCENE BLOG; 20 January 2014,20
+333,ABILA; president Kapelou; News Desk; Vincent Kapelou; Kronos; POK; 2012/03/10; M. Kapelou,35
+334,"Civil servants; 2009/02/21; government; News Desk; ABILA, Kronos; GAStech; Kronos; POK; Adrien Carman",58
+335,"ABILA; Elian Karel; Michale Kraft; ARRESTED LEADER POK; News Desk; Sten Sanjorge, Jr.; 2009/03/13; GAStech; Kronos; POK; Adrien Carman",53
+336,ABILA; Elian Karel; Abila; ANNIVERSARY OF PROTESTS; Siopa van Abila; News Desk; 2010/06/15; Hagar Awelon; Kronos; POK; guards of Kronos; 19 June,57
+337,ABILA; Celia Edris; Carmine Edris; Elodis; hospital Abila; 2007/04/12; News Desk; Marcellus Edris; Rufus Drymiau; GAStech; Kronos; Valeria Edris,68
+338,"ABILA; Jr.; Blog; Sanjorge; Haneson Ngohebo; hoofdkwartier GAStech; GAStech - Kronos; News Desk; Sanjorge, Jr.; CEO Sten; 2014/01/19; Kronos; IPO",59
+339,"President; Araullo; Kapelou; Dorel Kapelou II; 2000/10/03; 1 election of October; News Desk; Kronos; ABILA, Kronos",59
+340,ABILA; international gas company; government of civil servants; News Desk; GAStech; 2014/01/20; HEADQUARTERS GASTECH; Kronos,37
+341,ABILA; Elodis; Government Report; News Desk; Tiskele; Government of Cites; government of Kronos; 1997/10/17; GAStech; Kronos,56
+342,2005/09/25; Kronos; government; Elodis; News Desk; Tiskele; Rufus Drymiau; police force; GAStech; ELODIS; POK,59
+343,ABILA; President; Vann; Abila; government; Edvard Vann; Elodis; 6 hours; News Desk; Kronos police force; GASTECH; police force; 2014/01/20; GAStech; Kronos; POK,61
+344,"$38.5; News Desk; 5 millions cubic meters; headquarters; ABILA; $327.25 millions; Haneson Ngohebo; $96.25 millions; CFO; COO; M. Sanjorge; Tethys; 2014/01/20; CIO; Ingrid Barranco; GASTECH CONTROL; Willem Vasco-Pais; Orhan Strum; Sten Sanjorge, Jr.; Ada campo-Corrente; $1.96 billion; GAStech; Kronos; 16 December 2013; Ms. Avila; Miriam Avila; IPO",150
+345,ABILA; Africa; Middle East; guards of Kronos; News Desk; Europe; Kronos; 2011/05/15,28
+346,ABILA; President Kapelou II; organization of matter; general meeting; President Dorel Kapelou II; party of the Union; Kronesian; Ren Touvi; van Kronos; News Desk; People of Kronos; party industrialists Kronos; 2010/10/03; Kronos; democratic party; democratic party of Kronos,93
+347,government of Kronos; Kronos; Abila; Elodis; News Desk; Tiskele; GAStech international; 1997/04/25; ELODIS,38
+348,chromium; News Desk; toluene; selenium; xylene arsenic; Elodis; lead; Tethys; ELODIS; WFA; benzene; activist group of Kronos; GAStech; Kronos; barium; 1998/11/17,93
+349,"government; 2013/12/18; News Desk; emblem POK nevel; ABILA, Kronos; police force; justice; POK; Adrien Carman",47
+350,ABILA; protesters; Abila; News Desk; 2010/06/22; plaza; Kronos; POK; police forces,46
+351,Elian Karel; Karel; Karel van Elian; chromium; News Desk; Wellness all (WFA); Tiskele; toluene; guards of Kronos; ABILA; selenium; 1997; xylene arsenic; Jeroen Karel; 2011; Elodis; lead; WFA; benzene; Abila; Juliana Vann; 2012/08/23; 1998; 2009; GAStech; Kronos; POK; 19 June; barium; Juliana; government Kronos,148
+352,"ABILA; 14:30; Ravi Danisliau; Danisliau; 12:30; News Desk; Rome, Italy; 2014/01/20; GAStech; Kronos",65
+353,ABILA; Emilio Haber; News Desk; No entities detected.; Rufus Drymiau; Siopa; 2011/07/28; Kronos; guards of Kronos; POK,56
+354,ABILA; The government Kronos; 2009/06/21; Elian Karel; Elodis; 1998; News Desk; Siopa; Juliana; Kronos; POK,66
+355,President GAStech; News Desk; department of the police force; ABILA; Tethys; 2014/01/20; department of the fire; 14; Abila; GASTECH; ontvoerders; 20 January; one month; initial public GAStech; GAStech; Kronos; government; Edvard Vann; CEO Sten Sanjorge Jr.,89
+356,"POLICE FORCE KRONOS; FOREIGN GUARANTEE; News Desk; 3/26; 1/7/1992; ABILA; 12/1/1993; COARDA, SEVE; GUDENZ, KEL; CUSEMA, BRITA; THE UNIT OF THE DRUG; DUNNA, THAD; AWELON, CYNTHE; 2/15/1995; HOLANDE, ANDA; 2011/11/24; 7/2/1995; 5/13/1979; 3/20/1981; 9/20/1974; BODROGI, KARMIJN; BLUMIAU, WILLEM; DWLU",256
+357,ABILA; Elodis; 2000/08/18; News Desk; Sunday; TISKELE; Tiskele; GAStech; Kronos,38
+358,1993/01/19; ABILA; President Araullo; Parliament; Government; Foreign Investment; News Online Today; Kronos,28
+359,ABILA; Government of Kronos; Protectors of Kronos; 12 November 2012; News Online Today; capitol building; Kronos; POK,34
+360,1999/11/15; Jim Cordon; FoodSupport; News Online Today,23
+361,Police; Elodis; Abila Children's Hospital; News Online Today; 2007/03/19,23
+362,1996/07/08; GASTECH; CENTRUM; News Online Today; Tethys; Mediterranean; Kronos; GAStech International,33
+363,Biance; Abila General Hospital; khat; Bianca; cocaine; Abila Hospitals; K166; 2013/02/08; News Online Today; Asterian People's Army; synthetic marijuana; K18; Kronos; Kronos National Poison Center; Kronos government; cotton candy,65
+364,2009/06/21; Elian Karel; Abila; Protectors of Kronos; News Online Today; Kronos; POK,31
+365,Elian Karel; Abila; Wednesday; GASTech; Protectors of Kronos; 2009/06/22; Juliana Vann; 1998; News Online Today; GAStech; POK; May,49
+366,Wellness for All; 1998/05/16; Kronos; Elodis; News Online Today; ELODIS,35
+367,"Tiskele Bend Fields; Tuesday; Tiskele Bend; News Online Today; 2005/04/06; ABILA, Kronos; POK",33
+368,ABILA; Elian Karel; Government of Kronos; Protectors of Kronos; Elodis; News Online Today; Kronos; POK; 2012/08/22,40
+369,ABILA; Kronos; GOVERNMENT; Elodis; 1997/10/15; Tiskele Bend; News Online Today; ELODIS; GAStech International,39
+370,Kronos; HASR; Elodis; 2000/06/01; News Online Today; Hyper Acidic Substrate Removal; ELODIS,41
+371,ABILA; 2009/06/21; Elian Karel; Elodis; Remember Juliana; 1998; News Online Today; Justice for Elian; Kronos,55
+372,News Online Today; 17 December 2013; President Kapelou,24
+373,ABILA; 2014/01/21; $20M; The Protectors of Kronos; News Online Today; Kronos; GAStech International,61
+374,The Times; Kronosian; hyper-acidic substrate removal; 1984/05/04; News Online Today; GAStech; Kronos; Mediterranean Sea; Shale gas,45
+375,2005/04/06; Kronos federal police; Kronos; Protectors of Kronos; News Online Today; Tiskele Bend GAStech facility; ELODIS; POK,41
+376,ABILA; 2013/12/16; BRAZEN DAY TIME ASSAULT BY POK; News Online Today; Kronos; POK,32
+377,ABILA; Annual POK Rally; Police; Abila; News Online Today; Capitol building; Kronos; POK; 2013/06/20,33
+378,ABILA; Sunday; Tiskele Bend; News Online Today; 2000/08/17; GAStech; Kronos; GAStech International,45
+379,Wellness For All; Juliana Vann; News Online Today; benzene poisoning; 1998/08/20; Kronos; ELODIS,47
+380,ABILA; 5 February 2012; Protectors of Kronos; News Online Today; ABILA POLICE; Kronos; POK,30
+381,ABILA; Protectors of Kronos; Prime Minister of Health; 1999/07/08; News Online Today; Cesare Nespola; Kronos; POK,52
+382,ABILA; President Araullo; 1998/01/19; News Online Today; Kronos,21
+383,2005/09/25; Kronos; Protectors of Kronos; News Online Today; Kronos Government; ELODIS; GAStech International,33
+384,ABILA; Elian Karel; 2010/06/19; News Online Today; Kronos; 19 June,48
+385,"Elian Karel; Abila; Elodis; Abila Chief of Police; News Online Today; 2011/06/21; ABILA, Kronos; POK",38
+386,ABILA; 10:00; Abila Fire Department; KIDNAPPING AT GASTECH KRONOS; News Online Today; Kronos Government; 2014/01/20; Kronos; GAStech International,48
+387,"Black Sea; 2013/02/22; Sten Sanjorge, Jr; News Online Today; Tethys; Europe; four planes; GAStech; Kronos",38
+388,Tethys government; HASR; GAStech International; 1995/03/30; CENTRUM; Tethys; News Online Today; Hyper Acidic Substrate Removal,53
+389,"KRONOS POLICE ARREST BLOTTER; THEFT ALL OTHER-3RD DEGREE; DRUG PARAPHERNALIA; 1/7/1992; THEFT SHOPLIFTING-5TH DEGREE; ABILA; GUDENZ, KEL; CUSEMA, BRITA; DUNNA, THAD; FAILURE TO MAINTAIN CONTROL; AWELON, CYNTHE; 2/15/1995; 2011/11/23; News Online Today; PEDESTRN SUBJECT TO SIGNAL; 7/2/1995; 3/20/1981; 9/20/1974; BLUMIAU, WILLEM",161
+390,ABILA; 2009/02/19; Protectors of Kronos; Rufus Drymiau; News Online Today; GAStech; Kronos; POK,36
+391,ABILA; Kapelou; 2012/06/22; News Online Today; Kronos; POK,24
+392,two markets; Sten Sanjorge Sr; one gas station; KRONOS; Elodis; Homeland Illumination; Petrus Gerhard; Tiskele River; News Online Today; two hardware stores; GAStech; ELODIS; Hank Fluss; Sanjorge Sr; 1998/03/20,71
+393,ABILA; Sten Sanjorge Jr.; Sanjorge; 2014/01/21; GAStech HQ; News Online Today; Tethys; GAStech; Kronos; Centrum,45
+394,ABILA; Thursday; 2012/09/08; Protectors of Kronos; News Online Today; 2009; Karel; Kronos,32
+395,ABILA; 2014/01/19; News Online Today; Kronos capital building; GAStech-Kronos; GAStech; Kronos,33
+396,ABILA; President Araullo; Sten Sanjorge Jr.; Tiskele Bend; News Online Today; Tethys; 1993/03/13; Kronos; GAStech International,43
+397,Beatriz Fluss; 73; 2003/05/17; Centrum; GASTECH; News Online Today; CENTRUM; Tethys; Hank Fluss; HANK FLUSS; GAStech International,49
+398,ABILA; Elian Karel; ANNIVERSARY OF PROTESTS; Government of Kronos; Protectors of Kronos; Hagar Awelon; News Online Today; Siopa; Kronos; 2010/06/14; POK,52
+399,"KRONOS GOVERNMENT; Government of Kronos; fossil-fuels; News Online Today; ABILA, Kronos; 1992/12/12",33
+400,ABILA; Protectors of Kronos; News Online Today; Kronos; 2011/05/15,34
+401,Kronos; Wellness For All; KRONOS; Elodis; Bodrogi; 1998/04/26; Homeland Illumination; Petrus Gerhard; Reynolds; Tiskele River; News Online Today; Kronesian community; GAStech; ELODIS; Henk Bodrogi,71
+402,ABILA; Ingrid Barranco; Willem Vasco-Pais; Sten Sanjorge Jr.; Orhan Strum; Ada Campo-Corrente; GAStech; News Online Today; 2014/01/19; Kronos,52
+403,ABILA; President Dorel Kapelou II; Former President Luis Araullo; News Online Today; 2000/10/02; PRESIDENT KAPELOU; Kronos,39
+404,ABILA; 2000/08/15; Elodis; Rebecca Cato; Sunday; Tiskele Bend; News Online Today; Kronos; GAStech International; 3 a.m.,59
+405,ABILA; Silvia Marek; Protectors of Kronos; News Online Today; 2012/04/10; Kronos,45
+406,ABILA; Siopa District; Abila; Protectors of Kronos; News Online Today; 2011/06/21; Kronos; POK,33
+407,ABILA; Abila; Protectors of Kronos; Edvard Vann; News Online Today; 2014/01/20; GAStech; Kronos; POK,38
+408,ABILA; 17:00; Government; Edvard Vann; GAStech - Kronos; 6 hours; 14 GAStech; GASTECH; News Online Today; Kronos Police; 2014/01/20; Kronos,54
+409,Abila; Abilia; News Online Today; 2013/11/13; GAStech; Kronos; Shawn Pastorini,28
+410,ABILA; 2009/03/08; POK campaign; News Online Today; Juliana; Saturday; Karel; Kronos; POK; Kronos government; Henk Bodrogi,42
+411,ABILA; Rufus Drymiau; News Online Today; 2011/07/28; Kronos; POK,26
+412,ABILA; 2009/03/12; Elian Karel; Michale Kraft; News Online Today; Kronos,38
+413,ABILA; Silvia Marek; Elian Karel; Protectors of Kronos; 21 June 2009; News Online Today; Kronos; 19 June,36
+414,"SANJORGE JR.; GASTECH INTERNATIONAL; 1961; Sten Sanjorge, Sr.; $3.75 billion; 52 years; Sten Sanjorge, Jr.; CENTRUM; 2013/09/03; News Online Today; Tethys; Monday; GAStech",65
+415,ABILA; Ministry of Health; Elodis; 1998/11/10; Tiskele Bend; News Online Today; Cesare Nespola; Kronos,36
+416,ABILA; 2009/02/19; GASTECH; News Online Today; Kronos; POK; GAStech International,29
+417,Kronos; 2007/03/21; Spring Program; GASTECH; News Online Today; ELODIS; Elodis Primary School,31
+418,ABILA; President Dorel Kapelou II; Kronesian; News Online Today; Party of Kronos Industrialists; 2010/10/03; Kronos; General Assembly,69
+419,ABILA; Elian Karel; Protectors of Kronos; Michale Kraft; News Online Today; 2009/03/13; Kronos; POK,35
+420,2001/09/01; Kronos; Griffith Mabel; Protectors of Kronos; Elodis; Homeland Illumination; Tiskele River; Tiskele Bend; News Online Today; GAStech; ELODIS; POK,53
+421,"ABILA; 1995/10/11; GASTECH-KRONOS; GRAND OPENING GASTECH; Sten Sanjorge, Jr.; News Online Today; Kronos",41
+422,ABILA; 1994/09/24; Tiskele Bend; GASTECH; News Online Today; Tethan fields; Kronos; GAStech International,36
+423,"Tiskele Bend Gas Fields; Tiskele Bend; News Online Today; Ministry of Interior; 1996/03/14; GAStech; ABILA, Kronos; Minister Sarto",41
+424,ABILA; Tiskele Bend Fields; 2001/08/31; Protectors of Kronos; Drilling Poisoned Our Water; Juliana Vann; Remember Juliana; 1998; News Online Today; GAStech; Kronos,53
+425,20 km; Kronos; 1997/04/24; Elodis; Tiskele River; 25 km West of Abila; Tiskele Bend; News Online Today; ELODIS; GAStech International,49
+426,ABILA; President Kapelou; Protectors of Kronos; News Online Today; Vincent Kapelou; 2012/03/09; Kronos; POK; Minister of Health,40
+427,ABILA; 12 August 2009; Elian Karel; News Online Today; Kronos; POK,24
+428,the capital building; 2012/06/21; Abila; Tuesday; Protectors of Kronos; the presidential manor; News Online Today; the presidential mansion,35
+429,ABILA; Silvia Marek; Elian Karel; 2012/06/20; Protectors of Kronos; Juliana Vann; Elian; News Online Today; 19 June 2009; Kronos; POK,50
+430,"Wellness for All (WFA); Government of Kronos; WELLNESS FOR ALL; 1998/11/14; GASTECH; News Online Today; KRONOS GOVT; ABILA, Kronos; GAStech International",50
+431,ABILA; President; Elian Karel; Protectors of Kronos; Elodis; News Online Today; 2009/03/13; Karel; Kronos; POK,40
+432,methyldimethyl cathinone; Multi-Country Task Force; 2013/10/22; Interpol; News Online Today; Tulip Blossom; Tethys; MDMC; spice dreams; Asteria; cotton candy,51
+433,1982/10/03; Sanjorge Gas company; Sten Sanjorge; Tethan Gas Industry; News Online Today; Tethys; Centrum,38
+434,John Rathburn; American; GASTech; Protectors of Kronos; 2014/01/21; News Online Today; Tethys; Kronos,42
+435,2001/03/22; Abila; General Assembly; News Online Today; Kronos,44
+436,ABILA; 5 million cubic meters; Centrum; News Online Today; Miriam Avila; Tethys; 2014/01/20; Kronos; GAStech International,52
+437,Abila; Protectors of Kronos; 2009/02/23; News Online Today; Kronos; POK,26
+438,ABILA; Ravi Danisliau; News Online Today; 2014/01/20; ABILA AIRPORT; Kronos,29
+439,ABILA; 1995/10/11; Sanjorge; President Sten Sanjorge Jr.; News Online Today; Kronos; Minister Sarto,43
+440,ABILA; 1993/02/03; President Luis Araullo; News Online Today; Kronos,22
+441,ABILA; health education; Oil; health care; clean water projects; Gas Development; rural areas; Minister Nespola; News Online Today; Cesare Nespola; Kronos; Minister of Health; 1999/07/04,50
+442,"GAStech - Kronos' headquarters; February 19; Sten Sanjorge, Jr.; GASTECH; 2009/05/16; CENTRUM; News Online Today; Tethys; Kronos; GAStech International",52
+443,ABILA; 1993/09/20; News Online Today; Abila's Deep Water Port; East Pier; Kronos; GAStech International,32
+444,ABILA; Abila police; 2014/01/21; News Online Today; GAStech; Kronos,25
+445,Wellness for All; 1998/11/15; Kronos; Elodis; WELLNESS FOR ALL; News Online Today; ELODIS,31
+446,Wellness for All; Elodis Community Health Center; Kronos; 2002/05/25; 1998; News Online Today; ELODIS,45
+447,ABILA; TRAFFIC ACCIDENT NEAR ELODIS; Elodis; News Online Today; 2007/04/11; Kronos; GAStech International,37
+448,ABILA; 14; Protectors of Kronos; Edvard Vann; GASTECH; News Online Today; Kronos Government; 2014/01/20; GAStech; Kronos,43
+449,"$110 million; 1998; Sten Sanjorge, Jr.; GASTECH; CENTRUM; 1999/02/19; News Online Today; Tethys; GAStech International",45
+450,ABILA; 10%; Oil; 2001/03/18; Gas Development; 77; Rural Areas; 23; News Online Today; Health Education; Clean Water Projects; Kronos; General Assembly; Health Care,56
+451,ABILA; Abila police; Protectors of Kronos; 2010/06/21; News Online Today; Kronos; POK,30
+452,"ABILA; Initial Public Offering; 8 AM; CEO; Tomorrow Morning; News Online Today; Sten Sanjorge, Jr.; 2014/01/19; Kronos",39
+453,"1961; Sten Sanjorge, Sr.; Ingrid Sanjorge; GAStech International; Sten Sanjorge, Jr.; News Online Today; Tethys; 1994/02/18; Centrum",50
+454,ABILA; 2001/06/15; News Online Today; Vincent Kapelou; President Kapelou; Cesare Nespola; Kronos; Minister of Health,37
+455,ABILA; Abila; Protectors of Kronos; 2010/06/21; News Online Today; Kronos; POK; Abila Police Headquarters,34
+456,"Police; 2013/12/16; Abila; News Online Today; ABILA, Kronos; Adrien Carmen; POK",29
+457,ABILA; 1998/11/15; 1990s; Protectors of Kronos; Elodis; News Online Today; Cesare Nespola; Kronos; POK; Minister of Health,45
+458,ABILA; 2012/06/20; News Online Today; Kronos; POK,28
+459,Wellness for All; Elodis Community Health Center; Kronos; 1998; 2004/05/30; News Online Today; ELODIS,45
+460,"5.4%; fourth quarter of 1999; gross domestic product; Bureau of Economics; KRONOS GDP ON THE RISE; 2000/01/15; News Online Today; Kronos; ABILA, Kronos",49
+461,Kronos; Wellness For All; KRONOS; Reese; Petrus Gerhard; News Online Today; 1998/05/15; ELODIS,33
+462,"Police; 2012/03/08; News Online Today; Vincent Kapelou; ABILA, Kronos; Minister of Health; POK",31
+463,Gas Industry; last year; Energy Minister Jules Jecovic; 15%; 20 years; .83m barrels of oil per day; 8%; Oil and Gas Kronos; News Online Today; 2012; Kronos; 2012/02/21,57
+464,30 June 2013; Protectors of Kronos; News Online Today; President Kapelou; Kronos,24
+465,ABILA; benzene; KAREL DEATH ANNIVERSARY; 2013/06/21; Protectors of Kronos; Elodis; Juliana Vann; 1998; Tiskele River; News Online Today; June 19th; Kronos; Kronos government,62
+466,"CFO Ingrid Barranco; CIO Ada Campo-Corrente; 2013/12/16; $327.25 million; $96.25 million; GAStech - Kronos; Sten Sanjorge, Jr.; CENTRUM; News Online Today; Tethys; COO Orhan Strum; GAStech International",84
+467,"Elian Karel; President's office; Minister of Justice; Protectors of Kronos; Friday; News Online Today; Abila City Prison; ABILA, Kronos; Chief of Police; 2009/06/20",60
+468,ABILA; 1995/11/22; Abila General Hospital; Araullo; News Online Today; 1930; Kronos,29
+469,20 January 2014; 3:05 PM; Tethys News; GAStech; P2o,25
+470,Ingrid Barranca; 20 January 2014; Sten Sanjorge Jr.; Willem Vasco-Pais; Orhan Strum; Ada Campo-Corrente; capitol; 12:25 PM; Tethys News; GAStech,54
+471,Vann; 20 January 2014; The police; Tethys News; GAStech; POK,24
+472,The police; GAStech; 20 January 2014; Tethys News,18
+473,3:40 PM; GAStech; 20 January 2014; Tethys News,21
+474,20 January 2014; Abila; Sten Sanjorge Jr.; Tethys; Tethys News; GAStech; 6:10 PM,35
+475,20 January 2014; 6:40 PM; Tethys; Tethys News; GAStech,25
+476,20 January 2014; Tethys News; Ingrid Barranca; GAStech; 1:35 PM,26
+477,GAStech; 20 January 2014; Tethys News; 5:10 PM,21
+478,20 January 2014; Abila; Edvard Vann; Tethys News; GAStech; POK,26
+479,GAStech; 12:40 PM; 20 January 2014; Tethys News,21
+480,7:45 PM; 20 January 2014; The Carman; Tethys News; GAStech,25
+481,GAStech; 20 January 2014; Tethys News; 2:00 PM,21
+482,10:20; GAStech; 20 January 2014; Tethys News,20
+483,GAStech; 8:15 PM; 20 January 2014; Tethys News,21
+484,Willem Vasco-Pais; GAStech; 20 January 2014; Tethys News,22
+485,20 January 2014; Abila; 12:20 PM; The police of Abila; Tethys News; GAStech,30
+486,20 January 2014; Strum di Orhan; Mr. Strum; Tethys News; GAStech,26
+487,10:30; 20 January 2014; The fire unit of Abila; Tethys News; The National Fire Departments; GAStech,32
+488,20 January 2014; Kapelou; Tethys News; 8:00 PM; GAStech; Megaphone Rufus Drymiau,34
+489,20 January 2014; Abila; 7:30 pm; Tethys News; 7:15 PM; GAStech,30
+490,7:40 PM; 20 January 2014; The Carman; Tethys News; GAStech; Kronos,28
+491,GAStech; 4:25 PM; 20 January 2014; Tethys News,21
+492,20 January 2014; Kronos; 10:00 PM; Tethys News; Tethys; GAStech; Ministry of Tethyn,34
+493,GAStech; 3:20 PM; 20 January 2014; Tethys News,21
+494,20 January 2014; GSAtech; Ada Campo-Corrente; Tethys News; GAStech; 1:30 PM,31
+495,20 January 2014; Abila; Jr. of the CEO Sten Sanjorge; Tethys News; Capitol; GAStech,31
+496,GAStech; 6:30 PM; 20 January 2014; Tethys News,21
+497,Carman di Adrien; GasTech; 20 January 2014; Abila; 7:35 PM; Tethys News; GAStech; police of Abila,38
+498,20 January 2014; Abila; 11:55 PM; Captain Federigo Accardi; Tethys News; GAStech,30
+499,GAStech; 5:50 PM; 20 January 2014; Tethys News,21
+500,GAStech; 10:50; 20 January 2014; Tethys News,20
+501,20 January 2014; Tethys News; 5:30 PM; GAStech; Kronos; POK,27
+502,GAStech; Mr. Strum; 20 January 2014; Tethys News,20
+503,GAStech; 11:45; 20 January 2014; Tethys News,20
+504,20 January 2014; 1947; The Abila Post; Haneson Ngohebo; GAStech; Abila Police,31
+505,20 January 2014; The Abila Post; Haneson Ngohebo; Kronos Government; 2021; GAStech; Kronos,34
+506,20 June 2009; ABILA; Protector of Kronos; Elian Karel; The Abila Post; Elodis; 1998; The Protectors of Kronos; Siopa; Juliana; Justice for Elian; Kronos; POK,59
+507,20 January 2014; ON THE SCENE BLOG; The Abila Post; Haneson Ngohebo; Tethys; GAStech; Kronos,37
+508,21 January 2014; GAStech Incident; The Abila Post; Abila Police Department; Haneson Ngohebo; 9:00; ON THE SCENE BLOG,41
+509,"ABILA; 2 October 2010; President Dorel Kapelou II; Kronesian; Democratic Party of Kronos; Ren Touvi; The Abila Post; Party of Kronos Industrialists; Kronos; Kronos, Be Ever True to Thee; General Assembly",81
+510,21 January 2014; The Abila Post; Haneson Ngohebo; Tethys; Kronos; Abila Police; GAStech International,35
+511,21 January 2014; The Abila Post; Haneson Ngohebo; The Protectors of Kronos; RANSOM DEMANDS FROM POK; GAStech; $20 million,44
+512,ABILA; Mr. Kapelou; The Abila Post; Protectors of Kronos; Vincent Kapelou; President Kapelou; Kronos; POK; Minister of Health; 8 March 2012,46
+513,20 January 2014; The Abila Post; Haneson Ngohebo; AFD; GAStech; The Abila Fire Department; 11:45 AM,38
+514,ABILA; Kronos; contamination; Government of Kronos; The Abila Post; Elodis; report; Tiskele Bend; 15 October 1997; international health standards; GAStech International,60
+515,20 January 2014; The Abila Post; Haneson Ngohebo; GAStech; IPO,25
+516,ABILA; GAStech President; 10:00; 20 January 2014; The Abila Post; Protectors of Kronos; Edvard Vann; CEO Sten Sanjorge Jr.; GAStech - Kronos; Abila Police Department; Abila Fire Department; January 20th; Kronos Government; Tethys; GAStech; Kronos; GAStech International,108
+517,20 January 2014; The Abila Post; Haneson Ngohebo; Tethys airport; Sanjorge Jr.; Kronos Government; Tethys; GAStech; 1853 UPDATE; 2:00 PM,63
+518,20 January 2014; Police; The Abila Post; Haneson Ngohebo; GAStech; Abila Police,29
+519,20 January 2014; City Morgue; Abila; The Abila Post; Haneson Ngohebo,26
+520,"ABILA; Elian Karel; The Abila Post; Protectors of Kronos; Michale Kraft; GAStech - Kronos; Sten Sanjorge, Jr.; 12 March 2009; GAStech; Kronos; POK; Adrien Carman",59
+521,20 January 2014; The Abila Post; Haneson Ngohebo; GAStech - Kronos; AFD,29
+522,"20 January 2014; The Abila Post; Haneson Ngohebo; Abila Airport; Rome, Italy; ON THE SCENE BLOG",34
+523,20 January 2014; 1915; The Abila Post; Protectors of Kronos; Edvard Vann; Haneson Ngohebo; GAStech; POK,41
+524,Police; Kronos; The Abila Post; Protectors of Kronos; Elodis; 24 September 2005; Tiskele Bend; Rufus Drymiau; Kronos Government; ELODIS; GAStech International,49
+525,Chief Operating Officer; 20 January 2014; ON THE SCENE BLOG; The Abila Post; Orhan Strum; Haneson Ngohebo; GAStech; Linda Lagos,42
+526,The Abila Post; The Abila Fire Department; 20 January 2014; Haneson Ngohebo,25
+527,ABILA; protesters; 20 June 2010; Abila police; The Abila Post; Protectors of Kronos; plaza; riot police; Kronos; POK,38
+528,ABILA; President Dorel Kapelou II; 2 October 2000; Luis Araullo; Kapelou; Dorel Kapelou II; The Abila Post; Kronos; 1 October,46
+529,ABILA; Vann; Protector of Kronos; 20 January 2014; The Abila Post; Government; Edvard Vann; Elodis; the police; the government; Kronos Police; GAStech; Kronos; POK,56
+530,"Sara Tuno; 20 January 2014; The Abila Post; Government; Haneson Ngohebo; CEO Sanjorge, Jr.; Abila Post; GAStech",41
+531,20 January 2014; ON THE SCENE BLOG; The Abila Post; Haneson Ngohebo; GAStech,30
+532,Elian Karel; Protectors of Kronos; chromium; June 19; toluene; ABILA; selenium; Wellness for All; 1997; xylene arsenic; Jeroen Karel; 2011; Elodis; lead; WFA; benzene; Abila; Government of Kronos; Juliana Vann; 1998; Tiskele Bend; 2009; GAStech; Kronos; POK; barium; 22 August 2012; The Abila Post; Karel; GAStech International,151
+533,20 January 2014; Abila; The Abila Post; Protectors of Kronos; Haneson Ngohebo; GAStech,32
+534,The Abila Post; GAStech - Kronos; 20 January 2014; Haneson Ngohebo,27
+535,20 January 2014; The Abila Post; 15:20; Haneson Ngohebo; Abila Airport; Rome; GAStech; Kronos,37
+536,14 May 2011; ABILA; Africa; Middle East; The Abila Post; Protectors of Kronos; Europe; Kronos,30
+537,WFA; benzene; Wellness for All; selenium; barium; xylene arsenic; Government of Kronos; The Abila Post; Protectors of Kronos; Elodis; chromium; lead; 15 November 1998; Tethys; toluene; Kronos; GAStech International,66
+538,"21 January 2014; The Abila Post; Haneson Ngohebo; CEO Sten Sanjorge, Jr.; Tethys; GAStech; Centrum",39
+539,20 January 2014; GAStech meeting; The Abila Post; Haneson Ngohebo; GAStech; Kronos,31
+540,ABILA; The Abila Post; Elodis; 16 August 2000; Tiskele Bend; GAStech; Kronos; GAStech International,50
+541,20 January 2014; The Abila Post; Haneson Ngohebo; 1920 UPDATE; ON THE SCENE BLOG; Abila Police,35
+542,20 January 2014; police; government; The Abila Post; Haneson Ngohebo; fire department; GAStech,30
+543,"FOREIGN WARRANT; DRUG PARAPHERNALIA; 1/7/1992; PEDESTR; ABILA; 12/1/1993; COARDA, SEVE; GUDENZ, KEL; 8/31/1952; 22 November 2011; 2/17/1982; CUSEMA, BRITA; 3/26/1981; DUNNA, THAD; HASHISH; KRONOS POLICE; 4/3/1994; 3/17/1971; AWELON, CYNTHE; MORDECAI, FRANCISCO; PEAIRS, MELSHA; SALANIAU, FERDINAND; 2/15/1995; HOLANDE, ANDA; 7/2/1995; 5/13/1979; 3/20/1981; The Abila Post; KIBALIAU, IYAN; 9/20/1974; BLUMIAU, WILLEM; MDMC; BODROGI, CARMINE",256
+544,"20 January 2014; The Abila Post; Haneson Ngohebo; Abila Airport; Rome, Italy; 1520 UPDATE; GAStech",36
+545,ABILA; Emilio Haber; 27 July 2011; The Abila Post; Protectors of Kronos; Siopa district; No entities detected.; Rufus Drymiau; Kronos Government; Kronos; POK,49
+546,"CFO Ingrid Barranco; 20 January 2014; 5 million cubic meters; GAStech - Kronos; COO Orhan Strum; Centrum; ABILA; The World; $327.25 million; Government; $96.25 million; Haneson Ngohebo; Tethys; Sten Sanjorge, Jr.; GAStech; $1.96 billion; Kronos; 16 December 2013; CIO Ada Campo-Corrente; $38.5 million; Mr. Sanjorge, Jr.; The Abila Post; Ms. Avila; Miriam Avila; GAStech International; IPO",168
+547,"ABILA; 14:30; 20 January 2014; Ravi Danisliau; Danisliau; The Abila Post; 12:30; Abila Airport; Rome, Italy; GAStech; Kronos; GAStech International",58
+548,ABILA; Celia Edris; Carmine Edris; 10 April 2007; The Abila Post; Abila Hospital; Elodis; Marcellus Edris; Rufus Drymiau; Kronos; Valeria Edris; GAStech International,57
+549,"ABILA; 19 January 2014; Initial Public Offering; The Abila Post; Haneson Ngohebo; CEO; GAStech - Kronos; Sten Sanjorge, Jr.; On the Scene Blog; GAStech's plans for Kronos; Kronos; IPO",62
+550,23 April 1997; Kronos; Abila; The Abila Post; Elodis; Tiskele River; Tiskele Bend; government of Kronos; ELODIS; GAStech International,45
+551,Police; 20 January 2014; The Abila Post; Haneson Ngohebo; GAStech employees; GAStech,30
+552,20 January 2014; ON THE SCENE BLOG; The Abila Post; Haneson Ngohebo; Kronos Government; GAStech,34
+553,1220 UPDATE; 20 January 2014; The Abila Post; Haneson Ngohebo; GAStech; ON THE SCENE BLOG; Abila Police,39
+554,ABILA; The Abila Post; Protectors of Kronos; 19 February 2009; Adrien Carman; GASTECH; GAStech; Kronos; POK; GAStech International; Government officials,52
+555,last year; Elian Karel; Abila; Government of Kronos; The Abila Post; Protectors of Kronos; Government; Siopa district; Hagar Awelon; June 19; Kronos; POK; 13 June 2010,56
+556,"16 December 2013; The Abila Post; ABILA, Kronos; POK; Adrien Carman",25
+557,"Ingrid Barranco; Sara Tuno; 20 January 2014; Initial Public Offering; Abila; Willem Vasco-Pais; The Abila Post; Haneson Ngohebo; GAStech - Kronos; Ada Campo-Corrente; Orhan Strum; Sten Sanjorge, Jr.; Kronos Government; On the Scene Blog; Kronos; GAStech International",85
+558,Road Calistermi; Adian Koppolis; Abila; 9AM; Elodis; The Continent; GAStech; Kronos; 2007/03/19,39
+559,the presidential office; Kronos; Abila; presidential ship; 2010/03/05; Karel Kapelou II; the government; the crew; the captain of the boat; The Continent; Petra Hohimae; Mediterranean; 10th Kapalou; Gala of the head Kapalou; 41,71
+560,2014/01/21; GASTech; Council; Tethan; The Continent; American; APA; Tethys; Sten Sanjorge Jr; Ingrid Barranco; John Rathburn; The Times; Abila; Willem Vasco-Pais; Orhan Strum; Ada campo-Corrente; GAStech; Kronos; POK; $20 millions; Asterian,97
+561,LEADER of GAStech; 2009/06/23; Elian Karel; Abila; Kronosian; Sanjorge; GASTech; Juliana Vann; 1998; The Continent; Friday; Karel; GAStech; Kronos; POK; May,92
+562,"100,000; 2500; Kosovo; The Continent; Wellness for all; September; central Taiwan; earthquakes; Wellness; Jim Cordon; GIVING Singapore; Singapore; The Times; Richter; Dr. Mahmed; Malaysia; FoodSupport; Izmit, Turkey; Tuesday; 20,000; 1999/11/16; 7.3; Dr. Jayala Mahmed; Turkey",98
+563,Elian Karel; presidential farm; conservative government Kronos; The Continent; government bldg; police force; presidential manor; 2012/06/21; troops of criminals; activist groups; peace; Abila; Juliana Vann; presidential lord house; GAStech; Kronos; POK; Abilians; third anniversary; Tuesday; environment questions; government; security strengths; LEADER,96
+564,Kronosians; The Continent; Wellness for all; M. Drymiau; 1997; 2009/02/23; Tethys; The guards of Kronos; The Times; Abila; 1998; kader-omhooggaand; Kronos; POK; South; North; Kronos van Abila; Verdedigers POK; Kronosian; Rufus Drymiau; Juliana,103
+565,K2bn; The Continent; K17; gas; .83m barrels; exploration; K3.5bn; 2011-12; 2012; North America; oil; energy civil servants; 20 years; 26 wells; Jecovic; 12 months; Norway; 15 wells; GAStech; Kronos; six years; Jules Jecovic; 15%; 8%; government; Oil and the gas industry; K30; ministry; 27%; 2012/02/21,122
+566,The Times; Blossom of the Tulip; Tethys Counterdrug; Loblaw; Asteria; 2013/10/22; Interpol; The Continent; Tethys; Robert Loblaw; Asterian; army of people Asterian (APA); Arise; MDMC; herbal dreams; cotton candy,77
+567,area rise; Line; National Poison Center; Council; The Continent; drug trafficking organizations; Alicia Bianca; police force; Cotton candy; Biance; general hospital Abila; political rebellious groups; Elodis; Antonio Arresta; designer drugs; Designer drugs; therapy products; cotton candy; Blossom of the Tulip; Abila; carnival treats; Bianca; cocaine; 4 February; Ralf; dreams of the herb; synthetic marijuana; Kronos; 2013/02/08; Asterian; national center of the poison; K18; K166,143
+568,administrators; CEOs; Kronosians; truck drivers; Fluss; luxury goods; The Continent; birth country; competition; 17 January 1995; Elodis; CEO; Tethys; foreign CEO; Tethian; European; The Times; foreign staff employee; A to B; GAStech; Kronos; Kronosian; foreign CEOs; LEADER; work surroundings; 2014/03/26,116
+569,"Mediterranean; government Kronosian; Kronosian; Eastern Kronos; the black sea; 2013/02/24; Sten Sanjorge, Jr; The Continent; Europe; Tethys; GAStech; Kronos; TV GAStech",61
+570,"Tethys University; Mediterranean sea; Professor Oskar Wertz; 1984/05/05; environment experts; The Continent; shale gas; 10 years; 20, 30 or 40 years; Sanjorge; billion dollar; ministry for energy; local Councils; Europe; SanJorge; European; The Times; Sten Sanjorge, Jr.; west; GAStech; Kronos; Kronosian; government Kronos",118
+571,early seventies; thousands employees; Sten Sanjorge; oil and gas delivery; center of long hospitality; Glasgow; The Continent; Tethan; The city; helicopters; city; gas; the capital; the early seventies; specialized knowledge; Sanjorge company; Sanjorge; Tethys; Thethys; 1974; Tethys energy; center; west coast; early sixties; intellectual property; the daily report; GAStech; Sten Jr.; coal; 1982/10/03; energy; energy industry; airport; North sea; gasindustrie; island; many countries,152
+572,the initial protests; The Continent; Kronos president; the terrorist threat; Tethys; the highest control; peace; demonstration systems; The Times; Abila; the police force; Dorel Kapelou II; rural citizens; the company; 2013/11/13; GAStech; Kronos; guards of spokesperson Kronos; Kronosian; government; Abilia; the citizens; the country; Shawn Pastorini; Terek Kamal,113
+573,"ABILA; Haneson Ngohebo; Blog scene; GAStech; Sten Sanjorge, Jr; The Explainer; Tomorrow Morning; 2014/01/19; Kronos; IPO",45
+574,ABILA; Elodis; 2000/08/18; Sunday; Tiskele; The Explainer; Tiskele Curve; GAStech; Kronos; GAStech International,44
+575,Vann; Abila; 14; Elodis; 6 hours; The Explainer; 2014/01/20; GAStech; Kronos; POK,51
+576,"FOREIGN AUTHORIZATION; THEFT ALL THE DEGREE OF OTHER; 1/7/1992; EQUIPMENT OF THE DRUG; ABILA; 12/1/1993; COARDA, SEVE; PEDESTRN ACCORDING TO SIGNAL; GUDENZ, KEL; CUSEMA, BRITA; DUNNA, THAD; The Explainer; AWELON, CYNTHE; HOLANDE, ANDA; 2/15/1995; 2011/11/23; DEGREE OF THEFT SHOPLIFTING; BODROGI, CARMÍN; 7/2/1995; 5/13/1979; 3/20/1981; 9/20/1974; BLUMIAU, WILLEM; LACK TO MAINTAIN CONTROL; DWLU",256
+577,ABILA; president Kapelou; Mr. Kapelou; The Explainer; Vincent Kapelou; 2012/03/09; Kronos; POK,36
+578,"La Paz; 2013/12/17; police; Carman de Adrien; The Explainer; ABILA, Kronos; POK",31
+579,Elian Karel; chromium; arsenic; 2012/08/24; ABILA; selenium; labrantío; 1997; Jeroen Karel; 2011; Elodis; xylene; lead; The Explainer; WFA; benzene; Abila; protectors of Kronos; tolueno; health for all; Julian Vann; 19 of June; 1998; THE WHO IS THE DEMONSTRATORS; 2009; Literature of the campaign; GAStech; Kronos; GAStech Tiskele; POK; barium,152
+580,"ABILA; 14:30; Ravi Danisliau; Danisliau; 12:30; GAStech; The Explainer; Rome, Italy; 2014/01/20; ABILA AIRPORT; Kronos",54
+581,ABILA; last year; Elian Karel; protectors of Kronos; Government of Kronos; Siopa de Abila; 19 of June; The Explainer; Hagar Awelon; Kronos; 2010/06/14,63
+582,"Carman Adrien; The Explainer; ABILA, Kronos; 2009/02/20; GAStech; Kronos; POK",58
+583,ABILA; TRAFFIC ACCIDENT NEAR ELODIS; Celia Edris; Carmine Edris; Abila Hospital; Elodis; International votes; GAStech; Marcellus Edris; The Explainer; Rufus Drymiau; 2007/04/11; Kronos; Valeria Edris,73
+584,"2; 85 seats; 98,7%; 2010/10/04; ABILA; President Kapelou II; Ren Touvi; 13; The Explainer; Kronesian; Dorel Kapelou II; Thee; Kronos; 1,0%; democratic party of Kronos; General Assembly",106
+585,ABILA; activist of Kronos (POK); Elian Karel; 2009/06/22; Elodis; Julian; 1998; The Explainer; Siopa; Kronos,50
+586,ABILA; 10:00; Abila; international GAStech; 20 of January; Sten Sanjorge; Edvard Vann; CEO; 6 hours; office of GAStech; The Explainer; Tethys; government of Kronos; 2014/01/20; GAStech; Kronos,86
+587,WFA; benzene; selenium; barium; Kronos; tolueno; xylene; chromium; GAStech; lead; The Explainer; Tethys; arsenic; 1998/11/17; ELODIS,71
+588,2005/09/26; Kronos; GAStech de Kronos; Protectors of Kronos; Elodis; the government; The police; Tiskele; The Explainer; Rufus Drymiau; GAStech; ELODIS; POK,57
+589,ABILA; Emilio; No entities detected.; protectors of Kronos (POK); The Explainer; Rufus Drymiau; Siopa; 2011/07/28; Kronos,56
+590,ABILA; Africa; protectors of Kronos; Middle East; The Explainer; 2011/05/16; Europe; Kronos,30
+591,"ABILA; Elian Karel; Michale Kraft; Carman Adrien; Sten Sanjorge, Jr; The Explainer; 2009/03/13; GAStech; Kronos; POK",46
+592,"CFO Ingrid Barranco; 16 of December of 2013; $327,25 million; 5 million cubic meters; Sten Sanjorge, Jr; ABILA; Haneson Ngohebo; $1,96 billion; The Explainer; COO; Tethys; 2014/01/20; Orhan Strum; $38,5 million; GAStech; Kronos; $96,25 million; Mr. Sanjorge, Jr; Ada Campo-Corrente; Miriam Avila; Ms Avila; IPO",145
+593,ABILA; Black dress the authorities; tear gas; command batons; protectors of the buildings; No entities detected.; The Explainer; 2010/06/22; government of Kronos; Kronos; POK; police of Abila,70
+594,ABILA; 1997/10/16; international Kronos; Elodis; Tiskele; The Explainer; government of Kronos; GAStech; Kronos,77
+595,ABILA; The Explainer; 2014/01/20; GAStech; Kronos; GAStech Kronos,41
+596,Earth; government of Kronos; natural gas; Kronos; Abila; government; Elodis; Tiskele; The Explainer; 1997/04/25; GAStech; ELODIS; GAStech International,49
+597,Luis Araullo; Abila; Araullo; Anterior Luis; Dorel Kapelou II; 2000/10/03; The Explainer; President Kapelou; Kronos; 1 of October,46
+598,"The body of firemen; international president; 10:00; Avila; 20 of January; Sten Sanjorge; Edvard Vann; CEO; KIDNAPPING IN GASTECH KRONOS; The General Post; government of Kronos; 2014/01/20; GAStech; Kronos; ABILA, Kronos; IPO",90
+599,ABILA; 5.4%; 5th year; fourth trimester of 1999; GAStech; The General Post; GDP; 2000/01/17; Kronos,41
+600,ABILA; Sten Sanjorge Jr.; February; 1994/09/25; The General Post; Tiskele; Tethan; GASTECH; Kronos; Asteria; GAStech International,46
+601,"CFO Ingrid Barranco; 1961; CENTRUM, Tethys; Tiskele; multimillionaire; $1.27 billion; $327.25 million; $96.25 million; The General Post; COO; Sten Sanjorge Sr.; Hank Fluss; Sten Sanjorge Jr; Beatriz Fluss; Willem Vasco-Pais; Orhan Strum; 2013/12/18; $38,5 million; $1.96 billion; GAStech; Kronos; Ada Campo-Corrente; GAStech international",146
+602,"Ten; Sanjorge Jr; CENTRUM, Tethys; Sten Sanjorge; GASTech; GAStech - Kronos; GAStech; The General Post; Sanjorge Jr.; 2009/02/22; SANJORGE JR; Kronos; POK",77
+603,ABILA; Avila; Mrs. Cato; Sten Sanjorge Jr.; Elodis; Rebecca Cato; Sunday; The General Post; GAStech; 2000/08/16; Kronos; GAStech Tiskele,65
+604,$110 million; $29.5 million; International GAStech; 1999/02/20; 1998; The General Post; 4 of February; CENTRUM; Tethys; GAStech international; 13 of November; GAStech; Kronos; the government of Kronos; Wellness for all; fourth trimester; Sten Sanjorge Jr,95
+605,WFA; ABILA; HEALTH FOR ALL; The General Post; 1998/11/14; GASTECH; KRONOS GOVT; GAStech; Kronos; Ingmar Casablancas,45
+606,2013/09/04; Sanjorge Jr; 1961; $3.75 billion; Mr. Sten Sanjorge Sr.; 52 years; The General Post; JR OF SANJORGE; Monday; GASTECH; CENTRUM; Tethys; GAStech; Sten Sanjorge Jr,70
+607,International Investors; Block of the Granite; Davos; Petr Noriega; Mr. Noriega; Switzerland; 2010/12/18; Economic Forum; The General Post; Mr. Sanjorge Jr; GAStech; Kronos,61
+608,"1961; Ingrid Sanjorge; Sten Sanjorge Jr.; Sanjorge; Willem Gracias; Sanjorge, Mr.; The General Post; Tethys; Sten Sanjorge Sr.; 1994/02/18; GAStech; Centrum",61
+609,"Beatriz; 40 years; 1963; Sanjorge; CEO Hank Fluss, Jr; CENTRUM, Tethys; Sten Sanjorge; The General Post; 2003/05/19; Sten Sanjorge Sr.; GAStech; Kronos; Hank Fluss; 73 years",72
+610,"ABILA; Sanjorge Jr; Avila; 2014/01/21; $20M; Elodis; 1998; The General Post; Sten Sanjorge, Jr.; Tethys; the protectors of Kronos; GAStech; Kronos",60
+611,ABILA; Abila; Sanjorge; Sten Sanjorge; 50 million Dollars; The General Post; the government of Kronos; GAStech-Kronos; GAStech; Kronos; 1995/10/12,65
+612,Deep Port of Abila; Claudius Morluniau; Abila; $300 million; 3 meters; the wharf of the east; 8 meters; The General Post; 1993/09/21; GAStech; Kronos,60
+613,1996/07/08; Earth; THE CENTRUM; KRONOS; Ivar Blanes; GAStech; The General Post; Tethan; GASTECH; CENTRUM; Tethys; Mediterranean; Kronos,52
+614,"Sanjorge Jr; 19 of February; Abila; Sten Sanjorge Jr.; international blue flame; CENTRUM, Tethys; 2009/05/17; The General Post; GASTECH; GAStech; Kronos; today; Sten Sanjorge Jr",66
+615,"government of Kronos; United States; companies of the energy; The General Post; Kronos Government; Abila, Kronos; Europe; 1992/12/13; Kronos",39
+616,"1974; CENTRUM, Tethys; HASR; 1995/04/01; The General Post; Tethys; GAStech; Sten Sanjorge Jr",58
+617,ABILA; The Guide; Edvard Vann; The police of Abila; Tethys; 2014/01/20; GAStech; Kronos; POK,55
+618,2009/06/21; Elian Karel; Abila; Kapelou; The Guide; Siopa; Kronos; POK,41
+619,"Elian Karel; protestors; pepper; windows; vehicles; 2013/06/22; geniuses; rubber bullets; Tethys; characteristic; several hours; ABILA, Kronos; police; The Guide; Julian Vann; three officials; GAStech; POK; tear gas; officers; heroic efforts; corporative Capitalism; Capitol; Dorel Kapelou",83
+620,"2012/06/23; Kapelou; The Guide; Elodis; ABILA, Kronos; POK",27
+621,"President Kapelou; The Guide; Rufus Drymiau; 2011/07/28; ABILA, Kronos; POK",30
+622,"Elian Karel; The Guide; Michale Kraft; Carman Adrien; 2009/03/13; Karel; Kronos; ABILA, Kronos",43
+623,"president Kapelou; oil; the assembly; rural projects; 2001/03/18; present taxes; health; The Guide; the end of this year; My office; this year; ABILA, Kronos; General Assembly; gas",60
+624,ABILA; Health Minister Cesare Nespola; The Guide; Minister Nespola; Kronos; General Hospital of Abila; 1999/07/04,35
+625,ABILA; 2001/09/01; Carmine Gurganus; protectors of Kronos; The Guide; Julian Vann; Julian; 1998; Tiskele; GAStech; Kronos,49
+626,"The ministry of the health; Dr Ronald Gerard; Abila; The Guide; Elodis; Nespola; 1998/11/10; Tiskele; Tethys; Will stop Nespola; Kronos; ABILA, Kronos",53
+627,ABILA; Araullo; Kapelou; 1995; 2001/06/16; The Guide; Ministrar Nespola; 2000; Vincent Kapelou; Tethys; Cesare Nespola; Kronos,52
+628,"2014/01/21; The Guide; Carman; POK; GAStech; ABILA, Kronos; Adrien Tethyn",51
+629,"minister of the health; The Guide; 2012/03/09; Will stop Nespola; Kaeplou, Andreas; Vincent Kapelou; ABILA, Kronos; POK; 2001",46
+630,ABILA; 2013/12/16; Abila; Carmen Adrien; The Guide; Kronos; POK,26
+631,"1995/11/23; foreign investment; Abila; Araullo; 350; The Guide; 100; 1930; new hospital; Torsten Trucco; ABILA, Kronos",47
+632,ABILA; $1 billion; medical care; Araullo; Kronosian; government; The Guide; infrastructure; Tiskele; education; Tethys; Department of the Interior; 1993/03/13; GAStech; Kronos; Sten Sanjorge Jr,59
+633,ABILA; Sarto; Araullo; The Guide; 1996/03/15; Tiskele; Department of the Interior; Mr. president; GAStech; Kronos,39
+634,"assembly; 2005/04/08; Tuesday; The Guide; second hour; Tiskele; Rufus Drymiau; national environmental policy; ABILA, Kronos; 5:30",42
+635,International GAStech; 5 million cubic meters; Tiskele; ABILA; general hospital of Abila; Ada Campo-Corren; twentieth year; Tethys; 2014/01/19; Sten Sanjorge Jr; Ingrid Barranco; Abila; Willem Vasco-Pais; Kapelou; The Guide; Orhan Strum; GAStech; Kronos; Rufus Drymiau; Capitol,96
+636,ABILA; HQ of GAStech; Abila; Sanjorge; Kapelou; 2014/01/21; The Guide; Sten Sanjorge Je; twentieth year; Tethys; Capitol; GAStech; Kronos; Centrum; press conference,62
+637,1993/01/19; ABILA; Kronosians; fields of the curve of Tiskele; The Guide; parliament; president Araullo; Kronos; minister of the interior; 20 next years; Tomas Sartos,63
+638,ABILA; Sanjorge; The Guide; GAStech-Kronos; GAStech; Kronos; 1995/10/12; Minister Sarto; Sten Sanjorge Jr,42
+639,"the tubes of the water; beanbags; 2012/06/21; tear gas; guns; Abila; señorío presidential; our government; The Guide; the police; capitol; general hospital of Abila; the aerosol of the pepper; ABILA, Kronos; POK",62
+640,Silvia Marek; Elian Karel; Abila; The Guide; Julian Vann; general hospital of Abila; Carman Adrien; Marek; POK movement; 2010/06/22; Kronos; POK; last summer; today,65
+641,ABILA; Maxima; Sarto; Abila; The Guide; Tethys international GAStech; Tiskele; March; Europe; 1993/09/21; Tethys; GAStech; Kronos; Minister Sarto; $200 million,63
+642,"Abila; police; The Guide; 2011/06/22; Siopa; ABILA, Kronos; POK",27
+643,ABILA; foreign companies; our modernization; Abila; Araullo; our children; our government; The Guide; Hipocrisy; 1998/01/20; our country; our people; foreign experts; Kronos,46
+644,ABILA; 2009/02/19; Ten; Elian Karel; Abila; environment; The protectors of Kronos; Kapelou; The Guide; Elodis; Carman Adrien; gas and petroleum; foreign corporations; Rufus Drymiau; GAStech; Kronos; POK,77
+645,"CFO Ingrid Barranco; International GAStech; 1961; The Light of Truth; 5 million cubic meters; CENTRUM, Tethys; Tiskele; SANJORGE; S 51%; $1.27 billion.; $327.25 million; $96.25 million; Beatriz Fluss; Sten Sanjorge, Sr.; Willem Vasco-Pais; Orhan Strum; 2013/12/18; Sten Sanjorge, Jr.; $1.96 billion; Kronos; GAStech; CIO Ada Campo-Corrente; $38.5 million; Fluss hank; GAStech international; billionaire; 33%",149
+646,"2013/09/04; $3.75 billion; 1961; The Light of Truth; Sten Sanjorge, Sr.; the end of the year; 52 years; INTERNATIONAL GASTECH; Sanjorge, Jr.; Sten Sanjorge, Jr.; CENTRUM; Tethys; Monday; GAStech; JR. SANJORGE",79
+647,"Beatriz Fluss; The Light of Truth; Sten Sanjorge, Sr.; 1963; Sanjorge, Sr.; Fluss; CEO; 2003/05/19; Sten Sanjorge, Jr.; 54 year old; Tethys; GAStech; Kronos; Hank Fluss; Centrum",79
+648,the family of Sanjorge; 1961; The Light of Truth; Sanjorge Sr.; Ingrid Sanjorge; Sten Sanjorge; Willem Gracias; Sanjorge Jr.; Tethys; Sten Sanjorge Sr.; 1994/02/18; GAStech; Centrum,87
+649,ABILA; the fourth quarter of 1999; 5th year; The Light of Truth; international GAStech; 2000/01/16; GDP; Kronos; the government of Kronos,50
+650,ABILA; The Light of Truth; Mrs. Cato; Sten Sanjorge Jr.; Elodis; Rebecca Cato; GAStech; 2000/08/16; Kronos; GAStech Tiskele,81
+651,"United States; The Light of Truth; companies of energy; Europe; government of Kronos; Kronos; ABILA, Kronos; 1992/12/12",62
+652,economic forum of the world; The Light of Truth; Petr Noriega; Mr. Noriega; international GAStech; DAVOS; Switzerland; 2010/12/18; GAStech; Kronos; Mr. Sanjorge Jr.,76
+653,ABILA; 1995/10/11; $50 million; The Light of Truth; Abila; Sten Sanjorge Jr.; GASTECH-KRONOS; Sanjorge Jr.; GAStech-Kronos; GAStech; Kronos; the government of Kronos,61
+654,"6 a.m.; The Light of Truth; this time local of Kronos; January 20; 10:00; GAStech IPO; Trucks; 2014/01/20; ABILA, Kronos; department of fire of Abila; Abila; Sten Sanjorge Jr.; morning; government of Kronos; signal of fire; GAStech; Kronos; Edvard Vann; GASTECH KRONOS",106
+655,ABILA; The Light of Truth; Claudio Morluniau; $300 million; 3 meters; Abila; 8 meters; 1993/09/21; GAStech; Kronos,63
+656,"The Light of Truth; Kronos; Sten Sanjorge Jr.; Abila; CENTRUM, Tethys; February 19; 2009/05/17; Sanjorge, Jr.; present; Sten Sanjorge, Jr.; GASTECH; GAStech; future; past; clean fuel alternative",73
+657,1996/07/08; The Light of Truth; KRONOS; Ivar Blanes; GAStech; Tethan; CENTRUM; GASTECH; Tethys; Mediterranean; Kronos,46
+658,"Ten; The Light of Truth; Wednesday; Sten Sanjorge Jr.; 2009/02/21; CENTRUM, Tethys; GASTech; GAStech - Kronos; Sanjorge, Jr.; Sanjorge Jr.; GAStech; Kronos; POK",90
+659,$110 million; February 4; government of Kronos; $29.5 million; International GAStech; The Light of Truth; Sten Sanjorge Jr.; 1999/02/20; fourth quarter; 1998; November 13; CENTRUM; Tethys; GAStech international; GAStech; Kronos; Wellness for all,94
+660,"The Light of Truth; 1974; 1995/03/31; GAStech; Sten Sanjorge, Jr.; CENTRUM; Tethys",53
+661,"Tethan de GAStech; The Light of Truth; KRONOS; February; 1994/09/25; Tiskele; GASTECH; Jr. of Sten Sanjorge; Kronos; ABILA, Kronos; Asteria; GAStech International",60
+662,"ABILA; international Kronos; The Light of Truth; Abila; 2014/01/21; PRESIDENT Sten Sanjorge, Jr.; $20M; the guards of Kronos; Elodis; 1998; GAStech; Sanjorge, Jr.; Tethys; Kronos",85
+663,"WFA; 1998/11/15; The Light of Truth; HEALTH FOR ALL BREATHS; Government of Kronos; GASTECH; Ingmar Casablancas; ABILA, Kronos",44
+664,ABILA; Mestache Vardshvna; 2012/09/08; Elian Karel; Karel; Juliana Vann; 1998; 2009; The Orb; Western coast of Kronos; Kronos,63
+665,Community of Elodis; hospital general; Kronos; Abila; 2002/05/26; HASR; 1998; Minister for health Nespola; The Orb; ELODIS,63
+666,ABILA; 2014/01/19; Kapelou; Sten Sanjorge Jr.; The Orb; GAStech-Kronos; GAStech; Kronos,39
+667,ABILA; Kronosians; 1993/02/03; 14; roads; offices of the president; health; 86-14 month; education; President Luis Araullo; The Orb; Kronos; utilities,56
+668,ABILA; Nineties; Kronos; 1997; Cesare Nespola; Elodis; Chief of POK; The Orb; 1998/11/16; POK; Henk Bodrogi,47
+669,benzene; Elodis Community; Kronos; 1998/05/17; health for all; Elodis; acetic anhydride; 30; 1998; arsenic; chlorine dioxide; The Orb; ELODIS,64
+670,ABILA; Silvia Marek; Government; Elodis; The Orb; 2012/04/10; Kronos,27
+671,ABILA; benzene; 1997; 1999/07/09; Cesare Nespola; Carmine Osvaldo; Minister for Health; Juliana Vann; Elodis; Nespola; The Orb; Kronos; POK,66
+672,"benzene; Elian Karel; Abila; Kronos; Juliana Vann; Elodis; Elian; 1998; 2011/06/22; June 19; Juliana; The Orb; Karel; GAStech; Michale Kraft; ABILA, Kronos; POK",74
+673,20 kilometers; benzene; Kronos; August 21; Juliana Vann; one year; Elodis; Tiskele; Ten years; Juliana; government of Kronos; The Orb; 1998/08/20; GAStech; ELODIS; Tethys,73
+674,2009/06/21; Kriste Brontes; Elian Karel; Abila; Juliana Vann; Elodis; Michale Kraft; 1998; the office of the president; March; The Orb; Karel; GAStech de Tethyn; Kronos; POK; March 12,87
+675,TRUCK OF GASTECH; investigators; Adian Koppolis; Kronos; Valeria; Carmine; Abila; 2007/03/22; Elodis; town of Elodis; Marcellus Edris; The Orb; GAStech; ELODIS; Celia; Koppolis police force,73
+676,ABILA; Kraft; Elian Karel; Elodis; Michale Kraft; the president; Saturday; The Orb; Karel; GAStech; Kronos; Chief Karel; 2009/03/14; POK,71
+677,Abila; Elodis; General meeting; Nespola; The Orb; end of this year; gas drilling; Kronos; guards of Kronos; 2001/03/24; Henk Bodrogi,73
+678,year; government of Kronos; Elian Karel; Abila; Kronosian; Elian; 2010/06/21; July 2010; June 19; Juliana; police force; The Orb; Karel; alien companies; Kronos; POK; civils servant; city,67
+679,"1961; Reese; Tiskele; KRONOS; Elodis; '94; Osvaldo; Tethys; Sten Sanjorge Sr.; The Orb; ELODIS; Hank Fluss; Sten Sanjorge Jr; April 25, 1998; Pondo Reese; GAStech; 1998/03/20; Henk Bodrogi; Two weeks; the weekly newspaper of Elodis; 250 years",114
+680,Community of Elodis; 252%; Kronos; 2004/05/31; 1998; municipal Web site of Elodis; The Orb; ELODIS,52
+681,coffees; Tiskele; June 19; President Kapelou; ABILA; 2013/06/22; Elodis; truth; The Orb; Insects; public wages; benzene; light posts; luxury cars; park; Abila; Juliana Vann; 1998; justice; Kronos; POK; large boats; second homes; WHO; civils servant,88
+682,Kronos; Abila; ministry for health; KRONOS; 1998/05/17; Elodis; Reese; interior; health; Pondo Reese; justice; Tiskele; The Orb; Affairs Foreign; ELODIS; Henk Bodrogi,64
+683,"June 19, 2009; Silvia Marek; Jeroen; Wednesday; Elian Karel; three years ago; police force; ABILA; 17; Antaura Karel; 2012/06/22; Elodis; Marek; The Orb; Abila; Juliana Vann; Kronos; POK; Henk Bodrogi; Elian; Juliana",113
+684,Kronos; Abila; ethylene glycol; HASR; Elodis; acetic anhydride; 2000/06/01; 1998; Nespola; oncology; The Orb; 89%; cancer; ELODIS; phenol,77
+685,Elian Karel; hospital general of Abila; 1993; electric systems; 2009/03/09; ABILA; 1997; six hours; Jon L.; ministers; buddies ministers; position; The Orb; yesterday; 20 years; Abila; Juliana Vann; Kronos of government; 1998; foreign gas operations; GAStech; Kronos; POK; 26 years; Henk Bodrogi; park of town of Abila; non-profit-making hospital; President Araullo; bad health; government; family; Juliana; Saturday; the office of the president; Karel; alien companies,148
+686,"""health for all""; Bodrogi; 1990; Tiskele; Joclyn Reynolds; part three; toluene; selenium; SOURCE; xylene arsenic; Sanjorge; KRONOS; Elodis; lead; Reynolds; The Orb; 200 years; ELODIS; Hank Fluss; benzene; May 15, 1998; Sten Sanjorge Jr.; Pondo Reese; gas company; South-East Asia; GAStech; Kronos; worship; Henk Bodrogi; 1998/04/27; Occupied",159
+687,Charley Normand; 2001/09/01; Kronos; Griffith Mabel; Abila; Mabel; Elodis; Tiskele; Juliana; The Orb; GAStech; ELODIS; POK,74
+688,"""songs of the farmer""; Kronos; federal police force of Kronos; Tiskele; ""this is our ground""; The Orb; GAStech; 2005/04/06; POK; ELODIS",58
+689,ABILA; Silvia Marek; Wednesday; No entities detected.; 2012/11/12; The Orb; Kronos; POK,30
+690,ABILA; ministry of the interior; President; Sarto; The Truth; foreign investments; 1996/03/15; Tiskele; port extension; new hospital; president Araullo; GAStech; Kronos,46
+691,"2012/06/23; Tuesday; Kapelou; The Truth; Elodis; ABILA, Kronos; POK",29
+692,ABILA; 2009/02/19; Elian Karel; Abila; GAStech Headquarters; The Truth; Kapelou; Elodis; Rufus Drymiau; GAStech; Kronos; POK; Adrien Carman,64
+693,The ministry of health; ABILA; general hospital Abila; Ronald Gerard; The Truth; Elodis; Nespola; 1998/11/10; Tiskele; Tethys; Cesare Nespola; Kronos,51
+694,president Kapelou; 2009/06/21; Siopa; Elian Karel; Abila; The Truth; Kronos; POK,36
+695,"1995/11/23; Araullo; The Truth; general hospital plants Abila; 350 beds; Trucco; 1930; New general Abila; 100 beds; ABILA, Kronos",49
+696,International GAStech; The Truth; Tiskele; 20th year; 5 millions cubic meters; ABILA; general hospital Abila; Tethys; 2014/01/19; Ingrid Barranco; Willem Vasco-Pais; Sten Sanjorge Jr.; Kapelou; Orhan Strum; GAStech; Kronos; Ada Campo-Corrente; Rufus Drymiau; Capitol,91
+697,ABILA; The Truth; bldg.; 2011/06/22; Siopa; Kronos; POK,27
+698,Elian Karel; protestors; The Truth; water guns; police force; rubber balls; ABILA; 2013/06/21; civil servants; Tethys; Juliana Vann; babble; GAStech; Kronos; POK; tear gas; pepper spray; Capitol bldg.; Dorel Kapelou; police forces,75
+699,ABILA; aliens; Prosperity; foreign companies; Abila; Araullo; The Truth; government; foreigners; our country; our people; 1998/01/19; foreign experts; modernization; Kronos,46
+700,year; 10%; health care; The Truth; country areas; energy sector; ABILA; rural health projects; the assembly; clean water projects; 23; gas and oil taxes; Cesare Nespola; president Kapelou; oil; general assembly; foreign investment; health information; gas development; Kronos; 2001/03/18; 77; My office; rural municipalities,82
+701,"GAStech headquarters; Centrum, Tethys; Abila; Sten Sanjorge Jr.; The Truth; Kapelou; 2014/01/21; 20th year; Tethys; Sanjorge of GAStech; HQ; GAStech; ABILA, Kronos; press conference",68
+702,ABILA; Sarto; Sten Sanjorge Jr.; The Truth; GAStech-Kronos; GAStech; Kronos; 1995/10/12,37
+703,Carmen; 2013/12/16; Abila; The Truth; Adrien Carmen; Kronos; POK,25
+704,ABILA; 1993/09/20; Sarto; Abila; The Truth; Tiskele; March; Tethys; Europe; GAStech; Kronos,52
+705,ABILA; Elian Karel; The Truth; LEADER Karel; Michale Kraft; Adrien Carman; Kronos; 2009/03/14,42
+706,Silvia Marek; general hospital Abila; Elian Karel; Abila; The Truth; Juliana Vann; Police force of Abila; 2010/06/22; Kronos; POK; Adrien Carman,57
+707,ABILA; minister of health; Kaeplou; The Truth; Andreas; 2012/03/08; Vincent Kapelou; Cesare Nespola; Kronos; POK; 2001,45
+708,"Tethyn; The Truth; 2014/01/21; GAStech; ABILA, Kronos; Adrien Carman; POK",32
+709,ABILA; Tethyn; The Truth; Edvard Vann van Abila; Police force of Abila; Tethys; Abila police headquarters; 2014/01/20; GAStech; Kronos; POK,59
+710,2005/04/08; The movement of the block; 5:30 a.m; three hours; Tuesday; The Truth; 9 a.m; Protestors; Tiskele; Rufus Drymiau; state country; POK,54
+711,"ABILA; 1993/01/20; The government; Tomas Sarto; Kronosians; 20 years; The Truth; billion dollars; energy development; 5,000; parliament; president Araullo; Tiskele; Kronos",52
+712,"presidential manor; general hospital Abila; 2012/06/21; Abila; The Truth; government; shotguns; ABILA, Kronos; police force; capitol building; POK",42
+713,ABILA; president Kapelou; biochemistry; 62; Araullo; The Truth; 2001/06/15; master of science; 1995; central university Tethys; chemistry; 28; 2000; Vincent Kapelou; Cesare Nespola; Bachelor of science; Kronos,68
+714,"the hospital; health care; clean water projects; Abila; The Truth; Cesare Nespola; Nespola; country areas; health information; Champions; ABILA, Kronos; 1999/07/04",47
+715,"bending Tiskele; The Truth; 2001/08/31; Juliana Vann; guards Kronos; 1998; Adrien Carman; Gurganus; Juliana; People of Kronos; GAStech; Kronos; ABILA, Kronos; Drilling poisoned our water; POK",67
+716,ABILA; $1 billion; President Araullo; Sten Sanjorge Jr.; The Truth; Kronosian; ministry of inland country; Tiskele; 1993/03/14; GAStech; Kronos,48
+717,"President Kapelou; The Truth; Drymiau; Rufus Drymiau; ABILA, Kronos; 2011/07/28; police force; POK",37
+718,"SANJORGE JR.; $3.75 billion; 1961; The Tulip; IPO; public company; 52 years; the end of the year; world player; Sten Sanjorge, Jr.; CENTRUM; 2013/09/03; GASTECH; Tethys; Monday; Sten Sanjorge, SR; gas industry",83
+719,ABILA; international Kronos; The Tulip; Abila; 2014/01/21; the guards of Kronos; $20M; Elodis; 1998; Tethys; GAStech; Kronos,65
+720,ABILA; The Tulip; Wellness; 1998/11/14; GAStech; Kronos; Ingmar Casablancas,48
+721,"1961; Ingrid Sanjorge; The Tulip; international GAStech; Willem Gracias; Sten Sanjorge, SR.; Sten; Sten Sanjorge, Jr.; Sanjorge Jr.; Tethys; 1994/02/18; Sanjorge family; Centrum",95
+722,ABILA; Claudio Morluniau van Abila; The Tulip; Abila; $300 millions; 1993/09/21; the pillar of the east; GAStech; Kronos,57
+723,"International GAStech; 13 November; The Tulip; $29.5 millions; 1999/02/20; tempo; 1998; Sten Sanjorge, Jr.; CENTRUM; GASTECH; Tethys; GAStech; Kronos; the government of Kronos; Wellness for all",72
+724,ABILA; The Tulip; February; 1994/09/25; Tiskele; Tethan; GASTECH; GAStech international; Sanjorge of Sten; Kronos; Asteria,49
+725,"International GAStech; 1961; The Tulip; Sten Sanjorge SR.; CENTRUM, Tethys; GAStech - Kronos; Fluss; Tiskele; $1.27 billion; 2013/12/17; $327.25 millions; $96.25 millions; Sanjorge Jr.; Ingrid Barranco; Beatriz Fluss; Willem Vasco-Pais; Orhan Strum; Sten Sanjorge, Jr.; Ada campo-Corrente; $38.5 millions; GAStech; $1.96 billion; Kronos; GAStech international; billionaire",152
+726,Davos; Petr Noriega; The Tulip; Switzerland; 2010/12/19; M. Noriega; M. Sanjorge Jr.; GAStech; Kronos; Trade Investments,54
+727,ABILA; United States; The Tulip; infrastructure; The government of Kronos; fossil fuels; cheap energy; Europe; The Government Kronos; energy companies; Kronos; high income; 1992/12/12,56
+728,ABILA; methane gas; The Tulip; Sten Sanjorge Jr.; Elodis; 3 a.m; Rebecca Cato; Sunday; GAStech; Tiskele; Ms. Cato; 2000/08/16; Kronos,90
+729,"Gross Domestic Product; service of economy; 1999; 5th year; Kronos; The Tulip; GAStech; 2000/01/16; GDP; KRONOS THE GDP ON THE INCREASE; ABILA, Kronos",53
+730,"Ten; international health standards; Wednesday; The Tulip; Sten Sanjorge Jr.; CENTRUM, Tethys; GASTech; GAStech - Kronos; Sanjorge, Jr.; Sanjorge Jr.; 2009/02/22; SANJORGE JR; Kronos; POK",88
+731,"The Tulip; 1974; HASR; 1995/04/01; Sten Sanjorge, Jr.; CENTRUM; Tethys; GAStech",67
+732,"1963; The Tulip; Fluss; 2003/05/19; Sanjorge, SR.; 73; CEO; COO GASTECH; CENTRUM; Tethys; Hank Fluss; 5 children; Beatriz Fluss; Sten Sanjorge, Jr.; Sten Sanjorge, SR; GAStech; Kronos; 12 children; 54 years",95
+733,ABILA; 1995/10/11; gAStech-Kronos; The Tulip; Sten Sanjorge Jr.; Abila; Sanjorge; 50 millions dollar; LARGE OPENING GASTECH-KRONOS; GAStech; Kronos,61
+734,"The Tulip; GAStech - Kronos; department of the police force; office; 10:00; Abila Kronos; GAStech IPO; 2014/01/20; ABILA, Kronos; department of the fire; Abila; Sten Sanjorge Jr.; 20 January; GAStech; Kronos; government; Edvard Vann; GASTECH KRONOS; government Kronos",99
+735,International GAStech; The Tulip; Ivar Blanes; 1996/07/09; GAStech; Tethan; CENTRUM; Tethys; Mediterranean; Kronos,58
+736,"The Tulip; Sten Sanjorge Jr.; tri-part blue flame; Abila; CENTRUM, Tethys; Sanjorge, Jr.; Sten Sanjorge, Jr.; 2009/05/16; GASTECH; GAStech; Kronos; 19 February",67
+737,"The World; 1974; HASR; Sten Sanjorge, Jr.; CENTRUM; Tethys; 30 March 1995; Hyper Acidic Substrate Removal; GAStech International",45
+738,"The World; 15 May 2009; Abila; Government; February 19; GAStech - Kronos; Sanjorge, Jr.; Sten Sanjorge, Jr.; CENTRUM; Tethys; GASTECH; Kronos; GAStech International",73
+739,"1999; The World; Bureau of Economics; 15 January 2000; KRONOS GDP ON THE RISE; Government of Kronos; Kronos; ABILA, Kronos; GAStech International",45
+740,"WFA; The World; Government of Kronos; WELLNESS FOR ALL; GASTECH; KRONOS GOVT; ABILA, Kronos; Ingmar Casablancas; 13 November 1998; GAStech International",50
+741,7 July 1996; The World; Tethan Interior Minister; Ivar Blanes; CENTRUM; GASTECH; Tethys; Mediterranean; Kronos; GAStech International,42
+742,"The World; 20 January 2014; 10:00; Abila; Sten Sanjorge Jr.; Abila Fire Department; Abila Police Department; Protectors of Kronos; Edvard Vann; KIDNAPPING AT GASTECH KRONOS; GAStech - Kronos; GAStech IPO; January 20th; Kronos Government; Kronos; ABILA, Kronos; GAStech International",108
+743,"The World; Abila; GAStech International; 50 million dollar; GAStech; GRAND OPENING GASTECH; Sten Sanjorge, Jr.; Sanjorge Jr.; Kronos Government; GAStech-Kronos; GRAND OPENING GASTECH-KRONOS; 10 October 1995",69
+744,ABILA; The World; Mrs. Cato; Sten Sanjorge Jr.; Elodis; Rebecca Cato; Sunday; 15 August 2000; Tiskele Bend; GAStech; Kronos; GAStech International; 3 a.m.,68
+745,"$110 million; February 4; Wellness for All; The World; $29.5 million; 18 February 1999; Government of Kronos; fourth quarter; 1998; November 13th; Chief Executive; Sten Sanjorge, Jr.; CENTRUM; GASTECH; Tethys; Kronos; GAStech International",85
+746,"CFO Ingrid Barranco; 5 million cubic meters; GAStech - Kronos; COO Orhan Strum; $1.27 billion; The World; $327.25 million; $96.25 million; GAStech - Kronos executives; Sanjorge Jr.; CENTRUM; Tethys; Hank Fluss; Beatriz Fluss; Sten Sanjorge, Sr.; Tiskele Bend; Sten Sanjorge, Jr.; $1.96 billion; 16 December 2013; CIO Ada Campo-Corrente; $38.5 million; 51%; 33%; Sanjorge Trucking; GAStech International",157
+747,"Beatriz Fluss; Chief Operating Officer; The World; Sten Sanjorge, Sr.; 1963; Centrum; Fluss; GAStech - Kronos; Sten Sanjorge, Jr.; Tethys; 17 May 2003; Hank Fluss; GAStech International",68
+748,"The World; United States; KRONOS GOVERNMENT; Government of Kronos; fossil-fuels; Europe; ABILA, Kronos; energy companies; Kronos; 11 December 1992",42
+749,ABILA; The World; $300 million; 3 meters; Abila's East Pier; 8 meters; 19 September 1993; Port of Abila; Kronos; Claudio Morluniau; GAStech International,51
+750,"The World; 1961; Sten Sanjorge, Sr.; 17 February 1994; Ingrid Sanjorge; Sanjorge; Willem Gracias; GAStech International; Sten Sanjorge, Jr.; Tethys; Centrum Chamber; Sanjorge, Sr.; Centrum",75
+751,"SANJORGE JR.; The World; 2 September 2013; Sten Sanjorge, Sr.; $3.75 billion; 1961; 52 years; Sten Sanjorge, Jr.; CENTRUM; Tethys; GAStech International",57
+752,"ABILA; 21 January 2014; The World; Government of Kronos; $20M; Elodis; 1998; Sanjorge, Jr.; The Protectors of Kronos; Tethys; Kronos; GAStech International",81
+753,ABILA; The World; Sten Sanjorge Jr.; February; Tiskele Bend; People of Kronos; GASTECH; Tethan fields; 23 September 1994; Kronos; Asteria; GAStech International,51
+754,Silvia Marek; Jeroen; Elian Karel; police force; afternoon; ABILA; 2012/06/21; The Wrap; POK REMIND LEADER MARTYRED; Antaura Karel; Elodis; 19 June 2009; three years; Abila; public civil servants; Juliana Vann; mob; Kronos; POK; peper spray; Henk Bodrogi; milieucatastrofe; batons; Elian; LEADER,110
+755,"The government Kronos; 2010/06/21; Coroner of the city Abila; ELIAN KAREL; The Wrap; The police force; The foreign companies; The guards of Kronos; ABILA, Kronos; The town civil servants; Kronos; POK; 19 June; Kronosian; Elian; The verdedigers; July 2010; Juliana; Karel",89
+756,2005/04/06; 8 am; The Wrap; Kronos federal police force; police force van; weavers; Tiskele; birth country; farmer; country; GAStech; Kronos; POK; ELODIS,52
+757,"Bodrodgi; 1990; Tiskele; Joclyn Reynolds; Community LEADERs; toluene; Wellness for all; selenium; M. Fluss; The Wrap; xylene arsenic; Sanjorge; 15 May, 1998; Elodis; 1998/04/26; Wellness; lead; Reynolds; Ferro; 200 years; ELODIS; benzene; Kronesian; water specialist; Pondo Reese; M. Henk Bodrogi; gas company; Sten Sanjorge, Jr.; worship days; South-East Asia; GAStech; Kronos; Henk Bodrogi; Ms. Reynolds; LEADERs Elodis; town civil servants",190
+758,The Wrap; Abila; Elodis; Bodrogi; Nespola; LEADER; Cesare Nespola; Kronos; guards of Kronos; 2001/03/24; Henk Bodrogi,51
+759,ABILA; Silvia Marek; 2012/04/11; The Wrap; Elodis town park; Marek; Kronos,60
+760,Elian Karel; 1993; 2009/03/09; ABILA; general hospital Abila; The Wrap; 1997; Jon L.; ministers; campaign POK; 20 years; Abila; Juliana Vann; 1998; city Abila; GAStech; Kronos; POK; 26 years; office of the President; Henk Bodrogi; president Araullo; Juliana; Saturday; Karel; Kronos government,130
+761,Carmine; police force; The Wrap; Valeria; 2007/03/22; Elodis; ELODIS; Celia; Elodis town prison; Abila; Commissioner Koppolis; GASTECH; GAStech; Marcellus Edris; Kronos; truck driver; Adian Koppolis; research workers; 25 years,81
+762,252%; The Wrap; Wellness; 1998; 2004/05/30; municipal Internet site Elodis; Kronos; ELODIS,54
+763,vinegar anhydride; cancer; Internet; The Wrap; Elodis; Wellness; lead; 2000/06/02; ELODIS; Abila; ethylene glycol; 1998; Kronos; general hospital; Hyper Acidic; HASR; Nespola; 89%; phenol,80
+764,general hospital; The Wrap; minister of health Nespola; Abila; 2002/05/27; HASR; Wellness; 1998; 178%; municipal Internet site Elodis; cancer; Kronos; ELODIS,80
+765,ABILA; 1998/11/15; The Wrap; 1997; THE REPRESENTATIVES POK; Elodis; Cesare Nespola; MINISTER KRONOS HEALTH; Kronos; Henk Bodrogi,50
+766,benzene; 1998/08/21; Kronos; The Wrap; Tethys company GAStech; Juliana Vann; Elodis; Wellness; Tiskele; leukemia; Juliana; government of Kronos; 21 augusts; GAStech; ELODIS,79
+767,"Elian Karel; March; 2009/06/20; The Wrap; Elodis; ABILA, Kronos; the office of the President; Abila; Juliana Vann; 1998; GAStech; Kronos; POK; Michale Kraft; Tethyn; Kriste Brontes; WHO; 12 March; Karel",108
+768,"1961; Reese; Tiskele; The Wrap; Elodis weekly day book; KRONOS; Elodis; Mt shadow; 25 April, 1998; Osvaldo; Tethys; Sten Sanjorge Sr.; ELODIS; Hank Fluss; 94; Sten Sanjorge Jr; Sanjorge SR; Pondo Reese; GAStech; Kronos; 1998/03/21; Henk Bodrogi; Two weeks; 250 years",124
+769,benzene; Kronos; The Wrap; vinegar anhydride; 1998/05/17; Elodis; 30; 1998; Community center of health; chlorine dioxide; arsenic; ELODIS; Wellness for all,63
+770,ABILA; President; 1993/02/04; Tomas Sarto; The Wrap; 14; health care; offices of the President; education; Delouse Araullo; Kronos; money,41
+771,ABILA; Mestache Vardshvna; ten years old; Elian Karel; The Wrap; 2012/09/08; Juliana Vann; 1998; LEADER; 2009; Karel; Kronos,60
+772,Charley Normand; The Wrap; Griffith Mabel; ARRESTED MEMBERS POK; Abila; government; Mabel; Elodis; 2001/09/02; Tiskele; Juliana; police force; GAStech; Kronos; POK; ELODIS,84
+773,ABILA; The Wrap; 2014/01/19; Sten Sanjorge Jr.; Kapelou II; GAStech; Kronos,33
+774,ABILA; 10 years; The Wrap; 1999/07/09; Cesare Nespola; 1997; Carmine Osvaldo; Juliana Vann; benzene poisoning of gas; Elodis; leukemia; Kronos; POK,84
+775,ABILA; 2013/06/21; Civil servants; The Wrap; Elodis; Poland; public salaries; Abila; Kapelou; WGO; Juliana Vann; 1998; Kronos; large boats; POK; luxury autos; 19 June; WHO; second houses,69
+776,ABILA; Kronos van Elodis; Kraft; President; The Wrap; LEADER Elian Karel; the guards of Kronos; Elodis; Michale Kraft; Saturday; 2009/03/13; Karel; GAStech; Kronos; POK,85
+777,"young martyr; Elian Karel; Court; corruption; assassination; police force; Coroner of the city Abila; cancer; rabble-rousers; The Wrap; benzene toxin; Elodis; unlawful dead; ABILA, Kronos; recall violence; public information.; drinking water; Abila; ten years; Juliana Vann; 1998; surrounding town park; Kronos GAStech; Michale Kraft; POK; instability; justice; 19 June; government; Elian; 2011/06/22; Juliana; Karel; town civil servants",145
+778,The Wrap; Kronos; Abila; KRONOS; 1998/05/17; Elodis; Reese; Pondo Reese; Tiskele; ministry of health; ELODIS; Wellness for all; Henk Bodrogi,59
+779,ABILA; Silvia Marek; The Wrap; No entities detected.; 2012/11/12; Kronos,25
+780,ABILA; KRONOS; 1994/09/24; Who What News; Tiskele Bend; GASTECH; Tethan; Asteria; GAStech International,39
+781,"1961; Sten Sanjorge, Sr.; Ingrid Sanjorge; Willem Gracias; Who What News; Sten Sanjorge, Jr.; CENTRUM; Tethys; 1994/02/18; Centrum Chamber; GAStech International",69
+782,Tethys government; 1974; HASR; GAStech International; Who What News; CENTRUM; Tethys; 1995/03/30; Hyper Acidic Substrate Removal,57
+783,ABILA; Abila; Government of Kronos; 2014/01/21; $20M; Elodis; 1998; Who What News; The Protectors of Kronos; Kronos; GAStech International,76
+784,"Ingrid Barranco; SANJORGE; Sten Sanjorge, Sr.; 1961; 2013/12/17; $327.25 million; CENTRUM, Tethys; $96.25 million; Orhan Strum; GAStech - Kronos; Ada Campo-Corrente; Who What News; Sten Sanjorge, Jr.; Tiskele Bend; Sanjorge Trucking; GAStech International",94
+785,"GAStech - Kronos' headquarters; Abila; Government; February 19; Who What News; Sten Sanjorge, Jr.; CENTRUM; 2009/05/16; GASTECH; Tethys; GAStech; Kronos; GAStech International",63
+786,"$110 million; February 4; Wellness for All; 1998; Who What News; Sten Sanjorge, Jr.; CENTRUM; 1999/02/19; GASTECH; Tethys; Kronos; GAStech International",56
+787,"10:00; Abila; Sten Sanjorge Jr.; Abila Fire Department; Abila Police Department; Protectors of Kronos; Edvard Vann; KIDNAPPING AT GASTECH KRONOS; GAStech - Kronos; Who What News; GAStech IPO; Kronos Government; 2014/01/20; Kronos; ABILA, Kronos; GAStech International",105
+788,ABILA; fourth quarter of 1999; gross domestic product; Bureau of Economics; Government of Kronos; 2000/01/16; Who What News; Kronos; GAStech International; KRONOS GDP,47
+789,"United States; KRONOS GOVERNMENT; Government of Kronos; fossil-fuels; Who What News; high-income countries; Europe; ABILA, Kronos; 1992/12/12",42
+790,"Beatriz Fluss; Chief Operating Officer; Sten Sanjorge, Sr.; Centrum; GAStech - Kronos; CEO; 2003/05/18; Who What News; Sten Sanjorge, Jr.; GASTECH; CENTRUM; Tethys; HANK FLUSS; GAStech International",71
+791,"Mrs. Cato; Elodis, Kronos; Sten Sanjorge Jr.; 2000/08/15; Elodis; Rebecca Cato; Sunday; Who What News; Tiskele Bend; GAStech; ABILA, Kronos; GAStech International; 3 a.m.",82
+792,"WFA; Government of Kronos; WELLNESS FOR ALL; Who What News; 1998/11/14; GASTECH; KRONOS GOVT; Ingmar Casablancas; ABILA, Kronos; GAStech International",52
+793,"GASTech International; 2009/02/21; CENTRUM, Tethys; Protectors of Kronos; Government of Kronos; GAStech - Kronos; GAStech; Who What News; Sten Sanjorge, Jr.; Ten POK protesters; SANJORGE JR; POK",73
+794,ABILA; $300 million; 1993/09/19; Who What News; Port of Abila; East Pier; Kronos; Claudio Morluniau; GAStech International,42
+795,World Journal; Abila; Kronosian; Dorel Kapelou II; Abilia; Guards of spokesman of Kronos; Tethys; 2013/11/13; GAStech; Kronos; Shawn Pastorini; Terek Kamal,81
+796,World Journal; 2009/06/23; Elian Karel; Abila; Wednesday; Kronosian; GASTech; Juliana Vann; Sten Sanjorge; PRESIDENT de GAStech; the government; 1998; Friday; Karel; Chief Elian Karel; Kronos; POK; May,88
+797,World Journal; Kapalou; Kronos; Abila; presidential ship; government; presidential office; 2010/03/05; One; 10th Kapalou cup; Petra Hohimae; Mediterranean; gold cup,64
+798,"World Journal; PRESIDENT; European; Presidents; Kronosian; A; Elodis; B; January 17, 1995; the Eighties; Net; foreign Presidents; Tethys; 2014/03/26; Tethian; GAStech; Kronos; Hank Fluss",83
+799,World Journal; Elian Karel; presidential farm; spokesman of government; police force; presidential manor; teargas; 2012/06/21; capital building; Abila; forces of safety; Juliana Vann; troops of the criminals; GAStech; Kronos; POK; Abilians; Tuesday; government,80
+800,World Journal; GASTech; 2014/01/21; Tethan; American; POK $20 million; APA; Tethys; Sten Sanjorge Jr; Ingrid Barranco; John Rathburn; Abila; Willem Vasco-Pais; Orhan Strum; Kronos; POK; Foreign Affairs; Ada Campo-Corrente; Asterian,94
+801,World Journal; Sten Sanjorge; Tethan; Glasgow; Centrum; gas industry; Sanjorge; Western coast of Scotland; Tethys; Hank Fluss; Sixties; Thethys; 1974; GAStech; Sten Jr.; North at sea; natural gas; 1982/10/04; Seventies,118
+802,World Journal; driving; identification; disaster; 2007/03/20; children; police force; Auxiliary police chief; prison; 9AM; The roads; Elodis; 25 year old; hospital; team; site of accidents; road; accident; driver; Abila; Calistermi; roads; intersection; GAStech; Kronos; leaders; victim; Adian Koppolis; Four people; truck; car,95
+803,World Journal; Guards of Kronos; Mr. Drymiau; Health for All; Abila; 1997; Kronosian; Tuesday; 2009/02/23; 1998; The government of Kronos; Rufus Drymiau; International groups; Juliana; Tethys; Kronos; POK,83
+804,"World Journal; Mediterranean; Black Sea; Kronosian; Eastern Kronos; GAStech TV; 2013/02/24; Sten Sanjorge, Jr; Europe; Tethys; GAStech; Kronos",59
+805,"World Journal; October 21, 2013; left civils servant; 2014/03/26; Tethys Counterdrug; Loblaw; popular army of Asterian; APA; Interpol; spice dreams; Robert Loblaw; Tethys; Asterian; Arise; MDMC; cotton sugar; Asteria; flower of tulip",91
+806,"World Journal; 2500; Kosovo; 20.000; 100.000; Health for all; this year; September; 1999/11/15; Singapore WORRYING; central Taiwan; earthquakes; rescue squads; Richter; Dr. Mahmed; Malaysia; FoodSupport; Office of UNO; Jim; UNO; Izmit, Turkey; Tuesday; 7.3; Dr. Jayala Mahmed; Thirteen; Turkey",102
+807,World Journal; K2bn; K17; K3.5bn; six years ago; 2011-12; 2012; .83m; North America; last year; 20 years; 26 wells; Jecovic; 12 months; Norway; 15 wells; GAStech; Kronos; Oil and gas Kronos; 15%; 8%; capital; K30; ministry; 27%; 2012/02/21,108
+808,"World Journal; Mediterranean sea; fossile fuel resources; Professor Oskar Wertz; shale gas; 10 years; 20, 30 or 40 years; Sanjorge; piece buildings; 1984/05/04; Europe; SanJorge; communities; substrate; European; Sten Sanjorge, Jr.; government of Kronos; GAStech; Westerner; Kronos; marine environments; natural gas; councils; hyperacide displacement; University of Tethys",126
+809,"World Journal; February 4; insurgent groups political; one gram; Hospital of Abila; ""flower of tulip""; Alicia Bianca; police force; drug; Biance; The popular army of Asterian; Drugs of originator; cotton sugar refinery of limit; Elodis; ""cotton sugar""; department of fire of Abila; ""spice dreams""; ""sugar cotton""; 20 years; Abila; Ralf trail; 2013/02/09; Bianca; cocaine; seven years; toxicology; synthetic marijuana; Sgt Antonio Arresta; government of Kronos; Kronos; national center of poison; 54 years; ""therapy of sweet herbs""; carnival; drugs originator; last month; Asterian; K18; K166; cotton sugar",203
+810,Police; Elian Karel; Abila; 2012/06/20; presidential homestead; World Source; Protectors of Kronos; Juliana Vann; Government; GAStech international; Kronos; POK,47
+811,10 year; Elian Karel; Abila; Wednesday; Sanjorge; GASTech; Protectors of Kronos; World Source; 2009/06/22; Juliana Vann; 1998; Kronosian government; Friday; Karel; GAStech; Kronos; POK; May,71
+812,"oil and gas sites; Black Sea; 2013/02/22; eastern Kronos; energy business; World Source; Kronosian government; Sten Sanjorge, Jr; Europe; Tethys; GAStech; Kronos; company towns",57
+813,"Tethys University; Professor Oskar Wertz; oil and gas wells; geological data; World Source; offshore environment; the Times; 100 trillion cubic feet; 20, 30 or 40 years; Sanjorge; hyper-acidic substrate removal; SanJorge; European energy; 1984/05/03; Shale gas; GAStech; Kronos; Hyper-acidic substrate removal; Mediterranean Sea; Kronosian; the West; offshore shale gas; onshore resources; offshore shale",126
+814,Justice for Juliana; Wellness for All; Mr. Drymiau; Kronosians; Abila; 1997; Tuesday; World Source; Protectors of Kronos; 2009/02/23; Kronos; POK; Kronos government,57
+815,"Centrum, Tethys; Tethan government; 1982/10/02; Sanjorge; Sanjorge Gas company; Sten Sanjorge; World Source; Tethan Gas Industry; the early 1970s; 1974; Scotland; Tethys; GAStech; Centrum; gas industry",92
+816,"the times; Kosovo; World Source; September; Wellness for All; Taiwan; Jim Cordon; 15 million; Richter scale; FoodSupport; 1999/11/14; Izmit, Turkey; Tuesday; 20,000; CARING Singapore; Turkey; Charity Funds Limited",80
+817,"Tethys Counterdrug Team; ""spice dreams""; Asterian People's Army (APA); World Source; MDMC; 2013/10/22; Interpol; APA; Senior Inspector Loblaw; Tethys; ""Tulip Blossom""; Arise; Senior Inspector Robert Loblaw; ""cotton candy""; Asteria",92
+818,CFO Ingrid Barranco; Tethys federal law enforcement; 2014/01/21; GASTech; World Source; Protectors of Kronos; COO Orhan Strum; GAStech President; American; APA; Tethys; John Rathburn; Abila; CEO Sten Sanjorge Jr; Kronos; POK; CIO Ada Campo-Corrente; Asterian People's Army,115
+819,ABILA; $1 billion; President Araullo; Kronosian; government; Sten Sanjorge; health; infrastructure; Tiskele; 1993/03/14; education; Tethys; Worldwise; GAStech; Kronos; the ministry for the interior,59
+820,ABILA; port of Abila; Sarto; curve of Tiskele; GAStech; 100 years; Tiskele; $200 million; March; Europe; 1993/09/21; Tethys; Worldwise; Kronos; Tethys GAStech international,75
+821,"ABILA; foreign ""experts""; foreign companies; President Araullo; Abila; our modernization; our government; foreigners; our country; 1998/01/19; Worldwise; Kronos",43
+822,ABILA; The Minister for health; Minister for health; Andreas; 2012/03/08; President Kaeplou; Vincent Kapelou; Cesare Nespola; Worldwise; Kronos; POK; 2001,51
+823,ABILA; Tethyn; 2014/01/21; Carman Adrien; GAStech; Worldwise; Kronos; POK,48
+824,2009/06/21; Elian Karel; Abila; Siopa; Chief of POK; President Kapelou; Worldwise; Kronos; POK,39
+825,ABILA; 1995/11/22; 100 beds; foreign investment; hospital general of Abila; Araullo; 350 beds; 1930; Torsten Trucco; Worldwise; Kronos,49
+826,ABILA; hospital general of Abila; Minister for health; Elodis; Dr. Ronald Gerald; 1998/11/10; Tiskele; Tethys; Cesare Nespola; office of Nespola; Worldwise; Kronos,63
+827,"protestateurs; Elian Karel; 2013/06/22; Juliana Vann; three leaders; GAStech; President Dorel Kapelou; ABILA, Kronos; Tethys; police force; Worldwise; POK",54
+828,Carmen; 2013/12/16; Abila; Adrien Carmen; Worldwise; Kronos; POK,25
+829,ABILA; Sarto; President Araullo; ministry for the interior; GAStech; Tiskele; 1996/03/14; Mr. chair; Worldwise; Kronos,39
+830,ABILA; Ingrid Barranco; International GAStech; hospital general of Abila; Abila; Willem Vasco-Pais; Sten Sanjorge Jr.; Orhan Strum; Ada Campo-Corrente; GAStech; Tiskele; Rufus Drymiau; 20th year; Tethys; President Kapelou; Worldwise; 2014/01/19; Kronos,91
+831,ABILA; 1995/10/11; Sten Sanjorge Jr.; Sanjorge; Sarto minister; Worldwise; GAStech-Kronos; GAStech; Kronos,42
+832,"2001/09/01; Carmine Gurganus; Juliana Vann; Carman Adrien; 1998; fossil fuels; Tiskele; Juliana; Worldwise; GAStech; Kronos; ABILA, Kronos; guards of Kronos; Drilling poisoned our water; POK",72
+833,ABILA; Tethyn; Edvard Vann; Tethys; Worldwise; 2014/01/20; GAStech; Kronos; POK; Centrum,50
+834,Silvia Marek; Elian Karel; Abila; hospital general of Abila; police force of Abila; Juliana Vann; Carman Adrien; 2010/06/22; police force; the last summer; Worldwise; Kronos; POK,68
+835,"2011/07/29; Rufus Drymiau; ABILA, Kronos; President Kapelou; Worldwise; POK",30
+836,ABILA; oil; Minster Nespola; Abila; Last year; hospital in Abila; Nespola; doctors; Worldwise; Kronos; 1999/07/05; gas,52
+837,"2005/04/08; three hours; 9 hours of the morning; Parliament; second hour; Tiskele; Rufus Drymiau; 5:30 hour of the morning; police force; Hardenings; Worldwise; ABILA, Kronos; POK",77
+838,ABILA; HQ of GAStech; Abila; Sten Sanjorge Jr.; Sanjorge; 2014/01/21; 20th year; Tethys; President Kapelou; Worldwise; GAStech; Kronos; press conference,60
+839,"1993/01/20; The government; Kronosians; President Araullo; 20 years; Parliament; Tiskele; Worldwise; ABILA, Kronos; ministry for interior",55
+840,"10%; President Kapelou; General meeting; gas; 23; end of this year; Worldwise; ABILA, Kronos; medical education; oil; foreign investment; health; energy; 2001/03/18; rural sectors; Parliament; 77; rural suburbs; water",72
+841,ABILA; Zone of Vandalize Siopa; Siopa; 2011/06/21; Worldwise; Kronos; POK,33
+842,ABILA; President Araullo; 2001/06/15; 1995; Minister for health; Science in chemistry; university of central Tethys; 2000; Vincent Kapelou; President Kapelou; Cesare Nespola; Worldwise; Kronos,66
+843,"Kapelou; 2012/06/22; Elodis; ABILA, Kronos; President Kapelou; Worldwise; POK",32
+844,ABILA; oil and gas layers; foreign companies; Elian Karel; Elodis; Carman Adrien; Worldwise; Tens of the protestateurs; employees of GAStech; Rufus Drymiau; President Kapelou; 2009/02/20; GAStech; Kronos; POK,83
+845,ABILA; Elian Karel; Michale Kraft; Carman Adrien; guards of activist of Kronos; 2009/03/13; Worldwise; Kronos,55
+846,"presidential manor; Institute of the statistics; teargas; 2012/06/21; hospital general of Abila; Abila; shotguns; water guns; capitol; bean bags; ABILA, Kronos; police force; pepper jet; Worldwise; POK",57

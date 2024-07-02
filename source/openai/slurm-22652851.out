@@ -1,0 +1,60 @@
+Loading miniconda version 22.11.1-1
+(924, 8)
+Task Description:
+The task is to extract Relations between the Entity List for given text, in the form of triplets. Extract triplets from the given Text based solely on the relationships present in the text. Ensure that entities are chosen directly from the provided Entity List to maintain accuracy. Avoid duplicating triplets in the output. Use the provided Example Text and Relations Output as references to understand how to identify meaningful relationships between entities from Entity List. Pay attention to all potential relations between all the entities and include them in the output.
+
+Example Text 1: Udawalawe National Park lies on the boundary of Sabaragamuwa and Uva Provinces, in Sri Lanka. The national park was created to provide a sanctuary for wild animals displaced by the construction of the Udawalawe Reservoir on the Walawe River, as well as to protect the catchment of the reservoir. The reserve covers of land area and was established on 30 June 1972. Before the designation of the national park, the area was used for shifting cultivation (chena farming). The farmers were gradually removed once the national park was declared. The park is from Colombo. Udawalawe is an important habitat for water birds and Sri Lankan elephants. It is a popular tourist destination and the third most visited park in the country. 
+Entity List of Text 1: Udawalawe Reservoir; Walawe River; Sri Lanka; 30 June 1972; Sabaragamuwa; Uva Provinces; Udawalawe National Park; Colombo
+Relations Output of Text 1: Sabaragamuwa | located in the administrative territorial entity | Sri Lanka
+Sabaragamuwa | country | Sri Lanka
+Sri Lanka | contains administrative territorial entity | Sabaragamuwa
+Sri Lanka | contains administrative territorial entity | Uva Provinces
+Walawe River | country | Sri Lanka
+Udawalawe National Park | located in the administrative territorial entity | Sabaragamuwa
+Udawalawe National Park | country | Sri Lanka
+Udawalawe National Park | inception | 30 June 1972
+Colombo | country | Sri Lanka
+Udawalawe Reservoir | country | Sri Lanka
+Uva Provinces | country | Sri Lanka
+Uva Provinces | located in the administrative territorial entity | Sri Lanka
+Walawe River | located in the administrative territorial entity | Sri Lanka
+Udawalawe National Park | located in the administrative territorial entity | Sri Lanka
+Colombo | located in the administrative territorial entity | Sri Lanka
+Udawalawe Reservoir | located in the administrative territorial entity | Sri Lanka
+
+
+Example Text 2: The Road to Ruin is a 1970 album released by husband and wife John and Beverley Martyn. It was the second (and last) album released as a duo. Island Records persuaded John Martyn to resume his solo career as they believed that the public was more interested in John as a solo artist rather than as part of a duo. The album marked the first collaboration on record between John and bassist Danny Thompson, who featured on many of Martyn's subsequent recordings. The album's first track " Primrose Hill " written and sung by Beverley Martyn, and featuring Ray Warleigh on saxophone, about the simple joys of domesticity, was extensively sampled by Fatboy Slim for the track " North West Three " from his 2004 album Palookaville. 
+Entity List of Text 2: Island Records; Primrose Hill; 2004; Fatboy Slim; Beverley Martyn; The Road to Ruin; 1970; Palookaville; John; Road to Ruin; Martyn; Danny Thompson
+Relations Output of Text 2: John | record label | Island Records
+John | spouse | Beverley Martyn
+Beverley Martyn | spouse | John
+Beverley Martyn | record label | Island Records
+Beverley Martyn | spouse | Martyn
+Road to Ruin | publication date | 1970
+Road to Ruin | record label | Island Records
+Martyn | record label | Island Records
+Palookaville | publication date | 2004
+Palookaville | performer | Fatboy Slim
+Primrose Hill | performer | Beverley Martyn
+Primrose Hill | part of | The Road to Ruin
+The Road to Ruin | publication date | 1970
+Primrose Hill | publication date | 1970
+The Road to Ruin | performer | Martyn
+Danny Thompson | record label | Island Records
+Primrose Hill | record label | Island Records
+Road to Ruin | performer | John
+The Road to Ruin | performer | John
+The Road to Ruin | record label | Island Records
+Martyn | spouse | Beverley Martyn
+Fatboy Slim | notable work | Palookaville
+Beverley Martyn | notable work | Primrose Hill
+The Road to Ruin | has part | Primrose Hill
+Martyn | notable work | The Road to Ruin
+John | notable work | Road to Ruin
+John | notable work | The Road to Ruin
+
+
+Text: text
+Entity List: entities
+Relations Output:
+  0%|          | 0/924 [00:00<?, ?it/s] 41%|████      | 378/924 [16:03<23:11,  2.55s/it] 41%|████      | 379/924 [17:53<26:49,  2.95s/it] 41%|████      | 380/924 [19:48<32:14,  3.56s/it] 41%|████      | 381/924 [21:14<37:48,  4.18s/it] 41%|████▏     | 382/924 [24:02<53:34,  5.93s/it] 41%|████▏     | 383/924 [34:18<2:16:31, 15.14s/it] 42%|████▏     | 384/924 [35:40<2:28:56, 16.55s/it] 42%|████▏     | 385/924 [40:35<3:41:41, 24.68s/it] 42%|████▏     | 386/924 [58:20<9:55:31, 66.42s/it] 42%|████▏     | 387/924 [1:08:36<14:20:59, 96.20s/it] 42%|████▏     | 388/924 [1:09:48<14:03:40, 94.44s/it] 42%|████▏     | 389/924 [1:11:22<14:02:27, 94.48s/it] 42%|████▏     | 390/924 [1:34:57<37:00:03, 249.45s/it] 42%|████▏     | 391/924 [1:36:11<33:12:08, 224.26s/it] 42%|████▏     | 392/924 [1:36:52<28:31:43, 193.05s/it] 43%|████▎     | 393/924 [1:38:30<25:43:50, 174.45s/it] 43%|████▎     | 394/924 [1:39:06<21:13:01, 144.12s/it] 43%|████▎     | 395/924 [1:55:52<51:18:19, 349.15s/it] 43%|████▎     | 396/924 [2:06:35<62:08:24, 423.68s/it] 43%|████▎     | 397/924 [2:07:34<47:49:37, 326.71s/it] 43%|████▎     | 398/924 [2:10:54<42:38:46, 291.87s/it] 43%|████▎     | 399/924 [2:16:05<43:20:38, 297.22s/it] 43%|████▎     | 400/924 [2:27:04<58:22:57, 401.10s/it] 43%|████▎     | 401/924 [2:28:28<44:52:01, 308.84s/it] 44%|████▎     | 402/924 [2:29:54<35:18:27, 243.50s/it] 44%|████▎     | 403/924 [2:30:27<26:13:18, 181.19s/it] 44%|████▎     | 404/924 [2:32:18<23:10:18, 160.42s/it] 44%|████▍     | 405/924 [2:33:00<18:03:19, 125.24s/it] 44%|████▍     | 406/924 [2:34:17<15:55:13, 110.64s/it] 44%|████▍     | 407/924 [2:50:42<53:26:24, 372.12s/it] 44%|████▍     | 408/924 [3:02:49<68:33:11, 478.28s/it] 44%|████▍     | 409/924 [3:11:54<71:15:52, 498.16s/it] 44%|████▍     | 410/924 [3:13:35<54:08:25, 379.19s/it] 44%|████▍     | 411/924 [3:14:56<41:18:46, 289.92s/it] 45%|████▍     | 412/924 [3:38:22<88:49:03, 624.50s/it] 45%|████▍     | 413/924 [3:41:08<69:06:47, 486.90s/it] 45%|████▍     | 414/924 [4:03:41<105:47:18, 746.74s/it] 45%|████▍     | 415/924 [4:32:41<147:42:26, 1044.69s/it] 45%|████▌     | 416/924 [4:34:44<108:24:31, 768.25s/it]  45%|████▌     | 417/924 [4:36:04<79:08:00, 561.89s/it]  45%|████▌     | 418/924 [5:01:59<120:48:55, 859.56s/it] 45%|████▌     | 419/924 [5:17:58<124:45:55, 889.42s/it] 45%|████▌     | 420/924 [5:19:37<91:21:00, 652.50s/it]  46%|████▌     | 421/924 [5:21:35<68:44:02, 491.93s/it] 46%|████▌     | 422/924 [5:23:24<52:36:28, 377.27s/it] 46%|████▌     | 423/924 [5:31:41<57:30:06, 413.19s/it] 46%|████▌     | 424/924 [5:33:20<44:17:27, 318.89s/it] 46%|████▌     | 425/924 [5:35:11<35:32:22, 256.40s/it] 46%|████▌     | 426/924 [5:36:30<28:05:57, 203.13s/it] 46%|████▌     | 427/924 [5:51:42<57:26:06, 416.03s/it] 46%|████▋     | 428/924 [5:59:43<59:58:48, 435.34s/it] 46%|████▋     | 429/924 [6:01:50<47:09:27, 342.96s/it] 47%|████▋     | 430/924 [6:04:31<39:34:20, 288.38s/it] 47%|████▋     | 431/924 [6:06:16<31:57:21, 233.35s/it] 47%|████▋     | 432/924 [6:20:36<57:34:52, 421.33s/it] 47%|████▋     | 433/924 [6:23:24<47:04:46, 345.19s/it] 47%|████▋     | 434/924 [6:32:14<54:31:30, 400.59s/it] 47%|████▋     | 435/924 [6:35:18<45:36:55, 335.82s/it] 47%|████▋     | 436/924 [6:37:02<36:05:01, 266.19s/it] 47%|████▋     | 437/924 [6:47:18<50:12:50, 371.19s/it] 47%|████▋     | 438/924 [6:56:16<56:52:35, 421.31s/it] 48%|████▊     | 439/924 [7:04:11<58:54:46, 437.29s/it] 48%|████▊     | 440/924 [7:06:16<46:12:26, 343.69s/it] 48%|████▊     | 441/924 [7:21:05<68:02:28, 507.14s/it] 48%|████▊     | 442/924 [7:22:24<50:42:54, 378.79s/it] 48%|████▊     | 443/924 [7:23:44<38:37:45, 289.12s/it] 48%|████▊     | 444/924 [7:38:19<61:59:17, 464.91s/it] 48%|████▊     | 445/924 [7:40:00<47:20:36, 355.82s/it] 48%|████▊     | 446/924 [7:41:21<36:16:12, 273.16s/it] 48%|████▊     | 447/924 [7:42:17<27:35:04, 208.19s/it] 48%|████▊     | 448/924 [7:56:25<52:54:20, 400.13s/it] 49%|████▊     | 449/924 [7:58:26<41:45:07, 316.44s/it] 49%|████▊     | 450/924 [8:00:08<33:11:53, 252.14s/it] 49%|████▉     | 451/924 [8:02:19<28:20:07, 215.66s/it] 49%|████▉     | 452/924 [8:03:29<22:32:08, 171.88s/it] 49%|████▉     | 453/924 [8:11:24<34:24:56, 263.05s/it] 49%|████▉     | 454/924 [8:12:37<26:52:45, 205.88s/it] 49%|████▉     | 455/924 [8:20:07<36:20:46, 278.99s/it] 49%|████▉     | 456/924 [8:21:47<29:17:20, 225.30s/it] 49%|████▉     | 457/924 [8:29:09<37:39:57, 290.36s/it] 50%|████▉     | 458/924 [8:30:35<29:38:35, 229.00s/it] 50%|████▉     | 459/924 [8:32:10<24:25:19, 189.08s/it] 50%|████▉     | 460/924 [8:34:04<21:26:43, 166.39s/it] 50%|████▉     | 461/924 [8:34:42<16:27:10, 127.93s/it] 50%|█████     | 462/924 [8:41:49<27:56:29, 217.73s/it] 50%|█████     | 463/924 [8:42:48<21:45:21, 169.90s/it] 50%|█████     | 464/924 [8:43:37<17:04:17, 133.60s/it] 50%|█████     | 465/924 [8:44:30<13:58:14, 109.58s/it] 50%|█████     | 466/924 [8:46:23<14:02:58, 110.43s/it] 51%|█████     | 467/924 [8:47:35<12:34:43, 99.09s/it]  51%|█████     | 468/924 [9:00:49<38:56:58, 307.50s/it] 51%|█████     | 469/924 [9:02:51<31:50:38, 251.95s/it] 51%|█████     | 470/924 [9:12:32<44:12:40, 350.57s/it] 51%|█████     | 471/924 [9:16:03<38:50:38, 308.69s/it] 51%|█████     | 472/924 [9:17:46<31:01:27, 247.10s/it] 51%|█████     | 473/924 [9:21:28<30:00:12, 239.49s/it] 51%|█████▏    | 474/924 [9:29:42<39:28:36, 315.81s/it] 51%|█████▏    | 475/924 [9:32:36<34:05:57, 273.40s/it] 52%|█████▏    | 476/924 [9:34:38<28:22:21, 227.99s/it] 52%|█████▏    | 477/924 [9:35:24<21:31:47, 173.39s/it] 52%|█████▏    | 478/924 [9:48:19<43:50:10, 353.83s/it] 52%|█████▏    | 479/924 [9:55:03<45:34:09, 368.65s/it] 52%|█████▏    | 480/924 [9:56:08<34:15:48, 277.81s/it] 52%|█████▏    | 481/924 [9:57:02<25:54:20, 210.52s/it] 52%|█████▏    | 482/924 [10:03:47<32:59:47, 268.75s/it] 52%|█████▏    | 483/924 [10:09:59<36:44:42, 299.96s/it] 52%|█████▏    | 484/924 [10:19:11<45:54:16, 375.58s/it] 52%|█████▏    | 485/924 [10:20:37<35:11:14, 288.55s/it] 53%|█████▎    | 486/924 [10:27:48<40:18:16, 331.27s/it] 53%|█████▎    | 487/924 [10:29:18<31:27:07, 259.10s/it] 53%|█████▎    | 488/924 [10:36:46<38:12:47, 315.52s/it] 53%|█████▎    | 489/924 [10:38:23<30:13:19, 250.11s/it] 53%|█████▎    | 490/924 [10:45:06<35:39:59, 295.85s/it] 53%|█████▎    | 491/924 [10:46:24<27:44:18, 230.62s/it] 53%|█████▎    | 492/924 [10:53:29<34:40:57, 289.02s/it] 53%|█████▎    | 493/924 [10:55:57<29:30:26, 246.47s/it] 53%|█████▎    | 494/924 [10:58:06<25:14:14, 211.29s/it] 54%|█████▎    | 495/924 [11:09:35<42:14:52, 354.53s/it] 54%|█████▎    | 496/924 [11:10:27<31:22:01, 263.83s/it] 54%|█████▍    | 497/924 [11:12:06<25:26:28, 214.49s/it] 54%|█████▍    | 498/924 [11:13:07<19:55:47, 168.42s/it] 54%|█████▍    | 499/924 [11:15:54<19:49:45, 167.97s/it] 54%|█████▍    | 500/924 [11:17:39<17:32:53, 148.99s/it] 54%|█████▍    | 501/924 [11:19:50<16:52:57, 143.68s/it]100%|██████████| 924/924 [11:19:50<00:00, 44.15s/it]    

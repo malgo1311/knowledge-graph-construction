@@ -1,0 +1,60 @@
+Loading miniconda version 22.11.1-1
+(924, 8)
+Task Description:
+The task is to extract Relations between the Entity List for given text, in the form of triplets. Extract triplets from the given Text based solely on the relationships present in the text. Ensure that entities are chosen directly from the provided Entity List to maintain accuracy. Avoid duplicating triplets in the output. Use the provided Example Text and Relations Output as references to understand how to identify meaningful relationships between entities from Entity List. Pay attention to all potential relations between all the entities and include them in the output.
+
+Example Text 1: Udawalawe National Park lies on the boundary of Sabaragamuwa and Uva Provinces, in Sri Lanka. The national park was created to provide a sanctuary for wild animals displaced by the construction of the Udawalawe Reservoir on the Walawe River, as well as to protect the catchment of the reservoir. The reserve covers of land area and was established on 30 June 1972. Before the designation of the national park, the area was used for shifting cultivation (chena farming). The farmers were gradually removed once the national park was declared. The park is from Colombo. Udawalawe is an important habitat for water birds and Sri Lankan elephants. It is a popular tourist destination and the third most visited park in the country. 
+Entity List of Text 1: Sri Lanka; Colombo; Sabaragamuwa; Udawalawe Reservoir; Uva Provinces; Walawe River; Udawalawe National Park; 30 June 1972
+Relations Output of Text 1: Sabaragamuwa | located in the administrative territorial entity | Sri Lanka
+Sabaragamuwa | country | Sri Lanka
+Sri Lanka | contains administrative territorial entity | Sabaragamuwa
+Sri Lanka | contains administrative territorial entity | Uva Provinces
+Walawe River | country | Sri Lanka
+Udawalawe National Park | located in the administrative territorial entity | Sabaragamuwa
+Udawalawe National Park | country | Sri Lanka
+Udawalawe National Park | inception | 30 June 1972
+Colombo | country | Sri Lanka
+Udawalawe Reservoir | country | Sri Lanka
+Uva Provinces | country | Sri Lanka
+Uva Provinces | located in the administrative territorial entity | Sri Lanka
+Walawe River | located in the administrative territorial entity | Sri Lanka
+Udawalawe National Park | located in the administrative territorial entity | Sri Lanka
+Colombo | located in the administrative territorial entity | Sri Lanka
+Udawalawe Reservoir | located in the administrative territorial entity | Sri Lanka
+
+
+Example Text 2: The Road to Ruin is a 1970 album released by husband and wife John and Beverley Martyn. It was the second (and last) album released as a duo. Island Records persuaded John Martyn to resume his solo career as they believed that the public was more interested in John as a solo artist rather than as part of a duo. The album marked the first collaboration on record between John and bassist Danny Thompson, who featured on many of Martyn's subsequent recordings. The album's first track " Primrose Hill " written and sung by Beverley Martyn, and featuring Ray Warleigh on saxophone, about the simple joys of domesticity, was extensively sampled by Fatboy Slim for the track " North West Three " from his 2004 album Palookaville. 
+Entity List of Text 2: Primrose Hill; Fatboy Slim; Martyn; Beverley Martyn; Road to Ruin; Palookaville; 1970; Island Records; Danny Thompson; John; The Road to Ruin; 2004
+Relations Output of Text 2: John | record label | Island Records
+John | spouse | Beverley Martyn
+Beverley Martyn | spouse | John
+Beverley Martyn | record label | Island Records
+Beverley Martyn | spouse | Martyn
+Road to Ruin | publication date | 1970
+Road to Ruin | record label | Island Records
+Martyn | record label | Island Records
+Palookaville | publication date | 2004
+Palookaville | performer | Fatboy Slim
+Primrose Hill | performer | Beverley Martyn
+Primrose Hill | part of | The Road to Ruin
+The Road to Ruin | publication date | 1970
+Primrose Hill | publication date | 1970
+The Road to Ruin | performer | Martyn
+Danny Thompson | record label | Island Records
+Primrose Hill | record label | Island Records
+Road to Ruin | performer | John
+The Road to Ruin | performer | John
+The Road to Ruin | record label | Island Records
+Martyn | spouse | Beverley Martyn
+Fatboy Slim | notable work | Palookaville
+Beverley Martyn | notable work | Primrose Hill
+The Road to Ruin | has part | Primrose Hill
+Martyn | notable work | The Road to Ruin
+John | notable work | Road to Ruin
+John | notable work | The Road to Ruin
+
+
+Text: text
+Entity List: entities
+Relations Output:
+  0%|          | 0/924 [00:00<?, ?it/s] 99%|█████████▉| 913/924 [24:26<00:17,  1.61s/it] 99%|█████████▉| 914/924 [26:25<00:17,  1.79s/it] 99%|█████████▉| 915/924 [27:44<00:17,  1.96s/it] 99%|█████████▉| 916/924 [29:40<00:18,  2.32s/it] 99%|█████████▉| 917/924 [49:52<00:54,  7.78s/it] 99%|█████████▉| 918/924 [51:07<00:49,  8.21s/it] 99%|█████████▉| 919/924 [53:17<00:46,  9.32s/it]100%|█████████▉| 920/924 [1:01:45<01:02, 15.68s/it]100%|█████████▉| 921/924 [1:03:31<00:51, 17.31s/it]100%|█████████▉| 922/924 [1:04:51<00:37, 18.87s/it]100%|█████████▉| 923/924 [1:08:43<00:26, 26.22s/it]100%|██████████| 924/924 [1:17:06<00:00, 48.56s/it]100%|██████████| 924/924 [1:17:06<00:00,  5.01s/it]
