@@ -1,0 +1,12 @@
+INFO:root:Starting..
+INFO:root:Train data
+INFO:root:Categories - 16 - ['Airport', 'Artist', 'Astronaut', 'Athlete', 'Building', 'CelestialBody', 'City', 'ComicsCharacter', 'Company', 'Food', 'MeanOfTransportation', 'Monument', 'Politician', 'SportsTeam', 'University', 'WrittenWork']
+INFO:root:Samples - 13211 - {1: 3195, 2: 2472, 3: 2735, 4: 2549, 5: 1879, 6: 203, 7: 178}
+INFO:root:Test data
+INFO:root:Skipping test file - rdf-to-text-generation-test-data-without-refs-en.xml
+INFO:root:Skipping test file - semantic-parsing-test-data-with-refs-en.xml
+INFO:root:Categories - 19 - ['Airport', 'Artist', 'Astronaut', 'Athlete', 'Building', 'CelestialBody', 'City', 'ComicsCharacter', 'Company', 'Film', 'Food', 'MeanOfTransportation', 'Monument', 'MusicalWork', 'Politician', 'Scientist', 'SportsTeam', 'University', 'WrittenWork']
+INFO:root:Samples - 1779 - {1: 369, 2: 349, 3: 350, 4: 305, 5: 213, 6: 114, 7: 79}
+INFO:root:Dev data
+INFO:root:Categories - 16 - ['Airport', 'Artist', 'Astronaut', 'Athlete', 'Building', 'CelestialBody', 'City', 'ComicsCharacter', 'Company', 'Food', 'MeanOfTransportation', 'Monument', 'Politician', 'SportsTeam', 'University', 'WrittenWork']
+INFO:root:Samples - 1667 - {1: 403, 2: 313, 3: 346, 4: 320, 5: 238, 6: 25, 7: 22}

@@ -1,0 +1,107 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/strict.dtd">
+
+<html>
+
+<head>
+  <title>TAC Relation Extraction Dataset</title>
+  <meta http-equiv="Content-type" content="text/html/css;charset=UTF-8">
+  <meta name="description" content="Documentation for TAC Relation Extraction Dataset">
+  <meta name="keywords" content="Linguistic Data Consortium">
+  <meta name="keywords" content="LDC">
+  <meta name="keywords" content="Documentation">
+  <meta name="keywords" content="TAC Relation Extraction Dataset">
+  <style type="text/css">
+  		body{
+  			background-color: #ffffff;
+  			color: #000000;
+  		}
+  		a:link{color : #990000;}
+  		a:visited{color:#990000;}
+  		a:active {color:#990000;}
+  		h1{
+			text-align:center;
+			color:#990000; 			
+  		}
+  		h3.subtitle{
+			text-align:center;
+			color:#990000;
+		}
+  		ul{
+  			line-height:130%;
+  		}
+  		p.footer{
+  			font-size:0.85em;
+  		}
+  		
+  </style>
+</head>
+
+<body>
+
+    
+<h1>TAC Relation Extraction Dataset</h1>
+<h3 class="subtitle">LDC2018T24</h3>
+
+
+    <h3>Introduction</h3> 
+
+    
+<p>TAC Relation Extraction Dataset (TACRED), Linguistic 
+  Data Consortium (LDC) catalog number LDC2018T24 and ISBN 1-58563-869-2, was 
+  developed by <a href="https://nlp.stanford.edu/">The Stanford NLP Group</a>
+  and is a large-scale relation extraction dataset with 106,264 examples built
+  over English newswire and web text used in the NIST <a href="https://www.ldc.upenn.edu/collaborations/current-projects/tac-kbp">TAC KBP</a> English slot filling evaluations during the period 2009-2014. The annotations were derived from TAC KBP relation types (see 
+  <a href="https://tac.nist.gov/2017/KBP/ColdStart/guidelines.html">the guidelines</a>), from human annotations developed by LDC and from crowdsourcing using <a href="https://www.mturk.com/">Mechanical Turk</a>. </p>
+<h3>Data</h3>
+<p>In each year of the slot filling evaluation, 100 entities (people or organizations) were given as queries (i.e., subjects), for which participating systems should find associated relations and object entities. All sentences judged in the TAC KBP evaluation and a sampling of other sentences that contain the query entities in the evaluation corpus form TACRED. Each sentence was crowd-annotated using Mechanical Turk, where each turk annotator was asked to annotate the subject and object entity spans and the corresponding relation.</p>
+<p>Data is presented in both CoNLL and JSON format, both encoded in UTF-8. Scoring tools and gold relation labels are also included. Source corpora used for this dataset were TAC KBP Comprehensive English Source Corpora 2009-2014
+(<a href="https://catalog.ldc.upenn.edu/LDC2018T03">LDC2018T03</a>) and 
+TAC KBP English Regular Slot Filling - Comprehensive Training and Evaluation Data 2009-2014
+(<a href="https://catalog.ldc.upenn.edu/LDC2018T22">LDC2018T22</a>).</p>
+<p>For detailed information about the dataset and benchmark results, please refer to <a href="https://nlp.stanford.edu/pubs/zhang2017tacred.pdf">the TACRED paper</a>.</p>
+    
+<h3>Directory Structure</h3>
+
+    <p>Please see <a href="docs/file.tbl">file.tbl</a> for a complete file list as well as checksums for this publication.</p>
+
+	<ul>
+  <li><a href="data/">data/</a> - Contains the data, subdivided 
+  by format.</li>
+ <li>
+	<a href="docs/">docs/</a> - Contains additional documentation, a paper
+	written on the corpus, and a file table.
+ </li>
+
+</ul>  
+
+    <h3>Updates</h3>   
+
+    <p>
+		Additional information, updates, bug fixes may be available in the LDC
+   	catalog entry for this corpus at <a
+    	href="http://www.ldc.upenn.edu/Catalog/CatalogEntry.jsp?catalogId=LDC2018T24">LDC2018T24</a>.
+    </p>
+
+    <h3>Content Copyright</h3>   
+    
+<p> Portions   © 1994-1997, 2001-2010 Agence France Presse, © 2005 Aljazeera, © 1996-1997  American Broadcasting Corporation, © 1994-2010 The Associated Press, ©  1994-1997 Cable News Network, LP, LLLP, © 1997-1999, 2001, 2003-2010 Central  News Agency (Taiwan), © 2005 Dubai TV, © 2005-2006 National Broadcasting  Company, Inc., © 1996-1997 National Cable Satellite Corporation, © 1994-1998,  2003-2009 Los Angeles Times - Washington Post News Service, Inc., © 1994-2010  New York Times, © 1996-1997 Public Radio International, © 1994-1995 Reuters  America, Inc., © 1996 The University of California, USC Radio and Marketplace,  © 2010 The Washington Post Service with Bloomberg News, © 1995-2010 Xinhua News  Agency, © 2018 The Board of Trustees of the Leland Stanford Junior University, © 1996-1998, 2007, 2008, 2009, 2011, 2014, 2018 Trustees of the  University of Pennsylvania</p>
+    <hr>
+
+	<p class="footer">
+    
+    Contact: <a href="mailto:ldc@ldc.upenn.edu">
+
+    <b>ldc@ldc.upenn.edu</b></a><br> &copy; 2018 <A
+    HREF="http://www.ldc.upenn.edu">
+
+    <b>Linguistic Data Consortium</b></a>,
+    <a href="http://www.upenn.edu">
+
+    <b>Trustees of the University of Pennsylvania</b></a>. All Rights Reserved.
+    </p>
+
+</body>
+
+</html>
+
